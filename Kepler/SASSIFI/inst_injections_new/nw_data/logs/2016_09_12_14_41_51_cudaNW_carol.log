@@ -1,0 +1,11 @@
+#HEADER max_rows:2048 max_cols:2048 penalty:10
+#BEGIN Y:2016 M:09 D:12 Time:14:41:51
+#IT Ite:0 KerTime:0.294748 AccTime:0.294748
+#ERR Error detected! kerrors = 5
+#ERR  p: [1907, 997], r: -7277, e: -7273, error: 1
+#ERR  p: [1908, 997], r: -7287, e: -7283, error: 2
+#ERR  p: [1909, 997], r: -7296, e: -7293, error: 3
+#ERR  p: [1910, 997], r: -7306, e: -7303, error: 4
+#ERR  p: [1911, 997], r: -7315, e: -7313, error: 5
+#SDC Ite:0 KerTime:0.294748 AccTime:0.294748 KerErr:5 AccErr:5
+#END

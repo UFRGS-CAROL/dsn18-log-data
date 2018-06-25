@@ -1,0 +1,52 @@
+#HEADER size:1048576
+#BEGIN Y:2016 M:09 D:12 Time:22:28:06
+#IT Ite:0 KerTime:2.791053 AccTime:2.791053
+#ERR The histogram from element 340797 differs. srcHist=0 dstHist=1
+
+#ERR The histogram from element 911555201 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 911790235 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 911800579 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 911921915 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 911974165 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 912026642 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 912130496 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 912146272 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 912212972 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 912265441 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 912267058 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 912267831 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 912271351 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 912304095 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 912307067 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 912308389 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 912317999 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 912556940 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 447607740 differs. srcHist=1 dstHist=2
+
+#ERR Elements not ordered. index=445326 911552556>447607740
+#ERR Elements not ordered. index=445429 911799126>911790235
+#ERR Elements not ordered. index=445489 911921367>340797
+#ERR Elements not ordered. index=445522 912146272>911975793
+#ERR Elements not ordered. index=445537 912212972>912006795
+#ERR Elements not ordered. index=445652 912262793>912130496
+#ERR Elements not ordered. index=445682 912323340>912267058
+#ERR Elements not ordered. index=445686 912556940>912323648
+#ERR The link between Val and Key arrays in incorrect. index=445251 wrong_key=911400773 val=43866 correct_key_pointed_by_val=909219296

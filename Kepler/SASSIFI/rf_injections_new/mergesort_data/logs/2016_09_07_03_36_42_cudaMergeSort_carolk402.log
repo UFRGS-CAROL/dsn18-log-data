@@ -1,0 +1,14 @@
+#HEADER size:1048576
+#BEGIN Y:2016 M:09 D:07 Time:03:36:42
+#IT Ite:0 KerTime:3.510148 AccTime:3.510148
+#ERR The link between Val and Key arrays in incorrect. index=270105 wrong_key=552380377 val=433711 correct_key_pointed_by_val=1087172912
+#ERR The link between Val and Key arrays in incorrect. index=553928 wrong_key=1133679575 val=434008 correct_key_pointed_by_val=163170323
+#ERR The link between Val and Key arrays in incorrect. index=573075 wrong_key=1173342234 val=434081 correct_key_pointed_by_val=227089605
+#ERR The link between Val and Key arrays in incorrect. index=90322 wrong_key=185775987 val=433695 correct_key_pointed_by_val=613560697
+#ERR The link between Val and Key arrays in incorrect. index=90974 wrong_key=187123751 val=434062 correct_key_pointed_by_val=194130302
+#ERR The link between Val and Key arrays in incorrect. index=109582 wrong_key=225215236 val=433665 correct_key_pointed_by_val=427166121
+#ERR The link between Val and Key arrays in incorrect. index=397577 wrong_key=813640836 val=433684 correct_key_pointed_by_val=1639046211
+#ERR The link between Val and Key arrays in incorrect. index=182058 wrong_key=372529926 val=433695 correct_key_pointed_by_val=613560697
+#ERR The link between Val and Key arrays in incorrect. index=212079 wrong_key=433906648 val=433684 correct_key_pointed_by_val=1639046211
+#SDC Ite:0 KerTime:3.510148 AccTime:3.510148 KerErr:9 AccErr:9
+#END

@@ -1,0 +1,11 @@
+#HEADER size:1048576
+#BEGIN Y:2016 M:09 D:13 Time:17:53:58
+#IT Ite:0 KerTime:3.579872 AccTime:3.579872
+#ERR The histogram from element 2029032228 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 2029943754 differs. srcHist=1 dstHist=0
+
+#ERR Elements not ordered. index=991357 2029391289>2029388507
+#ERR Elements not ordered. index=991461 2029650234>2029646288
+#SDC Ite:0 KerTime:3.579872 AccTime:3.579872 KerErr:4 AccErr:4
+#END

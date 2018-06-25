@@ -1,0 +1,60 @@
+#HEADER size:1048576
+#BEGIN Y:2016 M:09 D:07 Time:02:27:05
+#IT Ite:0 KerTime:2.954774 AccTime:2.954774
+#ERR The histogram from element 810201 differs. srcHist=0 dstHist=1
+
+#ERR The histogram from element 821716 differs. srcHist=0 dstHist=1
+
+#ERR The histogram from element 821791 differs. srcHist=0 dstHist=1
+
+#ERR The histogram from element 1483807979 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1483815398 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1483928627 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1483946788 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1483953362 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1483955662 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1483964338 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1483967617 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1483973856 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1483977235 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1484000335 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1484023733 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1484034659 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1484036102 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1484039648 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1485125893 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1485186051 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1485235057 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1485303988 differs. srcHist=1 dstHist=2
+
+#ERR Elements not ordered. index=724406 1483953365>1483936762
+#ERR Elements not ordered. index=724408 1483942789>821791
+#ERR Elements not ordered. index=724410 1483950341>821716
+#ERR Elements not ordered. index=724411 821716>810201
+#ERR Elements not ordered. index=724413 1483954128>1483936122
+#ERR Elements not ordered. index=724417 1483977235>1483969146
+#ERR Elements not ordered. index=724420 1484000335>1483970884
+#ERR Elements not ordered. index=724421 1483970884>1483955713
+#ERR Elements not ordered. index=724423 1484023733>1483970523
+#ERR Elements not ordered. index=724427 1484039648>1483977235
+#ERR Elements not ordered. index=724987 1485303988>1485153358
+#ERR Elements not ordered. index=725003 1485235057>1485187173
+#ERR The link between Val and Key arrays in incorrect. index=724409 wrong_key=821791 val=729720 correct_key_pointed_by_val=1408931965

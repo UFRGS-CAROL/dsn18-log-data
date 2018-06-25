@@ -1,0 +1,52 @@
+#HEADER size:1048576
+#BEGIN Y:2016 M:09 D:07 Time:01:56:44
+#IT Ite:0 KerTime:2.955465 AccTime:2.955465
+#ERR The histogram from element 713439627 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 713439914 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 719592249 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 773641028 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 773737050 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 773753736 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 773782631 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 773828916 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 773890874 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 773903316 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 773911310 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 773978484 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 774003315 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 774098523 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 774108688 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 774137949 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 948824486 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 950358000 differs. srcHist=1 dstHist=2
+
+#ERR Elements not ordered. index=377993 773753699>773752935
+#ERR Elements not ordered. index=377994 773752935>713439627
+#ERR Elements not ordered. index=378011 948824486>773783435
+#ERR Elements not ordered. index=378083 773899192>773641028
+#ERR Elements not ordered. index=378118 773976925>773828916
+#ERR Elements not ordered. index=378129 774001710>719592249
+#ERR Elements not ordered. index=378179 774092693>773890874
+#ERR Elements not ordered. index=378187 774110399>773911310
+#ERR Elements not ordered. index=378200 950358000>774138258
+#ERR The link between Val and Key arrays in incorrect. index=378084 wrong_key=773641028 val=875658 correct_key_pointed_by_val=773903316
+#ERR The link between Val and Key arrays in incorrect. index=378119 wrong_key=773828916 val=950187 correct_key_pointed_by_val=773978484
+#SDC Ite:0 KerTime:2.955465 AccTime:2.955465 KerErr:29 AccErr:29
+#END

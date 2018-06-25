@@ -1,0 +1,60 @@
+#HEADER size:1048576
+#BEGIN Y:2016 M:09 D:13 Time:00:19:50
+#IT Ite:0 KerTime:2.790080 AccTime:2.790080
+#ERR The histogram from element 2011698747 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 2011736061 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 2011758241 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 2011763081 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 2011770706 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 2011772848 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 2011796200 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 2011799047 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 2011806990 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 2011807605 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 2011927200 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 2011955510 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 2011964111 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 2011966712 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 2011967082 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 2011974913 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 2011995500 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 2011998181 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 2012004891 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 2012008568 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 2012118021 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 2012396746 differs. srcHist=1 dstHist=2
+
+#ERR Elements not ordered. index=982210 2011927200>2011794700
+#ERR Elements not ordered. index=982288 2011954144>2011698747
+#ERR Elements not ordered. index=982290 2011957236>2011957058
+#ERR Elements not ordered. index=982293 2011978993>2011961499
+#ERR Elements not ordered. index=982297 2011994938>2011977665
+#ERR Elements not ordered. index=982298 2011977665>2011736061
+#ERR Elements not ordered. index=982303 2011991210>2011758241
+#ERR Elements not ordered. index=982316 2012016299>2011799047
+#ERR Elements not ordered. index=982319 2012013777>2011807605
+#ERR Elements not ordered. index=982362 2012396746>2012123054
+#ERR The link between Val and Key arrays in incorrect. index=982298 wrong_key=2011977665 val=49352 correct_key_pointed_by_val=2011998181
+#SDC Ite:0 KerTime:2.790080 AccTime:2.790080 KerErr:33 AccErr:33
+#END

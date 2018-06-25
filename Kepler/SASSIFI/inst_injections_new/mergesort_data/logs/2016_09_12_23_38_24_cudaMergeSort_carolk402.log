@@ -1,0 +1,60 @@
+#HEADER size:1048576
+#BEGIN Y:2016 M:09 D:12 Time:23:38:24
+#IT Ite:0 KerTime:2.792572 AccTime:2.792572
+#ERR The histogram from element 836728 differs. srcHist=0 dstHist=1
+
+#ERR The histogram from element 925209 differs. srcHist=0 dstHist=1
+
+#ERR The histogram from element 1021644 differs. srcHist=0 dstHist=1
+
+#ERR The histogram from element 1046918 differs. srcHist=0 dstHist=1
+
+#ERR The histogram from element 58214176 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 58222686 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 58234327 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 58234411 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 58239163 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 58447883 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 58451088 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 58453217 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 58458499 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 58462005 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 58468397 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 58475724 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 58485842 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 58497820 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 58638124 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 58659327 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 58705265 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1916943000 differs. srcHist=1 dstHist=2
+
+#ERR Elements not ordered. index=28436 58446124>58441318
+#ERR Elements not ordered. index=28441 58457625>58450407
+#ERR Elements not ordered. index=28444 58461316>58453266
+#ERR Elements not ordered. index=28447 58471537>58457604
+#ERR Elements not ordered. index=28451 58481065>58461273
+#ERR Elements not ordered. index=28452 58461273>925209
+#ERR Elements not ordered. index=28456 58465381>1046918
+#ERR Elements not ordered. index=28459 58471364>836728
+#ERR Elements not ordered. index=28462 58474855>58214176
+#ERR Elements not ordered. index=28464 58477286>58222686
+#ERR Elements not ordered. index=28475 58659327>58498331
+#ERR Elements not ordered. index=28538 58637143>58436479
+#ERR Elements not ordered. index=28566 1916943000>58706959

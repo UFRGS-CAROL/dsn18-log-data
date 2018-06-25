@@ -1,0 +1,49 @@
+#HEADER size:1048576
+#BEGIN Y:2016 M:09 D:12 Time:23:15:40
+#IT Ite:0 KerTime:2.791769 AccTime:2.791769
+#ERR The histogram from element 834438 differs. srcHist=0 dstHist=1
+
+#ERR The histogram from element 1019450 differs. srcHist=0 dstHist=1
+
+#ERR The histogram from element 852865571 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 852890464 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 852957799 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 853090034 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 853100502 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 853105129 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 853123650 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 853124654 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 853132847 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 853138152 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 853192870 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 853359573 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 853376220 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 853387051 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 853537952 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 853620364 differs. srcHist=1 dstHist=0
+
+#ERR Elements not ordered. index=416752 853090034>852959455
+#ERR Elements not ordered. index=416822 853359573>853102587
+#ERR Elements not ordered. index=416823 853102587>852865571
+#ERR Elements not ordered. index=416826 853387051>853106678
+#ERR Elements not ordered. index=416827 853106678>853100184
+#ERR Elements not ordered. index=416828 853100184>852890464
+#ERR Elements not ordered. index=416831 853119272>853106154
+#ERR Elements not ordered. index=416848 853192870>853142312
+#ERR Elements not ordered. index=417075 853635035>1019450
+#ERR Elements not ordered. index=417076 1019450>834438

@@ -1,0 +1,37 @@
+#HEADER size:1048576
+#BEGIN Y:2016 M:09 D:07 Time:07:38:15
+#IT Ite:0 KerTime:5.621994 AccTime:5.621994
+#ERR The histogram from element 1735904268 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1461380864 differs. srcHist=0 dstHist=1
+
+#ERR Elements not ordered. index=847711 1735217426>1461380864
+#ERR Elements not ordered. index=847715 1735221260>1735220701
+#ERR Elements not ordered. index=847719 1735229707>1735226089
+#ERR Elements not ordered. index=847727 1735241088>1735232575
+#ERR Elements not ordered. index=847731 1735242960>1735242837
+#ERR Elements not ordered. index=847743 1735261767>1735250099
+#ERR Elements not ordered. index=847747 1735268438>1735266462
+#ERR Elements not ordered. index=847751 1735279099>1735271817
+#ERR Elements not ordered. index=847755 1735281803>1735280488
+#ERR Elements not ordered. index=847757 1735291871>1735288511
+#ERR Elements not ordered. index=847839 1735449758>1735295161
+#ERR Elements not ordered. index=847843 1735456967>1735453575
+#ERR Elements not ordered. index=847871 1735489990>1735458070
+#ERR Elements not ordered. index=847875 1735511255>1735499858
+#ERR Elements not ordered. index=847887 1735531131>1735511403
+#ERR Elements not ordered. index=847889 1735537475>1735533549
+#ERR Elements not ordered. index=847895 1735545125>1735537630
+#ERR Elements not ordered. index=847897 1735547176>1735546468
+#ERR Elements not ordered. index=847967 1735728086>1735551904
+#ERR Elements not ordered. index=847969 1735737019>1735731359
+#ERR Elements not ordered. index=847999 1735789605>1735738103
+#ERR Elements not ordered. index=848003 1735794775>1735794010
+#ERR Elements not ordered. index=848007 1735804054>1735802892
+#ERR Elements not ordered. index=848015 1735815808>1735810163
+#ERR Elements not ordered. index=848017 1735817210>1735817065
+#ERR Elements not ordered. index=848031 1735848128>1735819912
+#ERR Elements not ordered. index=848039 1735871951>1735851166
+#ERR Elements not ordered. index=848047 1735892313>1735874430
+#SDC Ite:0 KerTime:5.621994 AccTime:5.621994 KerErr:30 AccErr:30
+#END

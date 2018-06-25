@@ -1,0 +1,56 @@
+#HEADER size:1048576
+#BEGIN Y:2016 M:09 D:12 Time:21:43:54
+#IT Ite:0 KerTime:2.789835 AccTime:2.789835
+#ERR The histogram from element 163443 differs. srcHist=0 dstHist=1
+
+#ERR The histogram from element 243940 differs. srcHist=0 dstHist=1
+
+#ERR The histogram from element 303456 differs. srcHist=0 dstHist=1
+
+#ERR The histogram from element 313329 differs. srcHist=0 dstHist=1
+
+#ERR The histogram from element 905868 differs. srcHist=0 dstHist=1
+
+#ERR The histogram from element 981972 differs. srcHist=0 dstHist=1
+
+#ERR The histogram from element 1081787304 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1081804584 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1081811557 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1081829780 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1081834383 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1081839230 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1081935347 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1081980276 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1082039212 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1082042346 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1082066864 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1082185480 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1082201092 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1082236775 differs. srcHist=1 dstHist=2
+
+#ERR Elements not ordered. index=528511 1081783958>1081782030
+#ERR Elements not ordered. index=528514 1081801304>1081788397
+#ERR Elements not ordered. index=528516 1081809402>1081792984
+#ERR Elements not ordered. index=528521 1081840531>243940
+#ERR Elements not ordered. index=528524 1081809029>981972
+#ERR Elements not ordered. index=528525 981972>905868
+#ERR Elements not ordered. index=528531 1081828555>163443
+#ERR Elements not ordered. index=528534 1081831911>303456
+#ERR Elements not ordered. index=528537 1082039212>1081844223
+#ERR Elements not ordered. index=528586 1081932171>1081773252
+#ERR Elements not ordered. index=528601 1082042346>1081979978
+#ERR Elements not ordered. index=528714 1082185342>1082066864
+#ERR Elements not ordered. index=528719 1082236775>1082191455

@@ -1,0 +1,24 @@
+#HEADER max_rows:2048 max_cols:2048 penalty:10
+#BEGIN Y:2016 M:09 D:12 Time:15:32:41
+#IT Ite:0 KerTime:0.294681 AccTime:0.294681
+#ERR Error detected! kerrors = 18
+#ERR  p: [1755, 1664], r: -1352, e: -1336, error: 1
+#ERR  p: [1756, 1665], r: -1347, e: -1337, error: 2
+#ERR  p: [1757, 1666], r: -1348, e: -1341, error: 3
+#ERR  p: [1758, 1667], r: -1349, e: -1342, error: 4
+#ERR  p: [1759, 1668], r: -1350, e: -1345, error: 5
+#ERR  p: [1760, 1669], r: -1350, e: -1345, error: 6
+#ERR  p: [1761, 1670], r: -1351, e: -1346, error: 7
+#ERR  p: [1762, 1671], r: -1351, e: -1346, error: 8
+#ERR  p: [1763, 1672], r: -1351, e: -1346, error: 9
+#ERR  p: [1764, 1673], r: -1352, e: -1350, error: 10
+#ERR  p: [1765, 1674], r: -1355, e: -1354, error: 11
+#ERR  p: [1766, 1675], r: -1355, e: -1354, error: 12
+#ERR  p: [1767, 1676], r: -1358, e: -1357, error: 13
+#ERR  p: [1768, 1677], r: -1361, e: -1360, error: 14
+#ERR  p: [1769, 1678], r: -1362, e: -1361, error: 15
+#ERR  p: [1770, 1679], r: -1362, e: -1361, error: 16
+#ERR  p: [1771, 1680], r: -1359, e: -1358, error: 17
+#ERR  p: [1772, 1681], r: -1363, e: -1362, error: 18
+#SDC Ite:0 KerTime:0.294681 AccTime:0.294681 KerErr:18 AccErr:18
+#END

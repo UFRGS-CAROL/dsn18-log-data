@@ -1,0 +1,17 @@
+#HEADER size:1048576
+#BEGIN Y:2016 M:09 D:12 Time:23:36:20
+#IT Ite:0 KerTime:2.791798 AccTime:2.791798
+#ERR The histogram from element 1747709392 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1826803549 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1827071191 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1827170291 differs. srcHist=1 dstHist=0
+
+#ERR Elements not ordered. index=891977 1827071014>1826803549
+#ERR Elements not ordered. index=892033 1827174689>1747709392
+#ERR Elements not ordered. index=892035 1827177431>1827175292
+#ERR The link between Val and Key arrays in incorrect. index=891978 wrong_key=1826803549 val=976682 correct_key_pointed_by_val=1827071191
+#SDC Ite:0 KerTime:2.791798 AccTime:2.791798 KerErr:8 AccErr:8
+#END

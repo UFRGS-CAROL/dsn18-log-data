@@ -1,0 +1,135 @@
+#HEADER size:1048576
+#BEGIN Y:2016 M:09 D:13 Time:17:55:20
+#IT Ite:0 KerTime:4.202530 AccTime:4.202530
+#ERR The histogram from element 610880679 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 610881914 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 610883202 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 610884903 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 610894048 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 610897334 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 610900987 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 610902301 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 610904139 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 610911151 differs. srcHist=1 dstHist=7
+
+#ERR The histogram from element 610911961 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 610914830 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 610914962 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 610915422 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 610915669 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 610916028 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 610918356 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 610920218 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 610930675 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 610930968 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 610932570 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 610936281 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 610937340 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 610940829 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 610947158 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 610950698 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 610951980 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 611495920 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 611496801 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 611532528 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 611546568 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 611560939 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 611612437 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 611635846 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 611638709 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 611653582 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 611673379 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 611674339 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 611690377 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 611694660 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 611727511 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 611733753 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 611744698 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 611753558 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 611779402 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 611795051 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 611815386 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 611863745 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 611864241 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 611865705 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 611883916 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 611896045 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 611897876 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 611911303 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 611921182 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 611924388 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 611931773 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 611933448 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 611943289 differs. srcHist=1 dstHist=0
+
+#ERR Elements not ordered. index=298791 610915422>610911151
+#ERR Elements not ordered. index=298795 610918356>610911961
+#ERR Elements not ordered. index=298803 610940829>610911151
+#ERR Elements not ordered. index=298807 610951980>610881914
+#ERR Elements not ordered. index=298871 611122295>610880679
+#ERR Elements not ordered. index=298935 611219854>611202456
+#ERR Elements not ordered. index=298999 611345543>611136853
+#ERR Elements not ordered. index=299063 611440897>611347708
+#ERR Elements not ordered. index=299095 611461623>611453715
+#ERR Elements not ordered. index=299127 611580904>611464868
+#ERR Elements not ordered. index=299159 611629492>611581255
+#ERR Elements not ordered. index=299191 611709778>611678915
+#SDC Ite:0 KerTime:4.202530 AccTime:4.202530 KerErr:71 AccErr:71
+#END

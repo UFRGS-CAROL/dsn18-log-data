@@ -1,0 +1,47 @@
+#HEADER size:1048576
+#BEGIN Y:2016 M:09 D:07 Time:08:46:18
+#IT Ite:0 KerTime:6.145083 AccTime:6.145083
+#ERR The histogram from element 1638626856 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1638646832 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1638708908 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1638732354 differs. srcHist=1 dstHist=0
+
+#ERR Elements not ordered. index=800379 1638403374>1638394539
+#ERR Elements not ordered. index=800387 1638421773>1638409174
+#ERR Elements not ordered. index=800393 1638424124>1638423822
+#ERR Elements not ordered. index=800395 1638437704>1638344460
+#ERR Elements not ordered. index=800399 1638429569>1638424312
+#ERR Elements not ordered. index=800411 1638474377>1638430101
+#ERR Elements not ordered. index=800413 1638475700>1638475204
+#ERR Elements not ordered. index=800419 1638481127>1638478509
+#ERR Elements not ordered. index=800423 1638489182>1638485073
+#ERR Elements not ordered. index=800427 1638495048>1638489963
+#ERR Elements not ordered. index=800431 1638499414>1638499211
+#ERR Elements not ordered. index=800433 1638505630>1638502035
+#ERR Elements not ordered. index=800435 1638506640>1638506582
+#ERR Elements not ordered. index=800437 1638511796>1638510568
+#ERR Elements not ordered. index=800439 1638518060>1638515831
+#ERR Elements not ordered. index=800441 1638518659>1638518486
+#ERR Elements not ordered. index=800443 1638522107>1638521701
+#ERR Elements not ordered. index=800447 1638530914>1638525305
+#ERR Elements not ordered. index=800451 1638541574>1638535572
+#ERR Elements not ordered. index=800455 1638550293>1638543177
+#ERR Elements not ordered. index=800459 1638558821>1638551540
+#ERR Elements not ordered. index=800465 1638565650>1638562489
+#ERR Elements not ordered. index=800467 1638589039>1638566847
+#ERR Elements not ordered. index=800475 1638610387>1638589699
+#ERR Elements not ordered. index=800491 1638632039>1638626856
+#ERR Elements not ordered. index=800499 1638643903>1638632500
+#ERR Elements not ordered. index=800523 1638674713>1638509428
+#ERR Elements not ordered. index=800527 1638686832>1638681130
+#ERR Elements not ordered. index=800529 1638690016>1638689934
+#ERR Elements not ordered. index=800531 1638693643>1638692481
+#ERR Elements not ordered. index=800533 1638698872>1638695788
+#ERR Elements not ordered. index=800535 1638715556>1638714631
+#ERR Elements not ordered. index=800539 -1>1638695100
+#ERR Elements not ordered. index=800544 -1>1638738340
+#SDC Ite:0 KerTime:6.145083 AccTime:6.145083 KerErr:38 AccErr:38
+#END

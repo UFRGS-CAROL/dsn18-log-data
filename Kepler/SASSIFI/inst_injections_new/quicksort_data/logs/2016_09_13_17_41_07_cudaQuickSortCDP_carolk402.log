@@ -1,0 +1,29 @@
+#HEADER size:1048576
+#BEGIN Y:2016 M:09 D:13 Time:17:41:07
+#IT Ite:0 KerTime:3.898288 AccTime:3.898288
+#ERR The histogram from element 1790564353 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element -1718822144 differs. srcHist=0 dstHist=1
+
+#ERR Elements not ordered. index=874816 1790601175>1790598051
+#ERR Elements not ordered. index=874820 1790614428>1790604969
+#ERR Elements not ordered. index=874840 1790656808>1790656610
+#ERR Elements not ordered. index=874854 1790695540>1790694447
+#ERR Elements not ordered. index=874856 1790700464>1790698579
+#ERR Elements not ordered. index=874886 1790758208>1790750979
+#ERR Elements not ordered. index=874904 1790791870>1790791414
+#ERR Elements not ordered. index=874944 1790867371>1790865181
+#ERR Elements not ordered. index=874950 1790874000>1790873283
+#ERR Elements not ordered. index=874952 1790877450>1790876547
+#ERR Elements not ordered. index=874956 1790886348>1790878570
+#ERR Elements not ordered. index=874962 1790889968>1790889672
+#ERR Elements not ordered. index=874980 1790927666>1790927503
+#ERR Elements not ordered. index=874982 1790928846>1790928528
+#ERR Elements not ordered. index=874988 1790944769>1790940919
+#ERR Elements not ordered. index=874992 1790951101>1790946390
+#ERR Elements not ordered. index=874996 1790961634>1790953044
+#ERR Elements not ordered. index=875002 1790966609>1790964307
+#ERR Elements not ordered. index=875004 1790975147>1790969529
+#ERR Elements not ordered. index=875023 -1718822144>1791014491
+#SDC Ite:0 KerTime:3.898288 AccTime:3.898288 KerErr:22 AccErr:22
+#END

@@ -1,0 +1,78 @@
+#HEADER size:1048576
+#BEGIN Y:2016 M:09 D:13 Time:15:06:29
+#IT Ite:0 KerTime:3.950850 AccTime:3.950850
+#ERR The histogram from element 677106464 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 677107957 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 677123248 differs. srcHist=1 dstHist=4
+
+#ERR The histogram from element 677185420 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 677292085 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 677370309 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 677435739 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 677486080 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 677526408 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 677578325 differs. srcHist=1 dstHist=0
+
+#ERR Elements not ordered. index=331427 677107957>677107448
+#ERR Elements not ordered. index=331429 677111676>677107957
+#ERR Elements not ordered. index=331431 677113930>677113752
+#ERR Elements not ordered. index=331439 677123248>677122945
+#ERR Elements not ordered. index=331445 677130691>677130501
+#ERR Elements not ordered. index=331449 677140184>677125822
+#ERR Elements not ordered. index=331451 677135346>677133333
+#ERR Elements not ordered. index=331457 677155008>677123248
+#ERR Elements not ordered. index=331463 677171443>677167387
+#ERR Elements not ordered. index=331469 677184612>677175409
+#ERR Elements not ordered. index=331473 677191363>677173276
+#ERR Elements not ordered. index=331477 677194992>677192535
+#ERR Elements not ordered. index=331481 677203357>677200499
+#ERR Elements not ordered. index=331487 677215583>677213969
+#ERR Elements not ordered. index=331491 677370309>677220001
+#ERR Elements not ordered. index=331501 677249479>677245707
+#ERR Elements not ordered. index=331503 677251561>677250761
+#ERR Elements not ordered. index=331505 677272876>677252423
+#ERR Elements not ordered. index=331507 677271873>677266893
+#ERR Elements not ordered. index=331509 677272353>677254816
+#ERR Elements not ordered. index=331515 677285098>677283376
+#ERR Elements not ordered. index=331517 677288316>677287557
+#ERR Elements not ordered. index=331521 677294674>677215884
+#ERR Elements not ordered. index=331529 677305701>677295682
+#ERR Elements not ordered. index=331537 677336103>677307804
+#ERR Elements not ordered. index=331539 677344549>677339855
+#ERR Elements not ordered. index=331541 677347135>677344915
+#ERR Elements not ordered. index=331543 677349404>677346466
+#ERR Elements not ordered. index=331545 677355357>677353369
+#ERR Elements not ordered. index=331547 677359671>677357618
+#ERR Elements not ordered. index=331553 677375066>677368805
+#ERR Elements not ordered. index=331557 677380533>677378775
+#ERR Elements not ordered. index=331561 677389839>677387093
+#ERR Elements not ordered. index=331565 677397888>677393305
+#ERR Elements not ordered. index=331571 677409270>677407506
+#ERR Elements not ordered. index=331573 677417632>677413183
+#ERR Elements not ordered. index=331577 677427783>677418176
+#ERR Elements not ordered. index=331585 677440161>677392156
+#ERR Elements not ordered. index=331593 677445764>677434274
+#ERR Elements not ordered. index=331597 677452445>677449727
+#ERR Elements not ordered. index=331609 677479477>677464220
+#ERR Elements not ordered. index=331611 677474442>677465524
+#ERR Elements not ordered. index=331617 677522943>677496158
+#ERR Elements not ordered. index=331625 677510854>677500528
+#ERR Elements not ordered. index=331627 677514509>677513557
+#ERR Elements not ordered. index=331633 677520276>677519640
+#ERR Elements not ordered. index=331641 677529452>677528535
+#ERR Elements not ordered. index=331649 -1>677532800
+#ERR Elements not ordered. index=331651 677540072>677537854
+#ERR Elements not ordered. index=331653 677546089>677544842
+#ERR Elements not ordered. index=331655 677552370>677549030
+#ERR Elements not ordered. index=331657 677560234>677558275
+#ERR Elements not ordered. index=331664 -1>677578587
+#SDC Ite:0 KerTime:3.950850 AccTime:3.950850 KerErr:63 AccErr:63
+#END

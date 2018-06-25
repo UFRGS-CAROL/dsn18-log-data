@@ -1,0 +1,47 @@
+#HEADER size:1048576
+#BEGIN Y:2016 M:09 D:13 Time:02:12:27
+#IT Ite:0 KerTime:2.791323 AccTime:2.791323
+#ERR The histogram from element 559706 differs. srcHist=0 dstHist=1
+
+#ERR The histogram from element 581025 differs. srcHist=0 dstHist=1
+
+#ERR The histogram from element 761156 differs. srcHist=0 dstHist=1
+
+#ERR The histogram from element 1009301 differs. srcHist=0 dstHist=1
+
+#ERR The histogram from element 7611250 differs. srcHist=0 dstHist=1
+
+#ERR The histogram from element 1309614088 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1309712981 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1309713584 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1309739473 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1309745240 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1309759437 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1309761167 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1309846919 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1309857185 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1309885495 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1310172255 differs. srcHist=1 dstHist=2
+
+#ERR Elements not ordered. index=639821 1309608328>7611250
+#ERR Elements not ordered. index=639870 1309706557>761156
+#ERR Elements not ordered. index=639872 1309712559>1009301
+#ERR Elements not ordered. index=639873 1009301>581025
+#ERR Elements not ordered. index=639875 1309714543>559706
+#ERR Elements not ordered. index=639877 1309722082>1309711142
+#ERR Elements not ordered. index=639880 1309735533>1309715563
+#ERR Elements not ordered. index=639884 1309744175>1309741702
+#ERR Elements not ordered. index=639950 1309852484>1309852478
+#ERR Elements not ordered. index=639951 1309852478>1309759437
+#ERR Elements not ordered. index=639963 1310172255>1309886516
+#ERR The link between Val and Key arrays in incorrect. index=639822 wrong_key=7611250 val=960247 correct_key_pointed_by_val=1309846919

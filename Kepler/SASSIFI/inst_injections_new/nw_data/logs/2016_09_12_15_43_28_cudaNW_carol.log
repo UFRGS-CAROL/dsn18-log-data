@@ -1,0 +1,24 @@
+#HEADER max_rows:2048 max_cols:2048 penalty:10
+#BEGIN Y:2016 M:09 D:12 Time:15:43:28
+#IT Ite:0 KerTime:0.294376 AccTime:0.294376
+#ERR Error detected! kerrors = 18
+#ERR  p: [321, 776], r: -3755, e: -3750, error: 1
+#ERR  p: [322, 777], r: -3755, e: -3751, error: 2
+#ERR  p: [322, 778], r: -3762, e: -3761, error: 3
+#ERR  p: [322, 779], r: -3772, e: -3771, error: 4
+#ERR  p: [323, 778], r: -3756, e: -3752, error: 5
+#ERR  p: [323, 779], r: -3762, e: -3761, error: 6
+#ERR  p: [323, 780], r: -3772, e: -3771, error: 7
+#ERR  p: [324, 779], r: -3756, e: -3755, error: 8
+#ERR  p: [324, 780], r: -3762, e: -3761, error: 9
+#ERR  p: [324, 781], r: -3767, e: -3766, error: 10
+#ERR  p: [324, 782], r: -3777, e: -3776, error: 11
+#ERR  p: [325, 781], r: -3764, e: -3763, error: 12
+#ERR  p: [325, 782], r: -3768, e: -3767, error: 13
+#ERR  p: [325, 783], r: -3778, e: -3777, error: 14
+#ERR  p: [326, 783], r: -3771, e: -3770, error: 15
+#ERR  p: [326, 784], r: -3780, e: -3779, error: 16
+#ERR  p: [327, 784], r: -3775, e: -3774, error: 17
+#ERR  p: [327, 785], r: -3782, e: -3781, error: 18
+#SDC Ite:0 KerTime:0.294376 AccTime:0.294376 KerErr:18 AccErr:18
+#END

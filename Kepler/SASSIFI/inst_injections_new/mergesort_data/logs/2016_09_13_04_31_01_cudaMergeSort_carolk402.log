@@ -1,0 +1,34 @@
+#HEADER size:1048576
+#BEGIN Y:2016 M:09 D:13 Time:04:31:01
+#IT Ite:0 KerTime:2.790289 AccTime:2.790289
+#ERR The histogram from element 582397 differs. srcHist=0 dstHist=1
+
+#ERR The histogram from element 732052 differs. srcHist=0 dstHist=1
+
+#ERR The histogram from element 929251 differs. srcHist=0 dstHist=1
+
+#ERR The histogram from element 1359739408 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1359765782 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1360362893 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1360374199 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1360381102 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1360386022 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1360395030 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1360538952 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1360539042 differs. srcHist=1 dstHist=2
+
+#ERR Elements not ordered. index=664104 1359765782>1359739383
+#ERR Elements not ordered. index=664427 1360371983>1360368536
+#ERR Elements not ordered. index=664430 1360539042>1360374338
+#ERR Elements not ordered. index=664447 1360406130>732052
+#ERR Elements not ordered. index=664449 1360401739>929251
+#ERR Elements not ordered. index=664450 929251>582397
+#ERR The link between Val and Key arrays in incorrect. index=664428 wrong_key=1360368536 val=390797 correct_key_pointed_by_val=1360374199

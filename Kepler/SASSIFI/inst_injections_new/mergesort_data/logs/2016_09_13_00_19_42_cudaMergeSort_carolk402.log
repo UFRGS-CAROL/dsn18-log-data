@@ -1,0 +1,72 @@
+#HEADER size:1048576
+#BEGIN Y:2016 M:09 D:13 Time:00:19:42
+#IT Ite:0 KerTime:2.791275 AccTime:2.791275
+#ERR The histogram from element 1939664158 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1939665619 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 2015586257 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 2015853194 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 2015881189 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 2015885267 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 2015887000 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 2015894237 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 2015915025 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 2015917473 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 2015919583 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 2015919588 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 2015922239 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 2015923513 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 2015936961 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 2015953612 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 2015957014 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 2015965475 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 2015968930 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 2016018319 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 2016037740 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 2016039515 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 2016040132 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 2016062869 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 2016066279 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 2016078696 differs. srcHist=1 dstHist=2
+
+#ERR Elements not ordered. index=984144 2015852224>2015586257
+#ERR Elements not ordered. index=984154 2015917473>2015869884
+#ERR Elements not ordered. index=984156 2015923513>2015871813
+#ERR Elements not ordered. index=984158 2015933221>2015877131
+#ERR Elements not ordered. index=984159 2015877131>2015876742
+#ERR Elements not ordered. index=984161 2015879902>2015867631
+#ERR Elements not ordered. index=984169 2015957014>2015887811
+#ERR Elements not ordered. index=984171 2015965475>2015888784
+#ERR Elements not ordered. index=984190 2016018319>2015926821
+#ERR Elements not ordered. index=984196 2015940383>1939664158
+#ERR Elements not ordered. index=984199 2015968930>2015941355
+#ERR Elements not ordered. index=984252 2016047400>2016041660
+#ERR Elements not ordered. index=984256 2016078696>2016047437
+#ERR The link between Val and Key arrays in incorrect. index=984202 wrong_key=2015953612 val=447497 correct_key_pointed_by_val=2015915025
+#ERR Unstability detected at index=984202 key=2015953612 val[i]=447497 val[i+1]=430150
+#SDC Ite:0 KerTime:2.791275 AccTime:2.791275 KerErr:41 AccErr:41
+#END

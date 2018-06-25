@@ -1,0 +1,7 @@
+#HEADER streams: 1 boxes:10 block_size:192
+#BEGIN Y:2016 M:09 D:03 Time:00:18:16
+#IT Ite:0 KerTime:87.386177 AccTime:87.386177
+#ERR stream: 0, p: [97716], ea: 4, v_r: inf, v_e: 2.0545396153059319e+03, x_r: inf, x_e: 1.7002088492511025e+03, y_r: -nan, y_e: 1.7114838068303193e+03, z_r: -nan, z_e: -1.0845411969129570e+03
+
+#SDC Ite:0 KerTime:87.386177 AccTime:87.386177 KerErr:1 AccErr:1
+#END

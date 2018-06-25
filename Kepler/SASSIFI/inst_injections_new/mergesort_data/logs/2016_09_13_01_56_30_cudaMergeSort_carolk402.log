@@ -1,0 +1,22 @@
+#HEADER size:1048576
+#BEGIN Y:2016 M:09 D:13 Time:01:56:30
+#IT Ite:0 KerTime:2.790754 AccTime:2.790754
+#ERR The histogram from element 220917254 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 220927970 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 220958391 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 220976476 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 221133234 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 2124726145 differs. srcHist=1 dstHist=2
+
+#ERR Elements not ordered. index=107424 220925754>220924278
+#ERR Elements not ordered. index=107426 220958391>220929405
+#ERR Elements not ordered. index=107431 220943512>220940259
+#ERR Elements not ordered. index=107434 220976476>220944168
+#ERR Elements not ordered. index=107532 2124726145>221137045
+#SDC Ite:0 KerTime:2.790754 AccTime:2.790754 KerErr:11 AccErr:11
+#END

@@ -1,0 +1,65 @@
+#HEADER size:1048576
+#BEGIN Y:2016 M:09 D:13 Time:01:07:28
+#IT Ite:0 KerTime:2.683255 AccTime:2.683255
+#ERR The histogram from element 623309538 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 623312809 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 623312962 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 623319454 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 926069143 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 926090989 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 926097108 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 990680349 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 990687171 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 990714612 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 990722977 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 990725998 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 990731619 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 990771219 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 990801749 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 990807608 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 990815290 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 990859609 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 990862818 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 990876824 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 990877872 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 990879514 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 990900539 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 990904896 differs. srcHist=1 dstHist=0
+
+#ERR Elements not ordered. index=483901 990687171>990686919
+#ERR Elements not ordered. index=483909 990714612>990695808
+#ERR Elements not ordered. index=483912 990725998>990706430
+#ERR Elements not ordered. index=483915 990751205>990716528
+#ERR Elements not ordered. index=483920 990783564>990722977
+#ERR Elements not ordered. index=483922 990805892>990725998
+#ERR Elements not ordered. index=483924 990813003>990727723
+#ERR Elements not ordered. index=483926 990825509>623309538
+#ERR Elements not ordered. index=483999 990874079>926069143
+#ERR Elements not ordered. index=484001 990881564>990874979
+#ERR Elements not ordered. index=484007 990890814>926090989
+#ERR Elements not ordered. index=484011 990888773>926097108
+#SDC Ite:0 KerTime:2.683255 AccTime:2.683255 KerErr:36 AccErr:36
+#END

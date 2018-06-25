@@ -1,0 +1,37 @@
+#HEADER size:1048576
+#BEGIN Y:2016 M:09 D:07 Time:04:11:46
+#IT Ite:0 KerTime:2.955378 AccTime:2.955378
+#ERR The histogram from element 530749205 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 530758257 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 530763146 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 530771317 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 623397688 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 623402963 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 623410818 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 623424210 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 623683746 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 623711757 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 623823144 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element -295957504 differs. srcHist=0 dstHist=1
+
+#ERR Elements not ordered. index=304423 623399590>623398715
+#ERR Elements not ordered. index=304426 623408067>530749205
+#ERR Elements not ordered. index=304431 623423298>530758257
+#ERR Elements not ordered. index=304435 623426744>530763146
+#ERR Elements not ordered. index=304437 623425855>530771317
+#ERR Elements not ordered. index=304567 623711757>623691574
+#ERR Elements not ordered. index=304628 -295957504>623825732
+#ERR The link between Val and Key arrays in incorrect. index=304628 wrong_key=-295957504 val=882152 correct_key_pointed_by_val=623397688
+#SDC Ite:0 KerTime:2.955378 AccTime:2.955378 KerErr:20 AccErr:20
+#END

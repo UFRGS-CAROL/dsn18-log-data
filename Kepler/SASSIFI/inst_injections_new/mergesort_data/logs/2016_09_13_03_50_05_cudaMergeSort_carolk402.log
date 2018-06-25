@@ -1,0 +1,52 @@
+#HEADER size:1048576
+#BEGIN Y:2016 M:09 D:13 Time:03:50:05
+#IT Ite:0 KerTime:2.792274 AccTime:2.792274
+#ERR The histogram from element 942729 differs. srcHist=0 dstHist=1
+
+#ERR The histogram from element 1026454 differs. srcHist=0 dstHist=1
+
+#ERR The histogram from element 1328538124 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1328543213 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1328553140 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1328828391 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1329281364 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1329284737 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1329286331 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1329286559 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1329286881 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1329291855 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1329309603 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1329360095 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1329412892 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1329418872 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1329439395 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1329439733 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1329462857 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element -1006925056 differs. srcHist=0 dstHist=1
+
+#ERR Elements not ordered. index=648926 1328549804>1328548863
+#ERR Elements not ordered. index=648928 1328549533>1328543213
+#ERR Elements not ordered. index=648930 1328828391>1328559343
+#ERR Elements not ordered. index=649253 1329283959>942729
+#ERR Elements not ordered. index=649255 1329290053>1026454
+#ERR Elements not ordered. index=649262 1329360095>1329301260
+#ERR Elements not ordered. index=649267 1329308840>1329303040
+#ERR Elements not ordered. index=649272 1329439733>1329314323
+#ERR Elements not ordered. index=649347 -1006925056>1329466063

@@ -1,0 +1,44 @@
+#HEADER max_rows:2048 max_cols:2048 penalty:10
+#BEGIN Y:2016 M:09 D:12 Time:15:19:08
+#IT Ite:0 KerTime:0.294811 AccTime:0.294811
+#ERR Error detected! kerrors = 38
+#ERR  p: [664, 233], r: -3706, e: -3698, error: 1
+#ERR  p: [665, 233], r: -3710, e: -3708, error: 2
+#ERR  p: [665, 234], r: -3704, e: -3700, error: 3
+#ERR  p: [666, 233], r: -3720, e: -3718, error: 4
+#ERR  p: [666, 234], r: -3711, e: -3709, error: 5
+#ERR  p: [666, 235], r: -3704, e: -3701, error: 6
+#ERR  p: [667, 234], r: -3721, e: -3719, error: 7
+#ERR  p: [667, 235], r: -3712, e: -3710, error: 8
+#ERR  p: [668, 235], r: -3722, e: -3720, error: 9
+#ERR  p: [668, 236], r: -3712, e: -3710, error: 10
+#ERR  p: [669, 236], r: -3722, e: -3720, error: 11
+#ERR  p: [669, 237], r: -3712, e: -3710, error: 12
+#ERR  p: [670, 237], r: -3720, e: -3718, error: 13
+#ERR  p: [670, 238], r: -3713, e: -3711, error: 14
+#ERR  p: [671, 238], r: -3713, e: -3711, error: 15
+#ERR  p: [672, 238], r: -3723, e: -3721, error: 16
+#ERR  p: [672, 239], r: -3714, e: -3712, error: 17
+#ERR  p: [673, 238], r: -3733, e: -3731, error: 18
+#ERR  p: [673, 239], r: -3724, e: -3722, error: 19
+#ERR  p: [673, 240], r: -3714, e: -3712, error: 20
+#ERR  p: [674, 239], r: -3734, e: -3732, error: 21
+#ERR  p: [674, 240], r: -3724, e: -3722, error: 22
+#ERR  p: [674, 241], r: -3716, e: -3714, error: 23
+#ERR  p: [675, 239], r: -3744, e: -3742, error: 24
+#ERR  p: [675, 240], r: -3734, e: -3732, error: 25
+#ERR  p: [675, 241], r: -3726, e: -3724, error: 26
+#ERR  p: [675, 242], r: -3717, e: -3715, error: 27
+#ERR  p: [676, 240], r: -3744, e: -3742, error: 28
+#ERR  p: [676, 241], r: -3734, e: -3732, error: 29
+#ERR  p: [676, 242], r: -3727, e: -3725, error: 30
+#ERR  p: [676, 243], r: -3719, e: -3717, error: 31
+#ERR  p: [677, 241], r: -3744, e: -3742, error: 32
+#ERR  p: [677, 242], r: -3734, e: -3732, error: 33
+#ERR  p: [677, 243], r: -3727, e: -3725, error: 34
+#ERR  p: [678, 242], r: -3744, e: -3742, error: 35
+#ERR  p: [678, 243], r: -3735, e: -3733, error: 36
+#ERR  p: [679, 243], r: -3745, e: -3743, error: 37
+#ERR  p: [680, 244], r: -3744, e: -3742, error: 38
+#SDC Ite:0 KerTime:0.294811 AccTime:0.294811 KerErr:38 AccErr:38
+#END

@@ -1,0 +1,12 @@
+#HEADER max_rows:2048 max_cols:2048 penalty:10
+#BEGIN Y:2016 M:09 D:12 Time:14:54:58
+#IT Ite:0 KerTime:0.295189 AccTime:0.295189
+#ERR Error detected! kerrors = 6
+#ERR  p: [1726, 1999], r: -2254, e: -2251, error: 1
+#ERR  p: [1726, 2000], r: -2264, e: -2261, error: 2
+#ERR  p: [1726, 2001], r: -2273, e: -2271, error: 3
+#ERR  p: [1726, 2002], r: -2283, e: -2281, error: 4
+#ERR  p: [1726, 2003], r: -2293, e: -2291, error: 5
+#ERR  p: [1726, 2004], r: -2302, e: -2301, error: 6
+#SDC Ite:0 KerTime:0.295189 AccTime:0.295189 KerErr:6 AccErr:6
+#END

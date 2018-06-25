@@ -1,0 +1,36 @@
+#HEADER size:1048576
+#BEGIN Y:2016 M:09 D:13 Time:02:54:24
+#IT Ite:0 KerTime:2.792602 AccTime:2.792602
+#ERR The histogram from element 1807889079 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1808074733 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1808185567 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1808289850 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1808463747 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1808692423 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1808786726 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1808823077 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1808826232 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1809004748 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1809005439 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1809045755 differs. srcHist=1 dstHist=0
+
+#ERR Elements not ordered. index=882898 1808182641>1807889079
+#ERR Elements not ordered. index=882941 1808463747>1808272814
+#ERR Elements not ordered. index=883144 1808690730>1808074733
+#ERR Elements not ordered. index=883192 1809005439>1808778247
+#ERR Elements not ordered. index=883280 1808975910>1808823077
+#ERR Elements not ordered. index=883296 1809013292>1809013235
+#ERR The link between Val and Key arrays in incorrect. index=882798 wrong_key=1807961966 val=1040838 correct_key_pointed_by_val=1807426663
+#SDC Ite:0 KerTime:2.792602 AccTime:2.792602 KerErr:19 AccErr:19
+#END

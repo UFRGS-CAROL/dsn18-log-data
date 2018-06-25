@@ -1,0 +1,21 @@
+#HEADER max_rows:2048 max_cols:2048 penalty:10
+#BEGIN Y:2016 M:09 D:12 Time:14:52:04
+#IT Ite:0 KerTime:0.294429 AccTime:0.294429
+#ERR Error detected! kerrors = 15
+#ERR  p: [583, 786], r: -1528, e: -1520, error: 1
+#ERR  p: [584, 787], r: -1524, e: -1521, error: 2
+#ERR  p: [584, 788], r: -1533, e: -1531, error: 3
+#ERR  p: [585, 788], r: -1524, e: -1521, error: 4
+#ERR  p: [585, 789], r: -1533, e: -1531, error: 5
+#ERR  p: [586, 789], r: -1526, e: -1523, error: 6
+#ERR  p: [586, 790], r: -1534, e: -1532, error: 7
+#ERR  p: [587, 790], r: -1527, e: -1524, error: 8
+#ERR  p: [587, 791], r: -1531, e: -1529, error: 9
+#ERR  p: [588, 791], r: -1526, e: -1523, error: 10
+#ERR  p: [588, 792], r: -1532, e: -1530, error: 11
+#ERR  p: [589, 792], r: -1526, e: -1525, error: 12
+#ERR  p: [589, 793], r: -1533, e: -1531, error: 13
+#ERR  p: [590, 794], r: -1536, e: -1534, error: 14
+#ERR  p: [591, 795], r: -1537, e: -1535, error: 15
+#SDC Ite:0 KerTime:0.294429 AccTime:0.294429 KerErr:15 AccErr:15
+#END

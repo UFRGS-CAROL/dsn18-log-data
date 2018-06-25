@@ -1,0 +1,49 @@
+#HEADER size:1048576
+#BEGIN Y:2016 M:09 D:13 Time:15:17:45
+#IT Ite:0 KerTime:4.448775 AccTime:4.448775
+#ERR The histogram from element 298001045 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 299049621 differs. srcHist=0 dstHist=1
+
+#ERR Elements not ordered. index=145995 298017219>298011638
+#ERR Elements not ordered. index=146003 298047179>298024902
+#ERR Elements not ordered. index=146019 298092198>298051317
+#ERR Elements not ordered. index=146035 298128668>298093565
+#ERR Elements not ordered. index=146051 298133909>298130528
+#ERR Elements not ordered. index=146067 298264561>298160791
+#ERR Elements not ordered. index=146115 298276162>298274181
+#ERR Elements not ordered. index=146123 298307680>298292077
+#ERR Elements not ordered. index=146129 298312387>298307866
+#ERR Elements not ordered. index=146131 298452071>298312601
+#ERR Elements not ordered. index=146195 298613791>298459083
+#ERR Elements not ordered. index=146271 298619438>298613959
+#ERR Elements not ordered. index=146275 298647895>298622123
+#ERR Elements not ordered. index=146287 298651934>298649083
+#ERR Elements not ordered. index=146291 298658249>298656534
+#ERR Elements not ordered. index=146297 298668041>298663228
+#ERR Elements not ordered. index=146299 298677197>298673093
+#ERR Elements not ordered. index=146303 298683524>298681354
+#ERR Elements not ordered. index=146307 298709598>298684681
+#ERR Elements not ordered. index=146323 298741449>298721372
+#ERR Elements not ordered. index=146333 298746396>298745106
+#ERR Elements not ordered. index=146335 298748682>298748100
+#ERR Elements not ordered. index=146337 298749984>298749446
+#ERR Elements not ordered. index=146341 298751852>298750206
+#ERR Elements not ordered. index=146343 298753103>298752577
+#ERR Elements not ordered. index=146345 298762045>298756519
+#ERR Elements not ordered. index=146347 298765824>298762176
+#ERR Elements not ordered. index=146351 298777248>298772163
+#ERR Elements not ordered. index=146355 298812314>298778056
+#ERR Elements not ordered. index=146377 298816656>298813684
+#ERR Elements not ordered. index=146379 298846876>298822732
+#ERR Elements not ordered. index=146387 298877320>298849103
+#ERR Elements not ordered. index=146405 298888121>298886737
+#ERR Elements not ordered. index=146409 298910869>298910448
+#ERR Elements not ordered. index=146411 298912596>298911407
+#ERR Elements not ordered. index=146413 298918867>298915092
+#ERR Elements not ordered. index=146415 298923845>298923541
+#ERR Elements not ordered. index=146417 298929959>298924123
+#ERR Elements not ordered. index=146419 298992837>298931542
+#ERR Elements not ordered. index=146451 299049621>299003926
+#SDC Ite:0 KerTime:4.448775 AccTime:4.448775 KerErr:42 AccErr:42
+#END

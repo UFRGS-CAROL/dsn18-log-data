@@ -1,0 +1,18 @@
+#HEADER max_rows:2048 max_cols:2048 penalty:10
+#BEGIN Y:2016 M:09 D:12 Time:15:45:18
+#IT Ite:0 KerTime:0.295126 AccTime:0.295126
+#ERR Error detected! kerrors = 12
+#ERR  p: [1298, 2001], r: -5310, e: -5298, error: 1
+#ERR  p: [1299, 2002], r: -5312, e: -5300, error: 2
+#ERR  p: [1300, 2003], r: -5311, e: -5299, error: 3
+#ERR  p: [1300, 2004], r: -5310, e: -5309, error: 4
+#ERR  p: [1301, 2004], r: -5311, e: -5300, error: 5
+#ERR  p: [1301, 2005], r: -5310, e: -5309, error: 6
+#ERR  p: [1302, 2005], r: -5312, e: -5301, error: 7
+#ERR  p: [1302, 2006], r: -5313, e: -5311, error: 8
+#ERR  p: [1303, 2006], r: -5309, e: -5301, error: 9
+#ERR  p: [1303, 2007], r: -5316, e: -5311, error: 10
+#ERR  p: [1303, 2008], r: -5322, e: -5321, error: 11
+#ERR  p: [1304, 2009], r: -5323, e: -5322, error: 12
+#SDC Ite:0 KerTime:0.295126 AccTime:0.295126 KerErr:12 AccErr:12
+#END

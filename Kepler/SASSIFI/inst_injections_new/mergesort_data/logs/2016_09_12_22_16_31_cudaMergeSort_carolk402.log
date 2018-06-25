@@ -1,0 +1,96 @@
+#HEADER size:1048576
+#BEGIN Y:2016 M:09 D:12 Time:22:16:31
+#IT Ite:0 KerTime:2.793819 AccTime:2.793819
+#ERR The histogram from element 834878500 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 834939747 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 834944663 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 834947093 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 834974295 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 834982818 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 834983030 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 834986049 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 835012263 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 835022447 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 835024050 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 835032788 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 835047356 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 835050102 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 835051551 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 835058854 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 835074807 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 835077611 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 835079114 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 835080827 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 835088078 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 835088582 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 835094625 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 835110913 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 835115909 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 835129722 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 835134888 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 835155812 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 835165745 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 835167988 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 835173286 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 835173342 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 835174069 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 835174790 differs. srcHist=1 dstHist=2
+
+#ERR Elements not ordered. index=407968 834954225>834952371
+#ERR Elements not ordered. index=407972 834982818>834955369
+#ERR Elements not ordered. index=407977 835012263>834961356
+#ERR Elements not ordered. index=407980 835022447>834975800
+#ERR Elements not ordered. index=407989 835047356>835002230
+#ERR Elements not ordered. index=407994 835077611>835013243
+#ERR Elements not ordered. index=407998 835088006>835021004
+#ERR Elements not ordered. index=408003 835110913>835025291
+#ERR Elements not ordered. index=408005 835116933>835026565
+#ERR Elements not ordered. index=408011 835155812>835033593
+#ERR Elements not ordered. index=408017 835167988>835046351
+#ERR Elements not ordered. index=408022 835174790>835050352
+#ERR Elements not ordered. index=408023 835050352>834878500
+#ERR Elements not ordered. index=408026 835057984>834939747
+#ERR Elements not ordered. index=408032 835069286>834959978
+#ERR Elements not ordered. index=408037 835079260>834984574
+#ERR Elements not ordered. index=408040 835086356>835012263
+#ERR Elements not ordered. index=408045 835089373>835024398
+#ERR Elements not ordered. index=408052 835106867>835047356
+#ERR Elements not ordered. index=408056 835112586>835076001
+#ERR Elements not ordered. index=408064 835122094>835094625
+#ERR Elements not ordered. index=408066 835131345>835110913
+#ERR Elements not ordered. index=408070 835134756>835131478
+#SDC Ite:0 KerTime:2.793819 AccTime:2.793819 KerErr:57 AccErr:57
+#END

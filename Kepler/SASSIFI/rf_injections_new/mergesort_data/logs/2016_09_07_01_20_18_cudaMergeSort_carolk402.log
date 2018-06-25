@@ -1,0 +1,60 @@
+#HEADER size:1048576
+#BEGIN Y:2016 M:09 D:07 Time:01:20:18
+#IT Ite:0 KerTime:2.956020 AccTime:2.956020
+#ERR The histogram from element 97522 differs. srcHist=0 dstHist=1
+
+#ERR The histogram from element 205402 differs. srcHist=0 dstHist=1
+
+#ERR The histogram from element 74553017 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 231766394 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 231779173 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 231784941 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 231848349 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 231884691 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 231884886 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 231922134 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 231922342 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 231961323 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 231961624 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 231992581 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 231993921 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 232007546 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 232009035 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 239665225 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 239844555 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 239856393 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 240008012 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 240047415 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 240055176 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 240255738 differs. srcHist=1 dstHist=0
+
+#ERR Elements not ordered. index=112813 231777770>205402
+#ERR Elements not ordered. index=112814 205402>97522
+#ERR Elements not ordered. index=112860 231993921>231882012
+#ERR Elements not ordered. index=112866 232009035>231896921
+#ERR Elements not ordered. index=112880 231961624>231924633
+#ERR Elements not ordered. index=116727 239662133>74553017
+#ERR Elements not ordered. index=116839 239881571>239844555
+#ERR Elements not ordered. index=116904 240047415>240012189
+#ERR Elements not ordered. index=117033 240256290>240055176

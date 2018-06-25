@@ -1,0 +1,54 @@
+#HEADER size:1048576
+#BEGIN Y:2016 M:09 D:07 Time:03:24:57
+#IT Ite:0 KerTime:2.957050 AccTime:2.957050
+#ERR The histogram from element 1633892497 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1634093062 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1634215851 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1634264750 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1634276322 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1634369674 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1634416562 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1634435360 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1634464099 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1634465873 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1634465960 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1634466947 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1634531323 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1634594114 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1634646300 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1634653344 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1634657631 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1634660031 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1635142974 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1635254311 differs. srcHist=1 dstHist=0
+
+#ERR Elements not ordered. index=797627 1634091761>1633892497
+#ERR Elements not ordered. index=797692 1634276322>1634235316
+#ERR Elements not ordered. index=797709 1634435360>1634265129
+#ERR Elements not ordered. index=797752 1634416562>1634370775
+#ERR Elements not ordered. index=797802 1634646300>1634469851
+#ERR Elements not ordered. index=797804 1634653344>1634471133
+#ERR Elements not ordered. index=797807 1634660031>1634493645
+#ERR Elements not ordered. index=797830 1634594114>1634547795
+#ERR Elements not ordered. index=798166 1635250866>1635142974
+#SDC Ite:0 KerTime:2.957050 AccTime:2.957050 KerErr:29 AccErr:29
+#END

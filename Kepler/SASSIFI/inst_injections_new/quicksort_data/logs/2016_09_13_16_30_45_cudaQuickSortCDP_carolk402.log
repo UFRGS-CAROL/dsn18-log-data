@@ -1,0 +1,39 @@
+#HEADER size:1048576
+#BEGIN Y:2016 M:09 D:13 Time:16:30:45
+#IT Ite:0 KerTime:4.270468 AccTime:4.270468
+#ERR The histogram from element 630981755 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element -528742912 differs. srcHist=0 dstHist=1
+
+#ERR Elements not ordered. index=308606 630986253>630985246
+#ERR Elements not ordered. index=308610 630996189>630993230
+#ERR Elements not ordered. index=308612 630998560>630997700
+#ERR Elements not ordered. index=308614 631000293>630998691
+#ERR Elements not ordered. index=308616 631006408>631005547
+#ERR Elements not ordered. index=308618 631007683>631006687
+#ERR Elements not ordered. index=308620 631010297>631007729
+#ERR Elements not ordered. index=308622 631015526>631015361
+#ERR Elements not ordered. index=308632 631034299>631033459
+#ERR Elements not ordered. index=308636 631043737>631038802
+#ERR Elements not ordered. index=308640 631063472>631044197
+#ERR Elements not ordered. index=308648 631075983>631063980
+#ERR Elements not ordered. index=308674 631107886>631104133
+#ERR Elements not ordered. index=308676 631110327>631108041
+#ERR Elements not ordered. index=308678 631110525>631110413
+#ERR Elements not ordered. index=308680 631111803>631111156
+#ERR Elements not ordered. index=308690 631126894>631126048
+#ERR Elements not ordered. index=308700 631151168>631145250
+#ERR Elements not ordered. index=308702 631152068>631151638
+#ERR Elements not ordered. index=308704 631159503>631154943
+#ERR Elements not ordered. index=308708 631177809>631175095
+#ERR Elements not ordered. index=308712 631190139>631178593
+#ERR Elements not ordered. index=308720 631200887>631191958
+#ERR Elements not ordered. index=308728 631238796>631214106
+#ERR Elements not ordered. index=308742 631246484>631243670
+#ERR Elements not ordered. index=308744 631287225>631246852
+#ERR Elements not ordered. index=308764 631290353>631288244
+#ERR Elements not ordered. index=308768 631305697>631293257
+#ERR Elements not ordered. index=308774 631306533>631306436
+#ERR Elements not ordered. index=308776 -528742912>631313124
+#SDC Ite:0 KerTime:4.270468 AccTime:4.270468 KerErr:32 AccErr:32
+#END

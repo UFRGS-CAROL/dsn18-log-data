@@ -1,0 +1,7 @@
+#HEADER max_rows:2048 max_cols:2048 penalty:10
+#BEGIN Y:2016 M:09 D:12 Time:15:19:44
+#IT Ite:0 KerTime:0.295556 AccTime:0.295556
+#ERR Error detected! kerrors = 1
+#ERR  p: [1009, 1017], r: 835399936, e: -776, error: 1
+#SDC Ite:0 KerTime:0.295556 AccTime:0.295556 KerErr:1 AccErr:1
+#END

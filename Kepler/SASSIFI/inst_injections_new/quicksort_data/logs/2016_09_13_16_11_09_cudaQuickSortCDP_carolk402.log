@@ -1,0 +1,43 @@
+#HEADER size:1048576
+#BEGIN Y:2016 M:09 D:13 Time:16:11:09
+#IT Ite:0 KerTime:4.281732 AccTime:4.281732
+#ERR The histogram from element 1045377263 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1045380834 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1047626300 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1047822680 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1049598799 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1049680137 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1050808912 differs. srcHist=1 dstHist=0
+
+#ERR Elements not ordered. index=512511 1047626318>1047626300
+#ERR Elements not ordered. index=512545 1047699709>1047617690
+#ERR Elements not ordered. index=512553 1047715290>1047700084
+#ERR Elements not ordered. index=512557 1047722285>1047719153
+#ERR Elements not ordered. index=512577 1047756656>1047723364
+#ERR Elements not ordered. index=512593 1047782054>1047757367
+#ERR Elements not ordered. index=512601 1047796987>1047788141
+#ERR Elements not ordered. index=512605 1047811301>1047798286
+#ERR Elements not ordered. index=512607 1047812833>1047811907
+#ERR Elements not ordered. index=512609 1047813270>1047812867
+#ERR Elements not ordered. index=513525 1049590539>1049586297
+#ERR Elements not ordered. index=513529 1049601577>1049592108
+#ERR Elements not ordered. index=513537 1049598799>1049580370
+#ERR Elements not ordered. index=513545 1049623065>1049603603
+#ERR Elements not ordered. index=513549 1049641613>1049638420
+#ERR Elements not ordered. index=513553 1049663270>1049646343
+#ERR Elements not ordered. index=513555 1049664516>1049664414
+#ERR Elements not ordered. index=513557 1049666051>1049665593
+#ERR Elements not ordered. index=513559 1049668983>1049668287
+#ERR Elements not ordered. index=514101 1050813735>1050812146
+#ERR Elements not ordered. index=514105 1050820492>1050817156
+#ERR Elements not ordered. index=514111 1050824046>1050821560
+#ERR Elements not ordered. index=514113 1050852595>1050824398
+#ERR Elements not ordered. index=514123 -1>1050857030
+#SDC Ite:0 KerTime:4.281732 AccTime:4.281732 KerErr:31 AccErr:31
+#END

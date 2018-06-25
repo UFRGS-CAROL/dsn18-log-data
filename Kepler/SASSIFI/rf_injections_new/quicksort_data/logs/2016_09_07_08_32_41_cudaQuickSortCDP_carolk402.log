@@ -1,0 +1,40 @@
+#HEADER size:1048576
+#BEGIN Y:2016 M:09 D:07 Time:08:32:41
+#IT Ite:0 KerTime:5.200547 AccTime:5.200547
+#ERR The histogram from element 1329185181 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1331096385 differs. srcHist=1 dstHist=0
+
+#ERR Elements not ordered. index=649874 1329214374>1329189707
+#ERR Elements not ordered. index=649890 1329244221>1329243297
+#ERR Elements not ordered. index=649892 1329247563>1329247243
+#ERR Elements not ordered. index=649906 1329278502>1329278142
+#ERR Elements not ordered. index=649910 1329285355>1329279895
+#ERR Elements not ordered. index=649914 1329293916>1329290644
+#ERR Elements not ordered. index=649916 1329296193>1329294662
+#ERR Elements not ordered. index=649922 1329324363>1329321001
+#ERR Elements not ordered. index=649938 1329353530>1329352132
+#ERR Elements not ordered. index=649942 1329359789>1329359325
+#ERR Elements not ordered. index=649954 1329390273>1329387383
+#ERR Elements not ordered. index=649958 1329399606>1329396819
+#ERR Elements not ordered. index=650014 1329520199>1329513235
+#ERR Elements not ordered. index=650016 1329521605>1329521588
+#ERR Elements not ordered. index=650102 1329699862>1329699471
+#ERR Elements not ordered. index=650104 1329701956>1329700287
+#ERR Elements not ordered. index=650106 1329705432>1329703333
+#ERR Elements not ordered. index=650112 1329722705>1329718685
+#ERR Elements not ordered. index=650160 1329820797>1329819888
+#ERR Elements not ordered. index=650214 1329917949>1329917363
+#ERR Elements not ordered. index=650248 1330015742>1330015121
+#ERR Elements not ordered. index=650322 1330183351>1330180236
+#ERR Elements not ordered. index=650324 1330187372>1330183509
+#ERR Elements not ordered. index=650496 1330503814>1330500481
+#ERR Elements not ordered. index=650502 1330517556>1330513384
+#ERR Elements not ordered. index=650510 1330544828>1330542685
+#ERR Elements not ordered. index=650520 1330557652>1330555419
+#ERR Elements not ordered. index=650522 1330559907>1330559299
+#ERR Elements not ordered. index=650618 1330758514>1330755315
+#ERR Elements not ordered. index=650620 1330760515>1330760500
+#ERR Elements not ordered. index=650628 1330778722>1330778050
+#SDC Ite:0 KerTime:5.200547 AccTime:5.200547 KerErr:33 AccErr:33
+#END

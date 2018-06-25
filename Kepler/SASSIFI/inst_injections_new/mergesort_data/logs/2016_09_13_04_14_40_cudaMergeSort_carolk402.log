@@ -1,0 +1,57 @@
+#HEADER size:1048576
+#BEGIN Y:2016 M:09 D:13 Time:04:14:40
+#IT Ite:0 KerTime:2.793090 AccTime:2.793090
+#ERR The histogram from element 1587481599 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1469021880 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1469033705 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1469101966 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1469109993 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1469111361 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1469234032 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1469240515 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1469253892 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1469442855 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1469451652 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1469555792 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1469563195 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1469575191 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1469656095 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1469658924 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1469662397 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1469663757 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1469754258 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1469776924 differs. srcHist=1 dstHist=0
+
+#ERR Elements not ordered. index=717372 1469240493>1469234784
+#ERR Elements not ordered. index=717379 1469253347>1469249277
+#ERR Elements not ordered. index=717380 1469249277>1469101966
+#ERR Elements not ordered. index=717382 1469251129>1469109993
+#ERR Elements not ordered. index=717476 1469440817>1469021880
+#ERR Elements not ordered. index=717479 1469447956>1469033705
+#ERR Elements not ordered. index=717521 1469656095>1469543445
+#ERR Elements not ordered. index=717524 1469663757>1469544102
+#ERR Elements not ordered. index=717527 1469560496>1469556605
+#ERR Elements not ordered. index=717625 1469755455>1469754419
+#ERR Elements not ordered. index=717626 1469754419>1469662397
+#ERR Elements not ordered. index=717643 1587481599>1469783310
+#SDC Ite:0 KerTime:2.793090 AccTime:2.793090 KerErr:32 AccErr:32
+#END

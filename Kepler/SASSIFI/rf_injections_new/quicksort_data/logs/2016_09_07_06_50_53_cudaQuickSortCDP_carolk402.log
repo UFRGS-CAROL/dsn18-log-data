@@ -1,0 +1,172 @@
+#HEADER size:1048576
+#BEGIN Y:2016 M:09 D:07 Time:06:50:53
+#IT Ite:0 KerTime:6.626762 AccTime:6.626762
+#ERR The histogram from element 783791988 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 784189526 differs. srcHist=1 dstHist=4
+
+#ERR The histogram from element 784190326 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 784236597 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 784247447 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 784288783 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 784357315 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 784389086 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 784405466 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 784630703 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 784685860 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 784751183 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 784753097 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 784765863 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 784901573 differs. srcHist=1 dstHist=4
+
+#ERR The histogram from element 784904046 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 785083981 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 785105467 differs. srcHist=1 dstHist=0
+
+#ERR Elements not ordered. index=383731 784190326>783791988
+#ERR Elements not ordered. index=383736 784200109>784189526
+#ERR Elements not ordered. index=383740 784218554>784200312
+#ERR Elements not ordered. index=383742 784221359>784219332
+#ERR Elements not ordered. index=383744 784223569>784221627
+#ERR Elements not ordered. index=383746 784227426>784223981
+#ERR Elements not ordered. index=383748 784228668>784227541
+#ERR Elements not ordered. index=383750 784231728>784229226
+#ERR Elements not ordered. index=383754 784246078>784243425
+#ERR Elements not ordered. index=383760 784263898>784250498
+#ERR Elements not ordered. index=383764 784273568>784264149
+#ERR Elements not ordered. index=383766 784275180>784264775
+#ERR Elements not ordered. index=383772 784286347>784283273
+#ERR Elements not ordered. index=383774 784289152>784286675
+#ERR Elements not ordered. index=383776 784295665>784287069
+#ERR Elements not ordered. index=383780 784298155>784292956
+#ERR Elements not ordered. index=383788 784318523>784310854
+#ERR Elements not ordered. index=383792 784339858>784314598
+#ERR Elements not ordered. index=383794 784330527>784320542
+#ERR Elements not ordered. index=383800 784357315>784232100
+#ERR Elements not ordered. index=383806 784361088>784349713
+#ERR Elements not ordered. index=383808 784368013>784332530
+#ERR Elements not ordered. index=383810 784363104>784351362
+#ERR Elements not ordered. index=383812 784377062>784369729
+#ERR Elements not ordered. index=383816 784393038>784345874
+#ERR Elements not ordered. index=383820 784387288>784382418
+#ERR Elements not ordered. index=383822 784398397>784391552
+#ERR Elements not ordered. index=383824 784403864>784384011
+#ERR Elements not ordered. index=383828 784393920>784389086
+#ERR Elements not ordered. index=383830 784405946>784396012
+#ERR Elements not ordered. index=383832 784443714>784357315
+#ERR Elements not ordered. index=383834 784406374>784402550
+#ERR Elements not ordered. index=383836 784408540>784408380
+#ERR Elements not ordered. index=383838 784413303>784409472
+#ERR Elements not ordered. index=383840 784418507>784409496
+#ERR Elements not ordered. index=383844 784412833>784412449
+#ERR Elements not ordered. index=383846 784435748>784413374
+#ERR Elements not ordered. index=383848 784496664>784415573
+#ERR Elements not ordered. index=383854 784451788>784427223
+#ERR Elements not ordered. index=383856 784490503>784441536
+#ERR Elements not ordered. index=383862 784531329>784449801
+#ERR Elements not ordered. index=383864 784545525>784406122
+#ERR Elements not ordered. index=383866 784452763>784452622
+#ERR Elements not ordered. index=383872 784476873>784460386
+#ERR Elements not ordered. index=383874 784481017>784477698
+#ERR Elements not ordered. index=383880 784501266>784494249
+#ERR Elements not ordered. index=383884 784499494>784498225
+#ERR Elements not ordered. index=383888 784560524>784507626
+#ERR Elements not ordered. index=383892 784517532>784514852
+#ERR Elements not ordered. index=383896 784585319>784494101
+#ERR Elements not ordered. index=383900 784548159>784540267
+#ERR Elements not ordered. index=383902 784553191>784546518
+#ERR Elements not ordered. index=383904 784566642>784554903
+#ERR Elements not ordered. index=383908 784577973>784568649
+#ERR Elements not ordered. index=383910 784577315>784568747
+#ERR Elements not ordered. index=383912 784663435>784550377
+#ERR Elements not ordered. index=383914 784584711>784573408
+#ERR Elements not ordered. index=383916 784594205>784582465
+#ERR Elements not ordered. index=383918 784602949>784588290
+#ERR Elements not ordered. index=383920 784727771>784582154
+#ERR Elements not ordered. index=383924 784606998>784596463
+#ERR Elements not ordered. index=383926 784684850>784609839
+#ERR Elements not ordered. index=383928 784759191>784189526
+#ERR Elements not ordered. index=383932 784626607>784618366
+#ERR Elements not ordered. index=383934 784628565>784627155
+#ERR Elements not ordered. index=383936 784632716>784617028
+#ERR Elements not ordered. index=383944 784650310>784635999
+#ERR Elements not ordered. index=383946 784652310>784652198
+#ERR Elements not ordered. index=383952 784672792>784655661
+#ERR Elements not ordered. index=383958 784684978>784680299
+#ERR Elements not ordered. index=383960 784706889>784685969
+#ERR Elements not ordered. index=383962 784692383>784689372
+#ERR Elements not ordered. index=383964 784692436>784689634
+#ERR Elements not ordered. index=383966 784701079>784692908
+#ERR Elements not ordered. index=383968 784708984>784693929
+#ERR Elements not ordered. index=383974 784736919>784708386
+#ERR Elements not ordered. index=383976 784750124>784709049
+#ERR Elements not ordered. index=383982 784756205>784749678
+#ERR Elements not ordered. index=383984 784787755>784189526
+#ERR Elements not ordered. index=383986 784750765>784189526
+#ERR Elements not ordered. index=383990 784788085>784758851
+#ERR Elements not ordered. index=383992 784831567>784658473
+#ERR Elements not ordered. index=383996 784770905>784763437
+#ERR Elements not ordered. index=384000 784793138>784766311
+#ERR Elements not ordered. index=384004 784775853>784772385
+#ERR Elements not ordered. index=384006 784818187>784811165
+#ERR Elements not ordered. index=384008 784819019>784789537
+#ERR Elements not ordered. index=384010 784797052>784789782
+#ERR Elements not ordered. index=384016 784843543>784819086
+#ERR Elements not ordered. index=384020 784829825>784819967
+#ERR Elements not ordered. index=384022 784855030>784830044
+#ERR Elements not ordered. index=384024 784890052>784807458
+#ERR Elements not ordered. index=384028 784834955>784832053
+#ERR Elements not ordered. index=384032 784849714>784835439
+#ERR Elements not ordered. index=384040 784875777>784838359
+#ERR Elements not ordered. index=384042 784850636>784850212
+#ERR Elements not ordered. index=384046 784854609>784853840
+#ERR Elements not ordered. index=384048 784855300>784848884
+#ERR Elements not ordered. index=384052 784867369>784859417
+#ERR Elements not ordered. index=384054 784901573>784895238
+#ERR Elements not ordered. index=384056 784904046>784389086
+#ERR Elements not ordered. index=384058 784869354>784396209
+#ERR Elements not ordered. index=384060 784876340>784869828
+#ERR Elements not ordered. index=384062 784879635>784879259
+#ERR Elements not ordered. index=384064 784898159>784867672
+#ERR Elements not ordered. index=384066 784889367>784869167
+#ERR Elements not ordered. index=384072 784901573>784884751
+#ERR Elements not ordered. index=384074 784901179>784891548
+#ERR Elements not ordered. index=384080 784904823>784904046
+#ERR Elements not ordered. index=384082 784909269>784906073
+#ERR Elements not ordered. index=384088 784924386>784904979
+#ERR Elements not ordered. index=384090 784930217>784927845
+#ERR Elements not ordered. index=384120 785004931>784884670
+#ERR Elements not ordered. index=384122 785006512>784939485
+#ERR Elements not ordered. index=384128 785025735>785008385
+#ERR Elements not ordered. index=384132 785032017>785028785
+#ERR Elements not ordered. index=384134 785034897>785032143
+#ERR Elements not ordered. index=384136 785037106>785019708
+#ERR Elements not ordered. index=384140 785049339>785040887
+#ERR Elements not ordered. index=384142 785052008>785050022
+#ERR Elements not ordered. index=384144 785053174>785052919
+#ERR Elements not ordered. index=384152 785068294>785038357
+#ERR Elements not ordered. index=384154 785069812>785060777
+#ERR Elements not ordered. index=384156 785070046>785069556
+#ERR Elements not ordered. index=384158 785070715>785070416
+#ERR Elements not ordered. index=384160 785072509>785071668
+#ERR Elements not ordered. index=384166 785079220>785076057
+#ERR Elements not ordered. index=384168 785079233>785071617
+#ERR Elements not ordered. index=384172 785081468>785079565
+#ERR Elements not ordered. index=384174 785084777>785084221
+#ERR Elements not ordered. index=384184 785101197>785086421
+#SDC Ite:0 KerTime:6.626762 AccTime:6.626762 KerErr:149 AccErr:149
+#END

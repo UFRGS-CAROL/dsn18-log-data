@@ -1,0 +1,23 @@
+#HEADER max_rows:2048 max_cols:2048 penalty:10
+#BEGIN Y:2016 M:09 D:12 Time:14:21:16
+#IT Ite:0 KerTime:0.295036 AccTime:0.295036
+#ERR Error detected! kerrors = 17
+#ERR  p: [280, 1933], r: -15264, e: -15262, error: 1
+#ERR  p: [280, 1934], r: -15274, e: -15272, error: 2
+#ERR  p: [280, 1935], r: -15284, e: -15282, error: 3
+#ERR  p: [280, 1936], r: -15294, e: -15292, error: 4
+#ERR  p: [280, 1937], r: -15304, e: -15302, error: 5
+#ERR  p: [280, 1938], r: -15314, e: -15312, error: 6
+#ERR  p: [280, 1939], r: -15324, e: -15322, error: 7
+#ERR  p: [280, 1940], r: -15334, e: -15332, error: 8
+#ERR  p: [280, 1941], r: -15344, e: -15342, error: 9
+#ERR  p: [280, 1942], r: -15354, e: -15352, error: 10
+#ERR  p: [280, 1943], r: -15364, e: -15362, error: 11
+#ERR  p: [280, 1944], r: -15374, e: -15372, error: 12
+#ERR  p: [280, 1945], r: -15384, e: -15382, error: 13
+#ERR  p: [281, 1944], r: -15362, e: -15360, error: 14
+#ERR  p: [281, 1945], r: -15372, e: -15370, error: 15
+#ERR  p: [281, 1946], r: -15382, e: -15380, error: 16
+#ERR  p: [281, 1947], r: -15392, e: -15390, error: 17
+#SDC Ite:0 KerTime:0.295036 AccTime:0.295036 KerErr:17 AccErr:17
+#END

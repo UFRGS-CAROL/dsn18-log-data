@@ -1,0 +1,45 @@
+#HEADER size:1048576
+#BEGIN Y:2016 M:09 D:13 Time:17:35:29
+#IT Ite:0 KerTime:3.935383 AccTime:3.935383
+#ERR The histogram from element 1040423532 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1040597503 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1042611031 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1042618204 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1042982516 differs. srcHist=1 dstHist=0
+
+#ERR Elements not ordered. index=509030 1040339150>1040325589
+#ERR Elements not ordered. index=509038 1040357245>1040346051
+#ERR Elements not ordered. index=509046 1040373955>1040358732
+#ERR Elements not ordered. index=509054 1040470517>1040376569
+#ERR Elements not ordered. index=509062 1040394527>1040386148
+#ERR Elements not ordered. index=509070 1040426894>1040396134
+#ERR Elements not ordered. index=509086 1040438718>1040386023
+#ERR Elements not ordered. index=509094 1040455864>1040448797
+#ERR Elements not ordered. index=509098 1040468961>1040456519
+#ERR Elements not ordered. index=509118 1040511665>1040317919
+#ERR Elements not ordered. index=509120 1040513064>1040511815
+#ERR Elements not ordered. index=509134 1040542414>1040514842
+#ERR Elements not ordered. index=509150 1040562798>1040543019
+#ERR Elements not ordered. index=509166 1040595675>1040563714
+#ERR Elements not ordered. index=510106 1042611031>1042610723
+#ERR Elements not ordered. index=510300 1042983268>1042983150
+#ERR Elements not ordered. index=510302 1043051489>1042985215
+#ERR Elements not ordered. index=510332 1043054167>1043053086
+#ERR Elements not ordered. index=510334 1043101710>1043055898
+#ERR Elements not ordered. index=510366 1043115756>1043106521
+#ERR Elements not ordered. index=510374 1043128153>1043119662
+#ERR Elements not ordered. index=510378 1043134146>1043130685
+#ERR Elements not ordered. index=510382 1043137309>1043135485
+#ERR Elements not ordered. index=510386 1043143905>1043137531
+#ERR Elements not ordered. index=510390 1043156852>1043147872
+#ERR Elements not ordered. index=510394 1043160835>1043158182
+#ERR Elements not ordered. index=510398 1043250862>1043166570
+#ERR Elements not ordered. index=510442 1043263733>1043257915
+#ERR Elements not ordered. index=510446 1043284374>1043265016
+#ERR Elements not ordered. index=510462 -1>1043289414
+#SDC Ite:0 KerTime:3.935383 AccTime:3.935383 KerErr:35 AccErr:35
+#END

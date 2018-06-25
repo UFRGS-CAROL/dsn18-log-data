@@ -1,0 +1,53 @@
+#HEADER size:1048576
+#BEGIN Y:2016 M:09 D:07 Time:01:03:24
+#IT Ite:0 KerTime:2.956658 AccTime:2.956658
+#ERR The histogram from element 1801305779 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1801312661 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1801318419 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1801334354 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1801341781 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1801343661 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1801361958 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1801370624 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1801372286 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1801404408 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1801405768 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1801415930 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1801418811 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1801423132 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1801426120 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1801492790 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1801500027 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1801503605 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1801515401 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1443402601 differs. srcHist=1 dstHist=2
+
+#ERR Elements not ordered. index=879466 1801312661>1801305779
+#ERR Elements not ordered. index=879469 1801334354>1801312661
+#ERR Elements not ordered. index=879471 1801341781>1801316940
+#ERR Elements not ordered. index=879474 1801367629>1801334354
+#ERR Elements not ordered. index=879476 1801370818>1801336477
+#ERR Elements not ordered. index=879479 1801399741>1801341781
+#ERR Elements not ordered. index=879480 1801341781>1443402601
+#ERR Elements not ordered. index=879527 1801515401>1801439610
+#SDC Ite:0 KerTime:2.956658 AccTime:2.956658 KerErr:28 AccErr:28
+#END

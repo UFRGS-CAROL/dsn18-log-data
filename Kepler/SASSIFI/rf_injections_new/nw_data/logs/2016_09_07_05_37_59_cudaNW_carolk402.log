@@ -1,0 +1,19 @@
+#HEADER max_rows:2048 max_cols:2048 penalty:10
+#BEGIN Y:2016 M:09 D:07 Time:05:37:59
+#IT Ite:0 KerTime:0.290861 AccTime:0.290861
+#ERR Error detected! kerrors = 13
+#ERR  p: [1720, 1149], r: -4345, e: -4342, error: 1
+#ERR  p: [1721, 1149], r: -4355, e: -4352, error: 2
+#ERR  p: [1721, 1150], r: -4349, e: -4346, error: 3
+#ERR  p: [1722, 1149], r: -4365, e: -4362, error: 4
+#ERR  p: [1722, 1150], r: -4359, e: -4356, error: 5
+#ERR  p: [1723, 1149], r: -4375, e: -4372, error: 6
+#ERR  p: [1723, 1150], r: -4369, e: -4366, error: 7
+#ERR  p: [1724, 1150], r: -4378, e: -4376, error: 8
+#ERR  p: [1724, 1151], r: -4363, e: -4360, error: 9
+#ERR  p: [1725, 1151], r: -4373, e: -4370, error: 10
+#ERR  p: [1725, 1152], r: -4365, e: -4363, error: 11
+#ERR  p: [1726, 1152], r: -4373, e: -4370, error: 12
+#ERR  p: [1727, 1153], r: -4375, e: -4372, error: 13
+#SDC Ite:0 KerTime:0.290861 AccTime:0.290861 KerErr:13 AccErr:13
+#END

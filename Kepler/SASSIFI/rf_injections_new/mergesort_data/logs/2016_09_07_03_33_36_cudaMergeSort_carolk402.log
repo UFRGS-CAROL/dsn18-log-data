@@ -1,0 +1,53 @@
+#HEADER size:1048576
+#BEGIN Y:2016 M:09 D:07 Time:03:33:36
+#IT Ite:0 KerTime:2.958009 AccTime:2.958009
+#ERR The histogram from element 547011150 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 547027503 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 547292170 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 547373102 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 547618393 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 547781362 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 547781755 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 547786595 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 547798920 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 547801795 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 547803315 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 547885757 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 547888156 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 547891097 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 547912832 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 547928672 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 547933218 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 547942185 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 547995886 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 484507083 differs. srcHist=1 dstHist=2
+
+#ERR Elements not ordered. index=267500 547027503>547012809
+#ERR Elements not ordered. index=267614 547373102>547293813
+#ERR Elements not ordered. index=267781 547620024>484507083
+#ERR Elements not ordered. index=267869 547891097>547810832
+#ERR Elements not ordered. index=267875 547912832>547842490
+#ERR Elements not ordered. index=267880 547942185>547854864
+#ERR Elements not ordered. index=267896 547995886>547886345
+#ERR The link between Val and Key arrays in incorrect. index=267943 wrong_key=547984875 val=40771 correct_key_pointed_by_val=547292170
+#SDC Ite:0 KerTime:2.958009 AccTime:2.958009 KerErr:28 AccErr:28
+#END

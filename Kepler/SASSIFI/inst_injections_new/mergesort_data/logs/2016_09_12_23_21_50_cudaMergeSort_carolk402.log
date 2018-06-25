@@ -1,0 +1,10 @@
+#HEADER size:1048576
+#BEGIN Y:2016 M:09 D:12 Time:23:21:50
+#IT Ite:0 KerTime:2.792473 AccTime:2.792473
+#ERR The histogram from element 1964678161 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1964678289 differs. srcHist=0 dstHist=1
+
+#ERR The link between Val and Key arrays in incorrect. index=959115 wrong_key=1964678289 val=654865 correct_key_pointed_by_val=1964678161
+#SDC Ite:0 KerTime:2.792473 AccTime:2.792473 KerErr:3 AccErr:3
+#END

@@ -1,0 +1,65 @@
+#HEADER size:1048576
+#BEGIN Y:2016 M:09 D:13 Time:00:11:50
+#IT Ite:0 KerTime:2.792598 AccTime:2.792598
+#ERR The histogram from element 413514073 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 413522956 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 413524834 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 413531353 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 413531849 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 413533590 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 413626346 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 413683581 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 413702178 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 413745105 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 413771491 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 413800740 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 413804936 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 413816932 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 413832271 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 413837616 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 413858923 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 413865354 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 413870434 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 413884088 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 413887913 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 413892874 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 413896421 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 413910700 differs. srcHist=1 dstHist=0
+
+#ERR Elements not ordered. index=202115 413804936>413800740
+#ERR Elements not ordered. index=202119 413816932>413808399
+#ERR Elements not ordered. index=202123 413832271>413819374
+#ERR Elements not ordered. index=202127 413858923>413832271
+#ERR Elements not ordered. index=202129 413870434>413832443
+#ERR Elements not ordered. index=202131 413882454>413842364
+#ERR Elements not ordered. index=202135 413892224>413858923
+#ERR Elements not ordered. index=202137 413895685>413860346
+#ERR Elements not ordered. index=202140 413907018>413870434
+#ERR Elements not ordered. index=202142 413878606>413867514
+#ERR Elements not ordered. index=202143 413867514>413514073
+#ERR The link between Val and Key arrays in incorrect. index=202147 wrong_key=413531353 val=321256 correct_key_pointed_by_val=413884088
+#SDC Ite:0 KerTime:2.792598 AccTime:2.792598 KerErr:36 AccErr:36
+#END

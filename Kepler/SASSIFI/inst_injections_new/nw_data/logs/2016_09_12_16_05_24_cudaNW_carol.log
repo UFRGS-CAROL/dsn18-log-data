@@ -1,0 +1,28 @@
+#HEADER max_rows:2048 max_cols:2048 penalty:10
+#BEGIN Y:2016 M:09 D:12 Time:16:05:24
+#IT Ite:0 KerTime:0.295009 AccTime:0.295009
+#ERR Error detected! kerrors = 22
+#ERR  p: [1940, 159], r: -17045, e: -17040, error: 1
+#ERR  p: [1941, 159], r: -17053, e: -17050, error: 2
+#ERR  p: [1942, 159], r: -17063, e: -17060, error: 3
+#ERR  p: [1943, 159], r: -17073, e: -17070, error: 4
+#ERR  p: [1944, 159], r: -17083, e: -17080, error: 5
+#ERR  p: [1945, 159], r: -17093, e: -17090, error: 6
+#ERR  p: [1946, 159], r: -17103, e: -17100, error: 7
+#ERR  p: [1947, 159], r: -17113, e: -17110, error: 8
+#ERR  p: [1948, 159], r: -17123, e: -17120, error: 9
+#ERR  p: [1949, 159], r: -17133, e: -17130, error: 10
+#ERR  p: [1950, 159], r: -17143, e: -17140, error: 11
+#ERR  p: [1951, 159], r: -17152, e: -17150, error: 12
+#ERR  p: [1952, 159], r: -17162, e: -17160, error: 13
+#ERR  p: [1953, 159], r: -17172, e: -17170, error: 14
+#ERR  p: [1954, 159], r: -17182, e: -17180, error: 15
+#ERR  p: [1955, 159], r: -17192, e: -17190, error: 16
+#ERR  p: [1955, 160], r: -17178, e: -17176, error: 17
+#ERR  p: [1956, 160], r: -17188, e: -17186, error: 18
+#ERR  p: [1957, 160], r: -17198, e: -17196, error: 19
+#ERR  p: [1958, 160], r: -17208, e: -17206, error: 20
+#ERR  p: [1959, 160], r: -17218, e: -17216, error: 21
+#ERR  p: [1960, 160], r: -17228, e: -17226, error: 22
+#SDC Ite:0 KerTime:0.295009 AccTime:0.295009 KerErr:22 AccErr:22
+#END

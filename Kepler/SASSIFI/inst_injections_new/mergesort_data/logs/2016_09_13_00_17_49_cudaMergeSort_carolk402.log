@@ -1,0 +1,64 @@
+#HEADER size:1048576
+#BEGIN Y:2016 M:09 D:13 Time:00:17:49
+#IT Ite:0 KerTime:2.790868 AccTime:2.790868
+#ERR The histogram from element 544296 differs. srcHist=0 dstHist=1
+
+#ERR The histogram from element 592045 differs. srcHist=0 dstHist=1
+
+#ERR The histogram from element 622177 differs. srcHist=0 dstHist=1
+
+#ERR The histogram from element 739850 differs. srcHist=0 dstHist=1
+
+#ERR The histogram from element 806473 differs. srcHist=0 dstHist=1
+
+#ERR The histogram from element 858977 differs. srcHist=0 dstHist=1
+
+#ERR The histogram from element 867310 differs. srcHist=0 dstHist=1
+
+#ERR The histogram from element 958750 differs. srcHist=0 dstHist=1
+
+#ERR The histogram from element 992498 differs. srcHist=0 dstHist=1
+
+#ERR The histogram from element 1023394 differs. srcHist=0 dstHist=1
+
+#ERR The histogram from element 833584434 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 833586025 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 833590474 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 833805104 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 833806437 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 833806649 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 833818871 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 833823236 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 833830005 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 833842583 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 833853234 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 833854568 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 833856406 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 833857572 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 833857913 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 833873509 differs. srcHist=1 dstHist=0
+
+#ERR Elements not ordered. index=407460 833999373>739850
+#ERR Elements not ordered. index=407463 833897619>544296
+#ERR Elements not ordered. index=407467 833930156>1023394
+#ERR Elements not ordered. index=407468 1023394>806473
+#ERR Elements not ordered. index=407469 806473>592045
+#ERR Elements not ordered. index=407472 833939940>958750
+#ERR Elements not ordered. index=407477 833955593>867310
+#ERR Elements not ordered. index=407483 833979591>833584434
+#ERR Elements not ordered. index=407486 833998553>833590474

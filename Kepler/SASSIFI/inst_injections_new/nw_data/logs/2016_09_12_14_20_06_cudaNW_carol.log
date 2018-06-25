@@ -1,0 +1,31 @@
+#HEADER max_rows:2048 max_cols:2048 penalty:10
+#BEGIN Y:2016 M:09 D:12 Time:14:20:06
+#IT Ite:0 KerTime:0.294192 AccTime:0.294192
+#ERR Error detected! kerrors = 25
+#ERR  p: [1212, 1992], r: -5952, e: -5946, error: 1
+#ERR  p: [1212, 1993], r: -5962, e: -5956, error: 2
+#ERR  p: [1212, 1994], r: -5972, e: -5966, error: 3
+#ERR  p: [1212, 1995], r: -5982, e: -5976, error: 4
+#ERR  p: [1212, 1996], r: -5992, e: -5986, error: 5
+#ERR  p: [1213, 1993], r: -5948, e: -5947, error: 6
+#ERR  p: [1213, 1994], r: -5958, e: -5957, error: 7
+#ERR  p: [1213, 1995], r: -5968, e: -5966, error: 8
+#ERR  p: [1213, 1996], r: -5978, e: -5976, error: 9
+#ERR  p: [1213, 1997], r: -5988, e: -5986, error: 10
+#ERR  p: [1213, 1998], r: -5997, e: -5996, error: 11
+#ERR  p: [1214, 1996], r: -5961, e: -5959, error: 12
+#ERR  p: [1214, 1997], r: -5971, e: -5969, error: 13
+#ERR  p: [1214, 1998], r: -5981, e: -5979, error: 14
+#ERR  p: [1214, 1999], r: -5991, e: -5989, error: 15
+#ERR  p: [1214, 2000], r: -6001, e: -5999, error: 16
+#ERR  p: [1214, 2001], r: -6011, e: -6009, error: 17
+#ERR  p: [1214, 2002], r: -6021, e: -6019, error: 18
+#ERR  p: [1214, 2003], r: -6031, e: -6029, error: 19
+#ERR  p: [1214, 2004], r: -6041, e: -6039, error: 20
+#ERR  p: [1214, 2005], r: -6051, e: -6049, error: 21
+#ERR  p: [1214, 2006], r: -6061, e: -6059, error: 22
+#ERR  p: [1214, 2007], r: -6071, e: -6069, error: 23
+#ERR  p: [1215, 2008], r: -6069, e: -6067, error: 24
+#ERR  p: [1215, 2009], r: -6078, e: -6077, error: 25
+#SDC Ite:0 KerTime:0.294192 AccTime:0.294192 KerErr:25 AccErr:25
+#END

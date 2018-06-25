@@ -1,0 +1,9 @@
+#HEADER size:1048576
+#BEGIN Y:2016 M:09 D:13 Time:15:05:44
+#IT Ite:0 KerTime:3.577108 AccTime:3.577108
+#ERR The histogram from element 1995275318 differs. srcHist=0 dstHist=1
+
+#ERR The histogram from element 1995275382 differs. srcHist=1 dstHist=0
+
+#SDC Ite:0 KerTime:3.577108 AccTime:3.577108 KerErr:2 AccErr:2
+#END

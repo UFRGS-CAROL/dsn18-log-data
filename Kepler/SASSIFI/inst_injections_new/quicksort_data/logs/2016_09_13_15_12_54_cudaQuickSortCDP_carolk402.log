@@ -1,0 +1,72 @@
+#HEADER size:1048576
+#BEGIN Y:2016 M:09 D:13 Time:15:12:54
+#IT Ite:0 KerTime:4.577565 AccTime:4.577565
+#ERR The histogram from element 0 differs. srcHist=0 dstHist=1
+
+#ERR The histogram from element 894042308 differs. srcHist=1 dstHist=0
+
+#ERR Elements not ordered. index=436687 892338868>0
+#ERR Elements not ordered. index=436719 892423483>892342058
+#ERR Elements not ordered. index=436723 892429152>892424008
+#ERR Elements not ordered. index=436727 892436474>892432397
+#ERR Elements not ordered. index=436729 892442643>892440574
+#ERR Elements not ordered. index=436731 892445902>892444057
+#ERR Elements not ordered. index=436733 892453292>892450826
+#ERR Elements not ordered. index=436751 892501060>892460436
+#ERR Elements not ordered. index=436759 892516477>892501781
+#ERR Elements not ordered. index=436763 892520809>892519787
+#ERR Elements not ordered. index=436765 892527256>892523826
+#ERR Elements not ordered. index=436769 892535023>892532541
+#ERR Elements not ordered. index=436771 892543237>892537037
+#ERR Elements not ordered. index=436783 892578220>892550486
+#ERR Elements not ordered. index=436785 892583044>892582412
+#ERR Elements not ordered. index=436791 892596725>892592480
+#ERR Elements not ordered. index=436793 892600326>892596734
+#ERR Elements not ordered. index=436795 892611165>892610422
+#ERR Elements not ordered. index=436809 892630745>892630003
+#ERR Elements not ordered. index=436815 892647526>892643442
+#ERR Elements not ordered. index=436823 892662083>892655944
+#ERR Elements not ordered. index=436831 892673186>892670396
+#ERR Elements not ordered. index=436835 892677368>892675082
+#ERR Elements not ordered. index=436837 892681415>892677376
+#ERR Elements not ordered. index=436843 892688137>892686481
+#ERR Elements not ordered. index=436847 892708884>892702271
+#ERR Elements not ordered. index=436849 892712961>892712775
+#ERR Elements not ordered. index=436855 892723535>892719663
+#ERR Elements not ordered. index=436873 892762397>892761601
+#ERR Elements not ordered. index=436895 892795435>892792140
+#ERR Elements not ordered. index=436897 892799640>892796007
+#ERR Elements not ordered. index=436907 892826051>892825621
+#ERR Elements not ordered. index=436909 892834218>892832457
+#ERR Elements not ordered. index=436919 892850250>892850232
+#ERR Elements not ordered. index=436921 892867055>892851713
+#ERR Elements not ordered. index=436939 892906291>892906088
+#ERR Elements not ordered. index=436941 892911362>892908595
+#ERR Elements not ordered. index=436951 892929642>892923414
+#ERR Elements not ordered. index=436955 892933177>892931819
+#ERR Elements not ordered. index=436993 893012284>893011276
+#ERR Elements not ordered. index=437011 893054266>893052029
+#ERR Elements not ordered. index=437031 893092030>893082780
+#ERR Elements not ordered. index=437059 893141048>893140594
+#ERR Elements not ordered. index=437079 893185533>893185101
+#ERR Elements not ordered. index=437111 893251511>893250125
+#ERR Elements not ordered. index=437115 893259015>893258315
+#ERR Elements not ordered. index=437117 893264890>893262576
+#ERR Elements not ordered. index=437135 893307078>893305064
+#ERR Elements not ordered. index=437147 893325816>893325480
+#ERR Elements not ordered. index=437149 893331057>893330962
+#ERR Elements not ordered. index=437151 893333302>893332712
+#ERR Elements not ordered. index=437153 893338050>893334793
+#ERR Elements not ordered. index=437257 893559290>893558317
+#ERR Elements not ordered. index=437263 893569320>893567793
+#ERR Elements not ordered. index=437265 893571358>893570857
+#ERR Elements not ordered. index=437269 893579347>893577173
+#ERR Elements not ordered. index=437271 893582651>893579539
+#ERR Elements not ordered. index=437303 893648561>893646712
+#ERR Elements not ordered. index=437329 893714717>893713155
+#ERR Elements not ordered. index=437331 893716937>893716906
+#ERR Elements not ordered. index=437333 893717968>893717785
+#ERR Elements not ordered. index=437337 893722872>893721581
+#ERR Elements not ordered. index=437371 893796767>893792195
+#SDC Ite:0 KerTime:4.577565 AccTime:4.577565 KerErr:65 AccErr:65
+#END

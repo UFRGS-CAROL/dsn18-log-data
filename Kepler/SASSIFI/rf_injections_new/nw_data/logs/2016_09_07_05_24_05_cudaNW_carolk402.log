@@ -1,0 +1,29 @@
+#HEADER max_rows:2048 max_cols:2048 penalty:10
+#BEGIN Y:2016 M:09 D:07 Time:05:24:05
+#IT Ite:0 KerTime:0.293950 AccTime:0.293950
+#ERR Error detected! kerrors = 23
+#ERR  p: [1005, 133], r: -1115783680, e: -8151, error: 1
+#ERR  p: [1006, 133], r: -8168, e: -8161, error: 2
+#ERR  p: [1007, 133], r: -8175, e: -8171, error: 3
+#ERR  p: [1008, 133], r: -8185, e: -8181, error: 4
+#ERR  p: [1009, 133], r: -8195, e: -8191, error: 5
+#ERR  p: [1010, 133], r: -8205, e: -8201, error: 6
+#ERR  p: [1011, 133], r: -8215, e: -8211, error: 7
+#ERR  p: [1012, 133], r: -8225, e: -8221, error: 8
+#ERR  p: [1013, 133], r: -8235, e: -8231, error: 9
+#ERR  p: [1014, 133], r: -8245, e: -8241, error: 10
+#ERR  p: [1015, 133], r: -8255, e: -8251, error: 11
+#ERR  p: [1016, 133], r: -8265, e: -8261, error: 12
+#ERR  p: [1017, 133], r: -8275, e: -8271, error: 13
+#ERR  p: [1018, 133], r: -8285, e: -8281, error: 14
+#ERR  p: [1019, 133], r: -8295, e: -8291, error: 15
+#ERR  p: [1020, 133], r: -8305, e: -8301, error: 16
+#ERR  p: [1021, 133], r: -8312, e: -8311, error: 17
+#ERR  p: [1022, 133], r: -8322, e: -8321, error: 18
+#ERR  p: [1023, 133], r: -8332, e: -8331, error: 19
+#ERR  p: [1024, 133], r: -8342, e: -8341, error: 20
+#ERR  p: [1025, 133], r: -8352, e: -8351, error: 21
+#ERR  p: [1026, 133], r: -8362, e: -8361, error: 22
+#ERR  p: [1027, 133], r: -8372, e: -8371, error: 23
+#SDC Ite:0 KerTime:0.293950 AccTime:0.293950 KerErr:23 AccErr:23
+#END

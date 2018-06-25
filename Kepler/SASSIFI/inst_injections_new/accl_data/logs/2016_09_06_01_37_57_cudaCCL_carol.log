@@ -1,0 +1,17 @@
+#HEADER frames:2, framesPerStream:1
+#BEGIN Y:2016 M:09 D:06 Time:01:37:57
+#IT Ite:0 KerTime:5.002485 AccTime:5.002485
+#ERR t: [spans], p: [516][129], r: 61, e: 165
+#ERR t: [spans], p: [517][129], r: 165, e: 182
+#ERR t: [spans], p: [518][129], r: 182, e: 306
+#ERR t: [spans], p: [519][129], r: 306, e: 311
+#ERR t: [spans], p: [520][129], r: 311, e: 316
+#ERR t: [spans], p: [521][129], r: 316, e: 416
+#ERR t: [spans], p: [522][129], r: 416, e: 428
+#ERR t: [spans], p: [523][129], r: 428, e: 432
+#ERR t: [spans], p: [524][129], r: 432, e: 443
+#ERR t: [spans], p: [525][129], r: 443, e: 446
+#ERR t: [spans], p: [526][129], r: 446, e: -1
+#ERR t: [components], p: [775][64], r: 66311, e: -1
+#SDC Ite:0 KerTime:5.002485 AccTime:5.002485 KerErr:12 AccErr:12
+#END

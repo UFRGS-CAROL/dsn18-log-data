@@ -1,0 +1,28 @@
+#HEADER max_rows:2048 max_cols:2048 penalty:10
+#BEGIN Y:2016 M:09 D:07 Time:04:34:21
+#IT Ite:0 KerTime:0.290124 AccTime:0.290124
+#ERR Error detected! kerrors = 22
+#ERR  p: [733, 197], r: -4918, e: -4732, error: 1
+#ERR  p: [734, 197], r: -4928, e: -4739, error: 2
+#ERR  p: [735, 197], r: -4938, e: -4749, error: 3
+#ERR  p: [736, 197], r: -4948, e: -4759, error: 4
+#ERR  p: [737, 197], r: -4776, e: -4769, error: 5
+#ERR  p: [738, 198], r: -4768, e: -4765, error: 6
+#ERR  p: [739, 198], r: -4778, e: -4775, error: 7
+#ERR  p: [739, 199], r: -4768, e: -4766, error: 8
+#ERR  p: [740, 198], r: -4788, e: -4785, error: 9
+#ERR  p: [740, 199], r: -4778, e: -4775, error: 10
+#ERR  p: [741, 198], r: -4798, e: -4795, error: 11
+#ERR  p: [741, 199], r: -4788, e: -4785, error: 12
+#ERR  p: [742, 198], r: -4808, e: -4805, error: 13
+#ERR  p: [742, 199], r: -4798, e: -4795, error: 14
+#ERR  p: [743, 198], r: -4817, e: -4815, error: 15
+#ERR  p: [743, 199], r: -4808, e: -4805, error: 16
+#ERR  p: [744, 198], r: -4826, e: -4825, error: 17
+#ERR  p: [744, 199], r: -4817, e: -4815, error: 18
+#ERR  p: [745, 199], r: -4825, e: -4824, error: 19
+#ERR  p: [746, 199], r: -4835, e: -4834, error: 20
+#ERR  p: [747, 200], r: -4831, e: -4830, error: 21
+#ERR  p: [748, 200], r: -4841, e: -4840, error: 22
+#SDC Ite:0 KerTime:0.290124 AccTime:0.290124 KerErr:22 AccErr:22
+#END

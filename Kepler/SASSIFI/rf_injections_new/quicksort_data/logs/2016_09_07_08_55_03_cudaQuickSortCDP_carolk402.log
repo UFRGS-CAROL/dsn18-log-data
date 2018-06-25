@@ -1,0 +1,11 @@
+#HEADER size:1048576
+#BEGIN Y:2016 M:09 D:07 Time:08:55:03
+#IT Ite:0 KerTime:5.888128 AccTime:5.888128
+#ERR Elements not ordered. index=732097 1498639477>1498636043
+#ERR Elements not ordered. index=732099 1498642812>1498639584
+#ERR Elements not ordered. index=732113 1498665875>1498665492
+#ERR Elements not ordered. index=732115 1498670500>1498669736
+#ERR Elements not ordered. index=732117 1498678166>1498673179
+#ERR Elements not ordered. index=732181 1498803689>1498800103
+#SDC Ite:0 KerTime:5.888128 AccTime:5.888128 KerErr:6 AccErr:6
+#END

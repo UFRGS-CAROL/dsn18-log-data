@@ -1,0 +1,58 @@
+#HEADER size:1048576
+#BEGIN Y:2016 M:09 D:12 Time:23:53:51
+#IT Ite:0 KerTime:2.791736 AccTime:2.791736
+#ERR The histogram from element 1377631765 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1377632047 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1440623462 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1440629778 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1440633862 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1440637265 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1440637832 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1440640379 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1440642794 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1440644449 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1440658068 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1440673105 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1440673502 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1440703877 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1440740130 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1440813645 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1440826213 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1440827275 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1440910540 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1440977883 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1440996867 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1441162066 differs. srcHist=1 dstHist=2
+
+#ERR Elements not ordered. index=703457 1440740130>1440625733
+#ERR Elements not ordered. index=703461 1440634387>1440632350
+#ERR Elements not ordered. index=703475 1440813645>1440674405
+#ERR Elements not ordered. index=703479 1440827275>1440703877
+#ERR Elements not ordered. index=703480 1440703877>1440673105
+#ERR Elements not ordered. index=703482 1440673502>1377631765
+#ERR Elements not ordered. index=703599 1440996867>1440912125
+#ERR Elements not ordered. index=703638 1441162066>1440978029
+#ERR The link between Val and Key arrays in incorrect. index=703638 wrong_key=1441162066 val=86640 correct_key_pointed_by_val=1440977883
+#SDC Ite:0 KerTime:2.791736 AccTime:2.791736 KerErr:31 AccErr:31
+#END

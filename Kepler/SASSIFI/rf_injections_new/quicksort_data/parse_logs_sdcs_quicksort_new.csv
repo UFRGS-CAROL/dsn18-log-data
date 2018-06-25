@@ -1,0 +1,27 @@
+instruction,sdc_num,total_inst_count,crashes,abort
+IADD_IMUL,0,0,0,0
+FADD_FMUL,0,0,0,0
+MAD,0,0,0,0
+FMA,0,0,0,0
+SETP,0,0,0,0
+LDS,0,0,0,0
+LD,0,0,0,0
+MISC_OP,0,0,0,0
+GPR,196,3002,2306,32
+CC,0,0,0,0
+PR,0,0,0,0
+STORE_VAL,0,0,0,0
+,,,,
+error_model,sdc_num,total_em_count,,
+FLIP_SINGLE_BIT,111,1501,1112,25
+FLIP_TWO_BITS,0,0,0,0
+RANDOM_VALUE,85,1501,1194,7
+ZERO_VALUE,0,0,0,0
+WARP_FLIP_SINGLE_BIT,0,0,0,0
+WARP_FLIP_TWO_BITS,0,0,0,0
+WARP_RANDOM_VALUE,0,0,0,0
+WARP_ZERO_VALUE,0,0,0,0
+,,,,
+Total sdcs,196,,,
+Injected faults,3002,,,
+Average kernel runtime,1.42504407695,,,

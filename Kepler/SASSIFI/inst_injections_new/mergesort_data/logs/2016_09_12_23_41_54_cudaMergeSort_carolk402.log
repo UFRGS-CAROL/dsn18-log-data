@@ -1,0 +1,11 @@
+#HEADER size:1048576
+#BEGIN Y:2016 M:09 D:12 Time:23:41:54
+#IT Ite:0 KerTime:3.125967 AccTime:3.125967
+#ERR The histogram from element 555229141 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 202327487 differs. srcHist=1 dstHist=2
+
+#ERR Unstability detected at index=98417 key=202327487 val[i]=181779 val[i+1]=181778
+#ERR The link between Val and Key arrays in incorrect. index=98418 wrong_key=202327487 val=181778 correct_key_pointed_by_val=555229141
+#SDC Ite:0 KerTime:3.125967 AccTime:3.125967 KerErr:4 AccErr:4
+#END

@@ -1,0 +1,53 @@
+#HEADER size:1048576
+#BEGIN Y:2016 M:09 D:12 Time:23:04:55
+#IT Ite:0 KerTime:2.792685 AccTime:2.792685
+#ERR The histogram from element 132482281 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 132495046 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 132498696 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 132503340 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 132504416 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 132505959 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 268327845 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 268360438 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 268362173 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 268449212 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 268450841 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 268489529 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 268516838 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 268520565 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 268520716 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 268527948 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 268528281 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 268542964 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 268574595 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 268585930 differs. srcHist=1 dstHist=2
+
+#ERR Elements not ordered. index=130876 268496589>268486892
+#ERR Elements not ordered. index=130877 268486892>268484907
+#ERR Elements not ordered. index=130879 268496836>268327845
+#ERR Elements not ordered. index=130884 268507491>268360438
+#ERR Elements not ordered. index=130903 268585155>132482281
+#ERR Elements not ordered. index=130905 268561243>132495046
+#ERR Elements not ordered. index=130908 268569936>132503340
+#ERR Elements not ordered. index=130912 268585930>268572152
+#SDC Ite:0 KerTime:2.792685 AccTime:2.792685 KerErr:28 AccErr:28
+#END

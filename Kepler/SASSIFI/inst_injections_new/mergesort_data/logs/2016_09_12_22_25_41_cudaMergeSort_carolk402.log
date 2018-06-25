@@ -1,0 +1,54 @@
+#HEADER size:1048576
+#BEGIN Y:2016 M:09 D:12 Time:22:25:41
+#IT Ite:0 KerTime:2.794227 AccTime:2.794227
+#ERR The histogram from element 1371929960 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1371964433 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1371967635 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1371973801 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1372005523 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1372010213 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1372017544 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1372021577 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1372025106 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1372051641 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1372060745 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1372067850 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1372072667 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1372089042 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1372097031 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1372101497 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1372106443 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1372121843 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1372292870 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1372367980 differs. srcHist=1 dstHist=2
+
+#ERR Elements not ordered. index=670155 1372041537>1371929960
+#ERR Elements not ordered. index=670158 1372045435>1371964433
+#ERR Elements not ordered. index=670160 1372049495>1371967635
+#ERR Elements not ordered. index=670162 1372060362>1371973801
+#ERR Elements not ordered. index=670165 1372066594>1372005523
+#ERR Elements not ordered. index=670171 1372100676>1372042799
+#ERR Elements not ordered. index=670177 1372112337>1372074238
+#ERR Elements not ordered. index=670182 1372117443>1372113619
+#ERR Elements not ordered. index=670269 1372367980>1372303573
+#SDC Ite:0 KerTime:2.794227 AccTime:2.794227 KerErr:29 AccErr:29
+#END

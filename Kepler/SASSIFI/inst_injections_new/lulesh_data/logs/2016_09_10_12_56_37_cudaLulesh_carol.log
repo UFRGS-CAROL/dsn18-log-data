@@ -1,0 +1,8 @@
+#HEADER structured:YES size:50 iterations:50
+#BEGIN Y:2016 M:09 D:10 Time:12:56:37
+#IT Ite:0 KerTime:16.285546 AccTime:16.285546
+#ERR p: [17782] x_gold:7.650000000000000e-01 x_output:7.650000000000000e-01 y_gold:9.450000000000000e-01 y_output:9.450000000000000e-01 z_gold:1.350000000000000e-01 z_output:1.350000477363693e-01
+#ERR total_abs_diff:0.000000 max_rel_diff:0.000000 max_abs_diff:0.000000
+#SDC Ite:0 KerTime:16.285546 AccTime:16.285546 KerErr:1 AccErr:1
+#IT Ite:1 KerTime:16.251984 AccTime:32.537530
+#END

@@ -1,0 +1,6 @@
+#HEADER streams:1 size:1024 pyramidHeight:1 simTime:1
+#BEGIN Y:2016 M:09 D:07 Time:03:32:05
+#IT Ite:0 KerTime:0.391445 AccTime:0.391445
+#ERR stream: 0, p: [376, 489], r: 3.3034249877929688e+02, e: inf
+#SDC Ite:0 KerTime:0.391445 AccTime:0.391445 KerErr:1 AccErr:1
+#END

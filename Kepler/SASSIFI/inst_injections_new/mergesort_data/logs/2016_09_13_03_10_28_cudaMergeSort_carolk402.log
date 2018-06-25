@@ -1,0 +1,57 @@
+#HEADER size:1048576
+#BEGIN Y:2016 M:09 D:13 Time:03:10:28
+#IT Ite:0 KerTime:2.794913 AccTime:2.794913
+#ERR The histogram from element 298061722 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 298064773 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 298065866 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 298066802 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 298078099 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 298084416 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 298086019 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 298087060 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 298110344 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 298110688 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 298112165 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 298159379 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 298159754 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 298160486 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 298164087 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 298175333 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 298177102 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 298180972 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 298188914 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 298192463 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 298195305 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 298198379 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 298282398 differs. srcHist=1 dstHist=0
+
+#ERR Elements not ordered. index=145462 298248166>298061722
+#ERR Elements not ordered. index=145464 298224051>298064773
+#ERR Elements not ordered. index=145468 298229104>298078099
+#ERR Elements not ordered. index=145474 298244266>298110344
+#ERR Elements not ordered. index=145492 -102905856>298288871
+#ERR The link between Val and Key arrays in incorrect. index=145492 wrong_key=-102905856 val=449851 correct_key_pointed_by_val=298159379
+#SDC Ite:0 KerTime:2.794913 AccTime:2.794913 KerErr:29 AccErr:29
+#END

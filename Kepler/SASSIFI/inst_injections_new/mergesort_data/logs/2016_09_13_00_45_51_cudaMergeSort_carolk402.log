@@ -1,0 +1,50 @@
+#HEADER size:1048576
+#BEGIN Y:2016 M:09 D:13 Time:00:45:51
+#IT Ite:0 KerTime:2.792518 AccTime:2.792518
+#ERR The histogram from element 1861040971 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1864863999 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1915839614 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1915843805 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1915853957 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1915862516 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1915882921 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1915884516 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1915888612 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1915900226 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1915903280 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1915904144 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1915909832 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1915994238 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1916050914 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1916052231 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1916063500 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1916679122 differs. srcHist=1 dstHist=0
+
+#ERR Elements not ordered. index=935270 1915904144>1915831649
+#ERR Elements not ordered. index=935280 1915882921>1915854682
+#ERR Elements not ordered. index=935285 1915909832>1915863943
+#ERR Elements not ordered. index=935304 1916052231>1915903280
+#ERR Elements not ordered. index=935309 1915917215>1915912839
+#ERR Elements not ordered. index=935310 1915912839>1861040971
+#ERR Elements not ordered. index=935342 1916063500>1915994435
+#ERR Elements not ordered. index=935694 1916676347>1864863999
+#ERR The link between Val and Key arrays in incorrect. index=935342 wrong_key=1916063500 val=481839 correct_key_pointed_by_val=1915994238
+#SDC Ite:0 KerTime:2.792518 AccTime:2.792518 KerErr:27 AccErr:27
+#END

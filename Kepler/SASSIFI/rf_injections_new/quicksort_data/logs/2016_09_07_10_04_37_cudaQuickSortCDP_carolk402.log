@@ -1,0 +1,45 @@
+#HEADER size:1048576
+#BEGIN Y:2016 M:09 D:07 Time:10:04:37
+#IT Ite:0 KerTime:6.459684 AccTime:6.459684
+#ERR The histogram from element 179657420 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 716528332 differs. srcHist=0 dstHist=1
+
+#ERR Elements not ordered. index=88103 179674923>179672969
+#ERR Elements not ordered. index=88105 179676541>179676379
+#ERR Elements not ordered. index=88107 179679701>179678085
+#ERR Elements not ordered. index=88117 179694570>179690085
+#ERR Elements not ordered. index=88119 179702663>179695388
+#ERR Elements not ordered. index=88127 179708692>179708221
+#ERR Elements not ordered. index=88133 179718584>179718446
+#ERR Elements not ordered. index=88135 179722029>179719553
+#ERR Elements not ordered. index=88141 179736125>179735483
+#ERR Elements not ordered. index=88143 179737316>179737290
+#ERR Elements not ordered. index=88147 179746497>179743167
+#ERR Elements not ordered. index=88151 179759715>179748953
+#ERR Elements not ordered. index=88155 179766736>179765283
+#ERR Elements not ordered. index=88157 179777086>179770259
+#ERR Elements not ordered. index=88159 179781923>179777220
+#ERR Elements not ordered. index=88165 179791265>179788592
+#ERR Elements not ordered. index=88167 179821319>179791483
+#ERR Elements not ordered. index=88187 179823175>179821690
+#ERR Elements not ordered. index=88189 179825784>179825731
+#ERR Elements not ordered. index=88191 179838072>179829099
+#ERR Elements not ordered. index=88197 179847099>179844802
+#ERR Elements not ordered. index=88199 179982475>179849756
+#ERR Elements not ordered. index=88255 179990953>179986173
+#ERR Elements not ordered. index=88261 179994806>179993730
+#ERR Elements not ordered. index=88263 180223904>179995010
+#ERR Elements not ordered. index=88385 180227448>180226754
+#ERR Elements not ordered. index=88387 180228662>180227808
+#ERR Elements not ordered. index=88391 180788105>180235893
+#ERR Elements not ordered. index=88651 180795461>180792222
+#ERR Elements not ordered. index=88655 180810820>180797053
+#ERR Elements not ordered. index=88663 180842799>180811743
+#ERR Elements not ordered. index=88679 180926735>180848844
+#ERR Elements not ordered. index=88711 181037098>180930919
+#ERR Elements not ordered. index=88769 181039213>181037784
+#ERR Elements not ordered. index=88771 181048192>181039986
+#ERR Elements not ordered. index=88775 716528332>181049250
+#SDC Ite:0 KerTime:6.459684 AccTime:6.459684 KerErr:38 AccErr:38
+#END

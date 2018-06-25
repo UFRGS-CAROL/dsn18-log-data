@@ -1,0 +1,38 @@
+#HEADER size:1048576
+#BEGIN Y:2016 M:09 D:07 Time:09:10:52
+#IT Ite:0 KerTime:5.362472 AccTime:5.362472
+#ERR The histogram from element 319824 differs. srcHist=0 dstHist=1
+
+#ERR The histogram from element 1836094380 differs. srcHist=1 dstHist=0
+
+#ERR Elements not ordered. index=896728 1835558668>319824
+#ERR Elements not ordered. index=896732 1835561705>1835559348
+#ERR Elements not ordered. index=896736 1835568825>1835562695
+#ERR Elements not ordered. index=896744 1835584760>1835581374
+#ERR Elements not ordered. index=896792 1835682829>1835589603
+#ERR Elements not ordered. index=896800 1835697357>1835688299
+#ERR Elements not ordered. index=896804 1835703479>1835697972
+#ERR Elements not ordered. index=896808 1835709456>1835703807
+#ERR Elements not ordered. index=896810 1835712702>1835710252
+#ERR Elements not ordered. index=896812 1835716052>1835713215
+#ERR Elements not ordered. index=896824 1835742966>1835732226
+#ERR Elements not ordered. index=896856 1835790027>1835748680
+#ERR Elements not ordered. index=896860 1835802688>1835798577
+#ERR Elements not ordered. index=896888 1835866563>1835806151
+#ERR Elements not ordered. index=896896 1835881918>1835878977
+#ERR Elements not ordered. index=896900 1835887819>1835885277
+#ERR Elements not ordered. index=896920 1835941243>1835889075
+#ERR Elements not ordered. index=896936 1835979342>1835946307
+#ERR Elements not ordered. index=896952 1835999874>1835986615
+#ERR Elements not ordered. index=896960 1836012210>1836001852
+#ERR Elements not ordered. index=896968 1836027468>1836017422
+#ERR Elements not ordered. index=896972 1836038344>1836028131
+#ERR Elements not ordered. index=896976 1836043417>1836038873
+#ERR Elements not ordered. index=896980 1836049776>1836045649
+#ERR Elements not ordered. index=896984 1836054834>1836051825
+#ERR Elements not ordered. index=896986 1836056150>1836054940
+#ERR Elements not ordered. index=896988 1836063632>1836060774
+#ERR Elements not ordered. index=896990 1836069092>1836067846
+#ERR Elements not ordered. index=896992 1836085978>1836072290
+#SDC Ite:0 KerTime:5.362472 AccTime:5.362472 KerErr:31 AccErr:31
+#END

@@ -1,0 +1,6 @@
+#HEADER size:1048576
+#BEGIN Y:2016 M:09 D:13 Time:00:03:36
+#IT Ite:0 KerTime:2.790953 AccTime:2.790953
+#ERR The link between Val and Key arrays in incorrect. index=770390 wrong_key=1578252702 val=289428 correct_key_pointed_by_val=317881617
+#SDC Ite:0 KerTime:2.790953 AccTime:2.790953 KerErr:1 AccErr:1
+#END

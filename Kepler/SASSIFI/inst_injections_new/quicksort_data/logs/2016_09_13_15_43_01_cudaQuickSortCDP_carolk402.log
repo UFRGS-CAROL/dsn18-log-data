@@ -1,0 +1,29 @@
+#HEADER size:1048576
+#BEGIN Y:2016 M:09 D:13 Time:15:43:01
+#IT Ite:0 KerTime:4.571410 AccTime:4.571410
+#ERR The histogram from element 1391040877 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 1391407382 differs. srcHist=1 dstHist=0
+
+#ERR Elements not ordered. index=679921 1391042511>1391040877
+#ERR Elements not ordered. index=679925 1391049625>1391042807
+#ERR Elements not ordered. index=679929 1391071036>1391051130
+#ERR Elements not ordered. index=679933 1391080912>1391073027
+#ERR Elements not ordered. index=679941 1391095650>1391092779
+#ERR Elements not ordered. index=679949 1391118873>1391110746
+#ERR Elements not ordered. index=679953 1391123650>1391122388
+#ERR Elements not ordered. index=679957 1391134236>1391132052
+#ERR Elements not ordered. index=679965 1391157890>1391151657
+#ERR Elements not ordered. index=680001 1391252161>1391245753
+#ERR Elements not ordered. index=680005 1391265137>1391254926
+#ERR Elements not ordered. index=680007 1391267144>1391265835
+#ERR Elements not ordered. index=680021 1391290052>1391289288
+#ERR Elements not ordered. index=680023 1391290250>1391290226
+#ERR Elements not ordered. index=680025 1391302159>1391295753
+#ERR Elements not ordered. index=680027 1391304031>1391302772
+#ERR Elements not ordered. index=680029 1391305968>1391305909
+#ERR Elements not ordered. index=680057 1391364584>1391363562
+#ERR Elements not ordered. index=680061 1391371753>1391371175
+#ERR Elements not ordered. index=680063 1391378558>1391374566
+#SDC Ite:0 KerTime:4.571410 AccTime:4.571410 KerErr:22 AccErr:22
+#END

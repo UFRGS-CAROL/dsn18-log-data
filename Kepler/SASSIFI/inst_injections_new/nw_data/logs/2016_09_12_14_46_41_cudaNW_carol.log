@@ -1,0 +1,15 @@
+#HEADER max_rows:2048 max_cols:2048 penalty:10
+#BEGIN Y:2016 M:09 D:12 Time:14:46:41
+#IT Ite:0 KerTime:0.294447 AccTime:0.294447
+#ERR Error detected! kerrors = 9
+#ERR  p: [650, 932], r: -2088, e: -2082, error: 1
+#ERR  p: [651, 933], r: -2089, e: -2084, error: 2
+#ERR  p: [652, 934], r: -2089, e: -2084, error: 3
+#ERR  p: [653, 935], r: -2092, e: -2087, error: 4
+#ERR  p: [654, 936], r: -2096, e: -2091, error: 5
+#ERR  p: [655, 937], r: -2098, e: -2093, error: 6
+#ERR  p: [656, 938], r: -2098, e: -2093, error: 7
+#ERR  p: [657, 939], r: -2099, e: -2094, error: 8
+#ERR  p: [658, 940], r: -2099, e: -2098, error: 9
+#SDC Ite:0 KerTime:0.294447 AccTime:0.294447 KerErr:9 AccErr:9
+#END
