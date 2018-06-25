@@ -1,0 +1,12 @@
+#HEADER max_rows:8192 max_cols:8192 penalty:10 omp_num_threads:228
+#BEGIN Y:2016 M:12 D:13 Time:18:53:07
+#IT Ite:0 KerTime:0.392561 AccTime:0.392561
+#IT Ite:10 KerTime:0.115720 AccTime:1.550593
+#IT Ite:20 KerTime:0.115769 AccTime:2.710234
+#IT Ite:30 KerTime:0.116393 AccTime:3.868234
+#IT Ite:40 KerTime:0.115895 AccTime:5.026774
+#IT Ite:50 KerTime:0.115795 AccTime:6.185582
+#IT Ite:60 KerTime:0.124375 AccTime:7.353722
+#IT Ite:70 KerTime:0.116055 AccTime:8.515092
+#IT Ite:80 KerTime:0.116512 AccTime:9.677303
+#IT Ite:90 KerTime:0.115604 AccTime:10.838388

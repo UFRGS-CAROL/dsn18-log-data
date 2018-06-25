@@ -1,0 +1,5 @@
+#HEADER simIter:1000 gridSize:1024x1024
+#BEGIN Y:2016 M:12 D:12 Time:19:48:47
+#IT Ite:0 KerTime:0.701792 AccTime:0.701792
+#IT Ite:10 KerTime:0.431022 AccTime:5.007811
+#IT Ite:20 KerTime:0.430179 AccTime:9.316612

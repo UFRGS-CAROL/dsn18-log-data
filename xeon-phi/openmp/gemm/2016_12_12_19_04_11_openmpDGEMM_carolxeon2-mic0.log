@@ -1,0 +1,7 @@
+#HEADER matrix_dim:4096 threads:228 block_size:32 block_offset:12
+#BEGIN Y:2016 M:12 D:12 Time:19:04:11
+#IT Ite:0 KerTime:14.075415 AccTime:14.075415
+#IT Ite:1 KerTime:13.557230 AccTime:27.632645
+#IT Ite:2 KerTime:15.208971 AccTime:42.841616
+#IT Ite:3 KerTime:13.568922 AccTime:56.410538
+#IT Ite:4 KerTime:15.168989 AccTime:71.579527

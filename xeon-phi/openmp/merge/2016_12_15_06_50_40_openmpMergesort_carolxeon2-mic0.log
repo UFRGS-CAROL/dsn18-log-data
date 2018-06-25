@@ -1,0 +1,5 @@
+#HEADER size:67108864 omp_num_threads:228
+#BEGIN Y:2016 M:12 D:15 Time:06:50:40
+#IT Ite:0 KerTime:9.850533 AccTime:9.850533
+#IT Ite:10 KerTime:8.359271 AccTime:93.009291
+#IT Ite:20 KerTime:8.220944 AccTime:176.457978

@@ -1,0 +1,11 @@
+#HEADER size:67108864 omp_num_threads:228
+#BEGIN Y:2016 M:12 D:15 Time:06:44:15
+#IT Ite:0 KerTime:8.957657 AccTime:8.957657
+#IT Ite:10 KerTime:8.427634 AccTime:92.309793
+#IT Ite:20 KerTime:8.231911 AccTime:175.011526
+#ERR  p: [26074325], r: 1668679164, e: 1668681212
+#SDC Ite:22 KerTime:8.223003 AccTime:191.374362 KerErr:1 AccErr:1
+#ERR  p: [26074325], r: 1668679164, e: 1668681212
+#SDC Ite:23 KerTime:8.345572 AccTime:199.719934 KerErr:1 AccErr:2
+#ABORT amount of errors equals of the last iteration
+#END
