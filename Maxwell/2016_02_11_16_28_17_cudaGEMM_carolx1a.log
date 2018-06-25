@@ -1,0 +1,10 @@
+#HEADER size:1024
+#BEGIN Y:2016 M:02 D:11 Time:16:28:17
+#IT Ite:0 KerTime:0.151121 AccTime:0.151121
+#ERR p: [270, 288], r: -1.3879727405667564e+34, e: -1.3879568949342536e+34
+#SDC Ite:0 KerTime:0.151121 AccTime:0.151121 KerErr:1 AccErr:1
+#IT Ite:1 KerTime:0.208219 AccTime:0.359340
+#ERR p: [270, 288], r: -1.3879727405667564e+34, e: -1.3879568949342536e+34
+#SDC Ite:1 KerTime:0.208219 AccTime:0.359340 KerErr:1 AccErr:2
+#ABORT amount of errors equals of the last iteration
+#END

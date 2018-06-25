@@ -1,0 +1,314 @@
+#HEADER iterations: 1000 img_list: /home/carol/radiation-benchmarks/data/networks_img_list/voc.2012.1K.txt board: K40
+#BEGIN Y:2016 M:12 D:14 Time:14:15:10
+#IT Ite:0 KerTime:0.124347 AccTime:0.124347
+#IT Ite:1 KerTime:0.112447 AccTime:0.236794
+#IT Ite:2 KerTime:0.119719 AccTime:0.356513
+#IT Ite:3 KerTime:0.120286 AccTime:0.476799
+#IT Ite:4 KerTime:0.118833 AccTime:0.595632
+#IT Ite:5 KerTime:0.116567 AccTime:0.712199
+#IT Ite:6 KerTime:0.116059 AccTime:0.828258
+#IT Ite:7 KerTime:0.115389 AccTime:0.943647
+#IT Ite:8 KerTime:0.115829 AccTime:1.059476
+#IT Ite:9 KerTime:0.125799 AccTime:1.185275
+#IT Ite:10 KerTime:0.116809 AccTime:1.302084
+#IT Ite:11 KerTime:0.118287 AccTime:1.420371
+#IT Ite:12 KerTime:0.125438 AccTime:1.545809
+#IT Ite:13 KerTime:0.116320 AccTime:1.662129
+#IT Ite:14 KerTime:0.117426 AccTime:1.779555
+#IT Ite:15 KerTime:0.111893 AccTime:1.891448
+#IT Ite:16 KerTime:0.119410 AccTime:2.010858
+#IT Ite:17 KerTime:0.117094 AccTime:2.127952
+#IT Ite:18 KerTime:0.132823 AccTime:2.260775
+#IT Ite:19 KerTime:0.117161 AccTime:2.377936
+#IT Ite:20 KerTime:0.120276 AccTime:2.498212
+#IT Ite:21 KerTime:0.119533 AccTime:2.617745
+#IT Ite:22 KerTime:0.125609 AccTime:2.743354
+#IT Ite:23 KerTime:0.112746 AccTime:2.856100
+#IT Ite:24 KerTime:0.099139 AccTime:2.955239
+#IT Ite:25 KerTime:0.118636 AccTime:3.073875
+#IT Ite:26 KerTime:0.117737 AccTime:3.191612
+#IT Ite:27 KerTime:0.124657 AccTime:3.316269
+#IT Ite:28 KerTime:0.116821 AccTime:3.433090
+#IT Ite:29 KerTime:0.125145 AccTime:3.558235
+#IT Ite:30 KerTime:0.123532 AccTime:3.681767
+#IT Ite:31 KerTime:0.109405 AccTime:3.791172
+#IT Ite:32 KerTime:0.118952 AccTime:3.910124
+#IT Ite:33 KerTime:0.110633 AccTime:4.020757
+#IT Ite:34 KerTime:0.119269 AccTime:4.140026
+#IT Ite:35 KerTime:0.119192 AccTime:4.259218
+#IT Ite:36 KerTime:0.119394 AccTime:4.378612
+#IT Ite:37 KerTime:0.120901 AccTime:4.499513
+#IT Ite:38 KerTime:0.102667 AccTime:4.602180
+#IT Ite:39 KerTime:0.112095 AccTime:4.714275
+#IT Ite:40 KerTime:0.121259 AccTime:4.835534
+#IT Ite:41 KerTime:0.115286 AccTime:4.950820
+#IT Ite:42 KerTime:0.109681 AccTime:5.060501
+#IT Ite:43 KerTime:0.117117 AccTime:5.177618
+#IT Ite:44 KerTime:0.121437 AccTime:5.299055
+#IT Ite:45 KerTime:0.123319 AccTime:5.422374
+#IT Ite:46 KerTime:0.113971 AccTime:5.536345
+#IT Ite:47 KerTime:0.116561 AccTime:5.652906
+#IT Ite:48 KerTime:0.111232 AccTime:5.764138
+#IT Ite:49 KerTime:0.121566 AccTime:5.885704
+#IT Ite:50 KerTime:0.119788 AccTime:6.005492
+#IT Ite:51 KerTime:0.120841 AccTime:6.126333
+#IT Ite:52 KerTime:0.117948 AccTime:6.244281
+#IT Ite:53 KerTime:0.118246 AccTime:6.362527
+#IT Ite:54 KerTime:0.118430 AccTime:6.480957
+#IT Ite:55 KerTime:0.118945 AccTime:6.599902
+#IT Ite:56 KerTime:0.118319 AccTime:6.718221
+#IT Ite:57 KerTime:0.117309 AccTime:6.835530
+#IT Ite:58 KerTime:0.117225 AccTime:6.952755
+#IT Ite:59 KerTime:0.115004 AccTime:7.067759
+#IT Ite:60 KerTime:0.118592 AccTime:7.186351
+#IT Ite:61 KerTime:0.116571 AccTime:7.302922
+#IT Ite:62 KerTime:0.124604 AccTime:7.427526
+#IT Ite:63 KerTime:0.124505 AccTime:7.552031
+#IT Ite:64 KerTime:0.119309 AccTime:7.671340
+#IT Ite:65 KerTime:0.125846 AccTime:7.797186
+#IT Ite:66 KerTime:0.125128 AccTime:7.922314
+#IT Ite:67 KerTime:0.119458 AccTime:8.041772
+#IT Ite:68 KerTime:0.113928 AccTime:8.155700
+#IT Ite:69 KerTime:0.119083 AccTime:8.274783
+#IT Ite:70 KerTime:0.111105 AccTime:8.385888
+#IT Ite:71 KerTime:0.110493 AccTime:8.496381
+#IT Ite:72 KerTime:0.118444 AccTime:8.614825
+#IT Ite:73 KerTime:0.132188 AccTime:8.747013
+#IT Ite:74 KerTime:0.119923 AccTime:8.866936
+#IT Ite:75 KerTime:0.117778 AccTime:8.984714
+#IT Ite:76 KerTime:0.119769 AccTime:9.104483
+#IT Ite:77 KerTime:0.113740 AccTime:9.218223
+#IT Ite:78 KerTime:0.124254 AccTime:9.342477
+#IT Ite:79 KerTime:0.116846 AccTime:9.459323
+#IT Ite:80 KerTime:0.111618 AccTime:9.570941
+#IT Ite:81 KerTime:0.125583 AccTime:9.696524
+#IT Ite:82 KerTime:0.117131 AccTime:9.813655
+#IT Ite:83 KerTime:0.131904 AccTime:9.945559
+#IT Ite:84 KerTime:0.110899 AccTime:10.056458
+#IT Ite:85 KerTime:0.121973 AccTime:10.178431
+#IT Ite:86 KerTime:0.116251 AccTime:10.294682
+#IT Ite:87 KerTime:0.130161 AccTime:10.424843
+#IT Ite:88 KerTime:0.122030 AccTime:10.546873
+#IT Ite:89 KerTime:0.125646 AccTime:10.672519
+#IT Ite:90 KerTime:0.124363 AccTime:10.796882
+#IT Ite:91 KerTime:0.128236 AccTime:10.925118
+#IT Ite:92 KerTime:0.118927 AccTime:11.044045
+#IT Ite:93 KerTime:0.127423 AccTime:11.171468
+#IT Ite:94 KerTime:0.111597 AccTime:11.283065
+#IT Ite:95 KerTime:0.117043 AccTime:11.400108
+#IT Ite:96 KerTime:0.109624 AccTime:11.509732
+#IT Ite:97 KerTime:0.118767 AccTime:11.628499
+#IT Ite:98 KerTime:0.110713 AccTime:11.739212
+#IT Ite:99 KerTime:0.118584 AccTime:11.857796
+#IT Ite:100 KerTime:0.121201 AccTime:11.978997
+#IT Ite:101 KerTime:0.120634 AccTime:12.099631
+#IT Ite:102 KerTime:0.112379 AccTime:12.212010
+#IT Ite:103 KerTime:0.119256 AccTime:12.331266
+#IT Ite:104 KerTime:0.120209 AccTime:12.451475
+#IT Ite:105 KerTime:0.111372 AccTime:12.562847
+#IT Ite:106 KerTime:0.118828 AccTime:12.681675
+#IT Ite:107 KerTime:0.125072 AccTime:12.806747
+#IT Ite:108 KerTime:0.115557 AccTime:12.922304
+#IT Ite:109 KerTime:0.125850 AccTime:13.048154
+#IT Ite:110 KerTime:0.119427 AccTime:13.167581
+#IT Ite:111 KerTime:0.113327 AccTime:13.280908
+#IT Ite:112 KerTime:0.107553 AccTime:13.388461
+#IT Ite:113 KerTime:0.114493 AccTime:13.502954
+#IT Ite:114 KerTime:0.118028 AccTime:13.620982
+#IT Ite:115 KerTime:0.109830 AccTime:13.730812
+#IT Ite:116 KerTime:0.117214 AccTime:13.848026
+#IT Ite:117 KerTime:0.119902 AccTime:13.967928
+#IT Ite:118 KerTime:0.118181 AccTime:14.086109
+#IT Ite:119 KerTime:0.119285 AccTime:14.205394
+#IT Ite:120 KerTime:0.128073 AccTime:14.333467
+#IT Ite:121 KerTime:0.119823 AccTime:14.453290
+#IT Ite:122 KerTime:0.119667 AccTime:14.572957
+#IT Ite:123 KerTime:0.118977 AccTime:14.691934
+#IT Ite:124 KerTime:0.111418 AccTime:14.803352
+#IT Ite:125 KerTime:0.118615 AccTime:14.921967
+#IT Ite:126 KerTime:0.117883 AccTime:15.039850
+#IT Ite:127 KerTime:0.126782 AccTime:15.166632
+#IT Ite:128 KerTime:0.125840 AccTime:15.292472
+#IT Ite:129 KerTime:0.116909 AccTime:15.409381
+#IT Ite:130 KerTime:0.096596 AccTime:15.505977
+#IT Ite:131 KerTime:0.122583 AccTime:15.628560
+#IT Ite:132 KerTime:0.118357 AccTime:15.746917
+#IT Ite:133 KerTime:0.113404 AccTime:15.860321
+#IT Ite:134 KerTime:0.127672 AccTime:15.987993
+#IT Ite:135 KerTime:0.112080 AccTime:16.100073
+#IT Ite:136 KerTime:0.118523 AccTime:16.218596
+#IT Ite:137 KerTime:0.113516 AccTime:16.332112
+#IT Ite:138 KerTime:0.126695 AccTime:16.458807
+#IT Ite:139 KerTime:0.110752 AccTime:16.569559
+#IT Ite:140 KerTime:0.125561 AccTime:16.695120
+#IT Ite:141 KerTime:0.126887 AccTime:16.822007
+#IT Ite:142 KerTime:0.117553 AccTime:16.939560
+#IT Ite:143 KerTime:0.126602 AccTime:17.066162
+#IT Ite:144 KerTime:0.118841 AccTime:17.185003
+#IT Ite:145 KerTime:0.112326 AccTime:17.297329
+#IT Ite:146 KerTime:0.114349 AccTime:17.411678
+#IT Ite:147 KerTime:0.114580 AccTime:17.526258
+#IT Ite:148 KerTime:0.123768 AccTime:17.650026
+#IT Ite:149 KerTime:0.116800 AccTime:17.766826
+#IT Ite:150 KerTime:0.103947 AccTime:17.870773
+#IT Ite:151 KerTime:0.112237 AccTime:17.983010
+#IT Ite:152 KerTime:0.113201 AccTime:18.096211
+#IT Ite:153 KerTime:0.119800 AccTime:18.216011
+#IT Ite:154 KerTime:0.099856 AccTime:18.315867
+#IT Ite:155 KerTime:0.123473 AccTime:18.439340
+#IT Ite:156 KerTime:0.117179 AccTime:18.556519
+#IT Ite:157 KerTime:0.117173 AccTime:18.673692
+#IT Ite:158 KerTime:0.125869 AccTime:18.799561
+#IT Ite:159 KerTime:0.119426 AccTime:18.918987
+#IT Ite:160 KerTime:0.117538 AccTime:19.036525
+#IT Ite:161 KerTime:0.120680 AccTime:19.157205
+#IT Ite:162 KerTime:0.106833 AccTime:19.264038
+#IT Ite:163 KerTime:0.111112 AccTime:19.375150
+#IT Ite:164 KerTime:0.117374 AccTime:19.492524
+#IT Ite:165 KerTime:0.123659 AccTime:19.616183
+#IT Ite:166 KerTime:0.105545 AccTime:19.721728
+#IT Ite:167 KerTime:0.127172 AccTime:19.848900
+#IT Ite:168 KerTime:0.103155 AccTime:19.952055
+#IT Ite:169 KerTime:0.120757 AccTime:20.072812
+#IT Ite:170 KerTime:0.121434 AccTime:20.194246
+#IT Ite:171 KerTime:0.122551 AccTime:20.316797
+#IT Ite:172 KerTime:0.119474 AccTime:20.436271
+#IT Ite:173 KerTime:0.119503 AccTime:20.555774
+#IT Ite:174 KerTime:0.110340 AccTime:20.666114
+#IT Ite:175 KerTime:0.113670 AccTime:20.779784
+#IT Ite:176 KerTime:0.112014 AccTime:20.891798
+#IT Ite:177 KerTime:0.126739 AccTime:21.018537
+#IT Ite:178 KerTime:0.118083 AccTime:21.136620
+#IT Ite:179 KerTime:0.116755 AccTime:21.253375
+#IT Ite:180 KerTime:0.120650 AccTime:21.374025
+#IT Ite:181 KerTime:0.119167 AccTime:21.493192
+#IT Ite:182 KerTime:0.126719 AccTime:21.619911
+#IT Ite:183 KerTime:0.119508 AccTime:21.739419
+#IT Ite:184 KerTime:0.119246 AccTime:21.858665
+#IT Ite:185 KerTime:0.129763 AccTime:21.988428
+#IT Ite:186 KerTime:0.128521 AccTime:22.116949
+#IT Ite:187 KerTime:0.120182 AccTime:22.237131
+#IT Ite:188 KerTime:0.118197 AccTime:22.355328
+#IT Ite:189 KerTime:0.126394 AccTime:22.481722
+#IT Ite:190 KerTime:0.111495 AccTime:22.593217
+#IT Ite:191 KerTime:0.111011 AccTime:22.704228
+#IT Ite:192 KerTime:0.119529 AccTime:22.823757
+#IT Ite:193 KerTime:0.127068 AccTime:22.950825
+#IT Ite:194 KerTime:0.117956 AccTime:23.068781
+#IT Ite:195 KerTime:0.131194 AccTime:23.199975
+#IT Ite:196 KerTime:0.119105 AccTime:23.319080
+#IT Ite:197 KerTime:0.112972 AccTime:23.432052
+#IT Ite:198 KerTime:0.128215 AccTime:23.560267
+#IT Ite:199 KerTime:0.118741 AccTime:23.679008
+#IT Ite:200 KerTime:0.120019 AccTime:23.799027
+#IT Ite:201 KerTime:0.127118 AccTime:23.926145
+#IT Ite:202 KerTime:0.111459 AccTime:24.037604
+#IT Ite:203 KerTime:0.115117 AccTime:24.152721
+#IT Ite:204 KerTime:0.119676 AccTime:24.272397
+#IT Ite:205 KerTime:0.121053 AccTime:24.393450
+#IT Ite:206 KerTime:0.117392 AccTime:24.510842
+#IT Ite:207 KerTime:0.115288 AccTime:24.626130
+#IT Ite:208 KerTime:0.126605 AccTime:24.752735
+#IT Ite:209 KerTime:0.119213 AccTime:24.871948
+#IT Ite:210 KerTime:0.113510 AccTime:24.985458
+#IT Ite:211 KerTime:0.100118 AccTime:25.085576
+#IT Ite:212 KerTime:0.119501 AccTime:25.205077
+#IT Ite:213 KerTime:0.118561 AccTime:25.323638
+#IT Ite:214 KerTime:0.111016 AccTime:25.434654
+#IT Ite:215 KerTime:0.110431 AccTime:25.545085
+#IT Ite:216 KerTime:0.114003 AccTime:25.659088
+#IT Ite:217 KerTime:0.119512 AccTime:25.778600
+#IT Ite:218 KerTime:0.128263 AccTime:25.906863
+#IT Ite:219 KerTime:0.116502 AccTime:26.023365
+#IT Ite:220 KerTime:0.127535 AccTime:26.150900
+#IT Ite:221 KerTime:0.117649 AccTime:26.268549
+#IT Ite:222 KerTime:0.110407 AccTime:26.378956
+#IT Ite:223 KerTime:0.117183 AccTime:26.496139
+#IT Ite:224 KerTime:0.116705 AccTime:26.612844
+#IT Ite:225 KerTime:0.126596 AccTime:26.739440
+#IT Ite:226 KerTime:0.117901 AccTime:26.857341
+#IT Ite:227 KerTime:0.119335 AccTime:26.976676
+#IT Ite:228 KerTime:0.127320 AccTime:27.103996
+#IT Ite:229 KerTime:0.106107 AccTime:27.210103
+#IT Ite:230 KerTime:0.118653 AccTime:27.328756
+#IT Ite:231 KerTime:0.118856 AccTime:27.447612
+#IT Ite:232 KerTime:0.117956 AccTime:27.565568
+#IT Ite:233 KerTime:0.125896 AccTime:27.691464
+#IT Ite:234 KerTime:0.117179 AccTime:27.808643
+#IT Ite:235 KerTime:0.126329 AccTime:27.934972
+#IT Ite:236 KerTime:0.118580 AccTime:28.053552
+#IT Ite:237 KerTime:0.117606 AccTime:28.171158
+#IT Ite:238 KerTime:0.118690 AccTime:28.289848
+#IT Ite:239 KerTime:0.117487 AccTime:28.407335
+#IT Ite:240 KerTime:0.119290 AccTime:28.526625
+#IT Ite:241 KerTime:0.126963 AccTime:28.653588
+#IT Ite:242 KerTime:0.112374 AccTime:28.765962
+#IT Ite:243 KerTime:0.119248 AccTime:28.885210
+#IT Ite:244 KerTime:0.119859 AccTime:29.005069
+#IT Ite:245 KerTime:0.117135 AccTime:29.122204
+#IT Ite:246 KerTime:0.117361 AccTime:29.239565
+#IT Ite:247 KerTime:0.116431 AccTime:29.355996
+#IT Ite:248 KerTime:0.119734 AccTime:29.475730
+#IT Ite:249 KerTime:0.118474 AccTime:29.594204
+#IT Ite:250 KerTime:0.120900 AccTime:29.715104
+#IT Ite:251 KerTime:0.117281 AccTime:29.832385
+#IT Ite:252 KerTime:0.119170 AccTime:29.951555
+#IT Ite:253 KerTime:0.118780 AccTime:30.070335
+#IT Ite:254 KerTime:0.113522 AccTime:30.183857
+#IT Ite:255 KerTime:0.118100 AccTime:30.301957
+#IT Ite:256 KerTime:0.117711 AccTime:30.419668
+#IT Ite:257 KerTime:0.118443 AccTime:30.538111
+#IT Ite:258 KerTime:0.119227 AccTime:30.657338
+#IT Ite:259 KerTime:0.103152 AccTime:30.760490
+#IT Ite:260 KerTime:0.130616 AccTime:30.891106
+#IT Ite:261 KerTime:0.117924 AccTime:31.009030
+#IT Ite:262 KerTime:0.127316 AccTime:31.136346
+#IT Ite:263 KerTime:0.111021 AccTime:31.247367
+#IT Ite:264 KerTime:0.118128 AccTime:31.365495
+#IT Ite:265 KerTime:0.114488 AccTime:31.479983
+#IT Ite:266 KerTime:0.126813 AccTime:31.606796
+#IT Ite:267 KerTime:0.117510 AccTime:31.724306
+#IT Ite:268 KerTime:0.117499 AccTime:31.841805
+#IT Ite:269 KerTime:0.117181 AccTime:31.958986
+#IT Ite:270 KerTime:0.127000 AccTime:32.085986
+#IT Ite:271 KerTime:0.110516 AccTime:32.196502
+#IT Ite:272 KerTime:0.118397 AccTime:32.314899
+#IT Ite:273 KerTime:0.114854 AccTime:32.429753
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_001550.jpg class: chair box: [5] x1_e: 124.537147522 x1_r: 124.534828186 y1_e: 108.377975464 y1_r: 108.375473022 x2_e: 294.484313965 x2_r: 294.485931396 y2_e: 404.866821289 y2_r: 404.872619629 
+#SDC Ite:273 KerTime:0.114854 AccTime:32.429753 KerErr:1 AccErr:1
+#IT Ite:274 KerTime:0.111649 AccTime:32.541402
+#IT Ite:275 KerTime:0.111045 AccTime:32.652447
+#IT Ite:276 KerTime:0.100741 AccTime:32.753188
+#IT Ite:277 KerTime:0.112437 AccTime:32.865625
+#IT Ite:278 KerTime:0.120072 AccTime:32.985697
+#IT Ite:279 KerTime:0.119659 AccTime:33.105356
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_002683.jpg class: sheep box: [22] x1_e: 371.187866211 x1_r: 371.18460083 y1_e: 196.789733887 y1_r: 196.795318604 x2_e: 428.444580078 x2_r: 428.444610596 y2_e: 289.891448975 y2_r: 289.889251709 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_002683.jpg class: horse box: [21] x1_e: 372.506652832 x1_r: 372.503509521 y1_e: 187.858474731 y1_r: 187.865005493 x2_e: 428.208007812 x2_r: 428.207855225 y2_e: 289.181304932 y2_r: 289.178710938 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_002683.jpg class: bicycle box: [21] x1_e: 370.828094482 x1_r: 370.824493408 y1_e: 204.606872559 y1_r: 204.612030029 x2_e: 429.741912842 x2_r: 429.742095947 y2_e: 287.771942139 y2_r: 287.769836426 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_002683.jpg class: motorbike box: [18] x1_e: 45.3717193604 x1_r: 45.3661499023 y1_e: 219.970916748 y1_r: 219.971908569 x2_e: 499.0 x2_r: 499.0 y2_e: 323.998321533 y2_r: 323.996887207 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_002683.jpg class: motorbike box: [21] x1_e: 367.999938965 x1_r: 367.996429443 y1_e: 198.871368408 y1_r: 198.876831055 x2_e: 431.349121094 x2_r: 431.349395752 y2_e: 289.249633789 y2_r: 289.24710083 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_002683.jpg class: cow box: [21] x1_e: 372.036468506 x1_r: 372.033172607 y1_e: 191.979171753 y1_r: 191.985229492 x2_e: 429.118560791 x2_r: 429.118621826 y2_e: 294.616241455 y2_r: 294.613494873 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_002683.jpg class: sofa box: [21] x1_e: 364.692169189 x1_r: 364.688598633 y1_e: 184.63117981 y1_r: 184.638031006 x2_e: 434.02053833 x2_r: 434.020690918 y2_e: 299.443695068 y2_r: 299.440307617 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_002683.jpg class: aeroplane box: [19] x1_e: 367.492950439 x1_r: 367.489379883 y1_e: 192.151611328 y1_r: 192.157852173 x2_e: 432.550140381 x2_r: 432.550354004 y2_e: 292.629058838 y2_r: 292.626098633 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_002683.jpg class: dog box: [24] x1_e: 371.973358154 x1_r: 371.969787598 y1_e: 191.763977051 y1_r: 191.770050049 x2_e: 427.076568604 x2_r: 427.076599121 y2_e: 287.523132324 y2_r: 287.52041626 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_002683.jpg class: cat box: [25] x1_e: 374.5887146 x1_r: 374.585540771 y1_e: 190.998901367 y1_r: 191.004959106 x2_e: 424.924591064 x2_r: 424.924407959 y2_e: 286.432861328 y2_r: 286.430236816 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_002683.jpg class: person box: [19] x1_e: 135.564422607 x1_r: 135.559402466 y1_e: 206.100021362 y1_r: 206.101226807 x2_e: 467.139129639 x2_r: 467.140319824 y2_e: 311.234771729 y2_r: 311.233551025 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_002683.jpg class: person box: [21] x1_e: 379.519592285 x1_r: 379.51663208 y1_e: 181.418960571 y1_r: 181.425521851 x2_e: 424.211975098 x2_r: 424.211761475 y2_e: 282.862823486 y2_r: 282.860290527 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_002683.jpg class: train box: [18] x1_e: 17.1506652832 x1_r: 17.1446533203 y1_e: 210.536682129 y1_r: 210.537963867 x2_e: 499.0 x2_r: 499.0 y2_e: 322.938049316 y2_r: 322.936584473 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_002683.jpg class: train box: [21] x1_e: 369.195465088 x1_r: 369.192077637 y1_e: 192.490539551 y1_r: 192.496658325 x2_e: 431.28793335 x2_r: 431.288085938 y2_e: 289.186340332 y2_r: 289.183959961 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_002683.jpg class: diningtable box: [20] x1_e: 368.308746338 x1_r: 368.305541992 y1_e: 197.118804932 y1_r: 197.124740601 x2_e: 428.796173096 x2_r: 428.796203613 y2_e: 291.078613281 y2_r: 291.076263428 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_002683.jpg class: bottle box: [26] x1_e: 379.728729248 x1_r: 379.725952148 y1_e: 196.236740112 y1_r: 196.242370605 x2_e: 421.473419189 x2_r: 421.473022461 y2_e: 287.942321777 y2_r: 287.940093994 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_002683.jpg class: bus box: [17] x1_e: 32.4515533447 x1_r: 32.4459838867 y1_e: 207.587783813 y1_r: 207.589126587 x2_e: 499.0 x2_r: 499.0 y2_e: 326.02734375 y2_r: 326.025909424 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_002683.jpg class: bus box: [21] x1_e: 368.528289795 x1_r: 368.525115967 y1_e: 195.133148193 y1_r: 195.13899231 x2_e: 431.252716064 x2_r: 431.252655029 y2_e: 291.205688477 y2_r: 291.203338623 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_002683.jpg class: pottedplant box: [25] x1_e: 374.754089355 x1_r: 374.750976562 y1_e: 188.744003296 y1_r: 188.750442505 x2_e: 426.798034668 x2_r: 426.797973633 y2_e: 292.276763916 y2_r: 292.273895264 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_002683.jpg class: tvmonitor box: [24] x1_e: 370.448516846 x1_r: 370.445129395 y1_e: 190.398193359 y1_r: 190.404556274 x2_e: 430.58694458 x2_r: 430.587097168 y2_e: 294.972412109 y2_r: 294.969726562 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_002683.jpg class: chair box: [21] x1_e: 370.329681396 x1_r: 370.32598877 y1_e: 191.520690918 y1_r: 191.52722168 x2_e: 430.121856689 x2_r: 430.122192383 y2_e: 292.470397949 y2_r: 292.467254639 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_002683.jpg class: bird box: [24] x1_e: 372.85168457 x1_r: 372.848266602 y1_e: 189.193313599 y1_r: 189.199462891 x2_e: 427.299133301 x2_r: 427.299072266 y2_e: 289.54598999 y2_r: 289.543395996 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_002683.jpg class: boat box: [18] x1_e: 368.96887207 x1_r: 368.965484619 y1_e: 186.13671875 y1_r: 186.143661499 x2_e: 431.819946289 x2_r: 431.820159912 y2_e: 298.048522949 y2_r: 298.045135498 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_002683.jpg class: car box: [21] x1_e: 368.648681641 x1_r: 368.645294189 y1_e: 192.241378784 y1_r: 192.247497559 x2_e: 429.603942871 x2_r: 429.603912354 y2_e: 287.937194824 y2_r: 287.934967041 
+#SDC Ite:279 KerTime:0.119659 AccTime:33.105356 KerErr:24 AccErr:25
+#IT Ite:280 KerTime:0.119121 AccTime:33.224477
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_003126.jpg class: horse box: [4] x1_e: 20.0125656128 x1_r: 285.859863281 y1_e: 85.9121246338 y1_r: 124.015144348 x2_e: 144.045501709 x2_r: 399.0 y2_e: 176.174575806 y2_r: 246.197753906 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_003126.jpg class: horse box: [5] x1_e: 285.859802246 x1_r: 20.0125236511 y1_e: 124.015144348 y1_r: 85.9123077393 x2_e: 399.0 x2_r: 144.045333862 y2_e: 246.197753906 y2_r: 176.174545288 
+#ERR exception: error_network_exection error_info:['Traceback (most recent call last):\n', '  File "/home/carol/radiation-benchmarks/src/cuda/py-faster-rcnn/tools/py_faster_rcnn.py", line 477, in <module>\n    error_count = compare(gold_file[im_name], ret, im_name)\n', '  File "/home/carol/radiation-benchmarks/src/cuda/py-faster-rcnn/tools/py_faster_rcnn.py", line 354, in compare\n    error_count += compare_scores(scrListGold, scrListCurr, i, tempImgName)\n', '  File "/home/carol/radiation-benchmarks/src/cuda/py-faster-rcnn/tools/py_faster_rcnn.py", line 305, in compare_scores\n    lh.log_error_detail("img_name: " + str(img_name) + " class: " + str(cls) + "wrong_score_size: " + scrDiff)\n', "TypeError: cannot concatenate 'str' and 'int' objects\n"] XX Inappropriate argument type. XX cannot concatenate 'str' and 'int' objects
+#END

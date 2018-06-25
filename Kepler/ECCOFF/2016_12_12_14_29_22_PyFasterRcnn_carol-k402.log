@@ -1,0 +1,522 @@
+#HEADER iterations: 1000 img_list: /home/carol/radiation-benchmarks/data/networks_img_list/voc.2012.1K.txt board: K40
+#BEGIN Y:2016 M:12 D:12 Time:14:29:22
+#IT Ite:0 KerTime:0.266552 AccTime:0.266552
+#IT Ite:1 KerTime:0.255469 AccTime:0.522021
+#IT Ite:2 KerTime:0.287972 AccTime:0.809993
+#IT Ite:3 KerTime:0.263486 AccTime:1.073479
+#IT Ite:4 KerTime:0.263890 AccTime:1.337369
+#IT Ite:5 KerTime:0.269680 AccTime:1.607049
+#IT Ite:6 KerTime:0.266593 AccTime:1.873642
+#IT Ite:7 KerTime:0.267052 AccTime:2.140694
+#IT Ite:8 KerTime:0.267697 AccTime:2.408391
+#IT Ite:9 KerTime:0.289961 AccTime:2.698352
+#IT Ite:10 KerTime:0.268032 AccTime:2.966384
+#IT Ite:11 KerTime:0.262682 AccTime:3.229066
+#IT Ite:12 KerTime:0.291401 AccTime:3.520467
+#IT Ite:13 KerTime:0.260039 AccTime:3.780506
+#IT Ite:14 KerTime:0.266525 AccTime:4.047031
+#IT Ite:15 KerTime:0.255756 AccTime:4.302787
+#IT Ite:16 KerTime:0.279145 AccTime:4.581932
+#IT Ite:17 KerTime:0.269567 AccTime:4.851499
+#IT Ite:18 KerTime:0.312394 AccTime:5.163893
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: sheep box: [0] x1_e: 65.7374343872 x1_r: 65.7462463379 y1_e: 12.9176597595 y1_r: 12.9349536896 x2_e: 131.502716064 x2_r: 131.50553894 y2_e: 56.0360527039 y2_r: 56.0385284424 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: sheep box: [6] x1_e: 109.605010986 x1_r: 109.597702026 y1_e: 34.8536834717 y1_r: 34.855758667 x2_e: 484.564483643 x2_r: 484.569335938 y2_e: 235.820632935 y2_r: 235.825027466 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: sheep box: [10] x1_e: 20.9104118347 x1_r: 20.9103317261 y1_e: 30.1090164185 y1_r: 30.1144180298 x2_e: 107.393753052 x2_r: 107.393806458 y2_e: 238.90637207 y2_r: 238.90447998 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: sheep box: [17] x1_e: 134.139801025 x1_r: 134.031799316 y1_e: 0.143882751465 y1_r: 0.14533996582 x2_e: 384.693817139 x2_r: 384.706726074 y2_e: 98.6378555298 y2_r: 98.6276626587 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: sheep box: [19] x1_e: 28.0328979492 x1_r: 28.0142822266 y1_e: 17.8842544556 y1_r: 17.8830337524 x2_e: 303.823760986 x2_r: 303.851318359 y2_e: 161.996307373 y2_r: 161.972229004 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: horse box: [0] x1_e: 64.5309829712 x1_r: 64.538848877 y1_e: 13.272600174 y1_r: 13.2890377045 x2_e: 133.109588623 x2_r: 133.113723755 y2_e: 56.7013473511 y2_r: 56.7027282715 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: horse box: [2] x1_e: 92.0644073486 x1_r: 92.0571289062 y1_e: 32.8973617554 y1_r: 32.9002609253 x2_e: 499.0 x2_r: 499.0 y2_e: 242.004150391 y2_r: 242.00958252 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: horse box: [14] x1_e: 117.463348389 x1_r: 117.464828491 y1_e: 38.2914047241 y1_r: 38.2967605591 x2_e: 234.211578369 x2_r: 234.211593628 y2_e: 191.337646484 y2_r: 191.33581543 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: horse box: [15] x1_e: 28.0735778809 x1_r: 28.0233154297 y1_e: 5.2631187439 y1_r: 5.2624206543 x2_e: 410.353942871 x2_r: 410.340667725 y2_e: 123.336685181 y2_r: 123.352249146 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: horse box: [18] x1_e: 45.9223823547 x1_r: 45.9606895447 y1_e: 2.02517700195 y1_r: 2.03847503662 x2_e: 152.288330078 x2_r: 152.318084717 y2_e: 158.329818726 y2_r: 158.326660156 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: bicycle box: [0] x1_e: 64.0846405029 x1_r: 64.0914764404 y1_e: 15.9125175476 y1_r: 15.9339923859 x2_e: 132.984420776 x2_r: 132.990692139 y2_e: 55.3504371643 y2_r: 55.3520202637 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: bicycle box: [9] x1_e: 20.1507263184 x1_r: 20.1220092773 y1_e: 23.4534759521 y1_r: 23.4504165649 x2_e: 411.937316895 x2_r: 411.920898438 y2_e: 166.286499023 y2_r: 166.267974854 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: bicycle box: [18] x1_e: 35.713104248 x1_r: 35.7474479675 y1_e: 7.10237121582 y1_r: 7.10285949707 x2_e: 163.131149292 x2_r: 163.171691895 y2_e: 147.424819946 y2_r: 147.405426025 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: motorbike box: [0] x1_e: 61.4789276123 x1_r: 61.4874000549 y1_e: 16.0864276886 y1_r: 16.1063137054 x2_e: 134.219055176 x2_r: 134.222518921 y2_e: 56.934173584 y2_r: 56.9349746704 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: motorbike box: [1] x1_e: 15.2022705078 x1_r: 15.2022285461 y1_e: 41.7927932739 y1_r: 41.7988128662 x2_e: 110.351455688 x2_r: 110.351364136 y2_e: 248.363525391 y2_r: 248.360610962 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: motorbike box: [2] x1_e: 20.5046463013 x1_r: 20.5033569336 y1_e: 71.5037002563 y1_r: 71.5193252563 x2_e: 254.942474365 x2_r: 254.958831787 y2_e: 287.441833496 y2_r: 287.444335938 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: motorbike box: [13] x1_e: 14.902053833 x1_r: 14.8779907227 y1_e: 32.0998535156 y1_r: 32.0983581543 x2_e: 406.996032715 x2_r: 406.976043701 y2_e: 171.121856689 y2_r: 171.100570679 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: motorbike box: [16] x1_e: 120.119598389 x1_r: 120.004180908 y1_e: 0.0 y1_r: 0.0 x2_e: 383.522338867 x2_r: 383.536102295 y2_e: 103.050811768 y2_r: 103.033279419 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: motorbike box: [18] x1_e: 44.3601570129 x1_r: 44.4053573608 y1_e: 16.9252471924 y1_r: 16.9394836426 x2_e: 151.534622192 x2_r: 151.556121826 y2_e: 162.390426636 y2_r: 162.376647949 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: cow box: [0] x1_e: 64.9716186523 x1_r: 64.9800109863 y1_e: 13.9888000488 y1_r: 14.0053806305 x2_e: 132.195495605 x2_r: 132.199249268 y2_e: 57.7399291992 y2_r: 57.740447998 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: cow box: [3] x1_e: 22.7529830933 x1_r: 22.752872467 y1_e: 28.4469833374 y1_r: 28.4528884888 x2_e: 106.173606873 x2_r: 106.173583984 y2_e: 241.976593018 y2_r: 241.974121094 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: cow box: [4] x1_e: 115.300521851 x1_r: 115.291885376 y1_e: 30.9980239868 y1_r: 31.000831604 x2_e: 480.43536377 x2_r: 480.439880371 y2_e: 236.954162598 y2_r: 236.959442139 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: cow box: [16] x1_e: 58.537689209 x1_r: 58.4916992188 y1_e: 10.9872245789 y1_r: 10.9867515564 x2_e: 389.048614502 x2_r: 389.042907715 y2_e: 123.770370483 y2_r: 123.785720825 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: cow box: [19] x1_e: 41.8160591125 x1_r: 41.852230072 y1_e: 4.74582672119 y1_r: 4.74625396729 x2_e: 157.191329956 x2_r: 157.234054565 y2_e: 152.012756348 y2_r: 151.997375488 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: sofa box: [1] x1_e: 7.36944580078 x1_r: 7.37873840332 y1_e: 40.9752731323 y1_r: 40.9747619629 x2_e: 499.0 x2_r: 499.0 y2_e: 264.474334717 y2_r: 264.477935791 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: sofa box: [2] x1_e: 62.7816162109 x1_r: 62.7912864685 y1_e: 14.3755130768 y1_r: 14.394197464 x2_e: 134.239517212 x2_r: 134.244598389 y2_e: 56.7805633545 y2_r: 56.780708313 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: sofa box: [5] x1_e: 15.28125 x1_r: 15.2809867859 y1_e: 35.3044281006 y1_r: 35.3112258911 x2_e: 115.514877319 x2_r: 115.515106201 y2_e: 243.057785034 y2_r: 243.055419922 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: sofa box: [8] x1_e: 20.8046722412 x1_r: 20.7395782471 y1_e: 14.0457305908 y1_r: 14.0466308594 x2_e: 413.786499023 x2_r: 413.78894043 y2_e: 122.78616333 y2_r: 122.798721313 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: aeroplane box: [0] x1_e: 60.7793312073 x1_r: 60.7926483154 y1_e: 14.1632270813 y1_r: 14.1804103851 x2_e: 136.325164795 x2_r: 136.32850647 y2_e: 57.1884117126 y2_r: 57.1898193359 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: aeroplane box: [5] x1_e: 13.3409690857 x1_r: 13.3407478333 y1_e: 22.4477386475 y1_r: 22.4530944824 x2_e: 116.716949463 x2_r: 116.717086792 y2_e: 249.240127563 y2_r: 249.2371521 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: aeroplane box: [14] x1_e: 104.341873169 x1_r: 104.199905396 y1_e: 0.0 y1_r: 0.0 x2_e: 406.781738281 x2_r: 406.808959961 y2_e: 100.916885376 y2_r: 100.901290894 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: dog box: [1] x1_e: 65.8004074097 x1_r: 65.8123016357 y1_e: 14.5880622864 y1_r: 14.6067371368 x2_e: 130.144958496 x2_r: 130.146850586 y2_e: 55.6503334045 y2_r: 55.6511917114 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: dog box: [9] x1_e: 25.3145294189 x1_r: 25.3142852783 y1_e: 44.3777770996 y1_r: 44.3841018677 x2_e: 101.624542236 x2_r: 101.624580383 y2_e: 236.166534424 y2_r: 236.164001465 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: dog box: [17] x1_e: 51.6222991943 x1_r: 51.5893859863 y1_e: 43.5472984314 y1_r: 43.5428123474 x2_e: 380.77557373 x2_r: 380.756225586 y2_e: 166.826538086 y2_r: 166.808013916 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: dog box: [18] x1_e: 143.36579895 x1_r: 143.251983643 y1_e: 7.74628829956 y1_r: 7.74974060059 x2_e: 370.062805176 x2_r: 370.063079834 y2_e: 97.5439758301 y2_r: 97.5281295776 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: dog box: [19] x1_e: 43.6300888062 x1_r: 43.6744194031 y1_e: 16.3603820801 y1_r: 16.3600997925 x2_e: 150.632843018 x2_r: 150.679595947 y2_e: 147.805557251 y2_r: 147.78918457 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: cat box: [0] x1_e: 67.8006973267 x1_r: 67.8119430542 y1_e: 14.9230365753 y1_r: 14.9400615692 x2_e: 129.398757935 x2_r: 129.400695801 y2_e: 51.801071167 y2_r: 51.8035812378 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: cat box: [6] x1_e: 26.2655410767 x1_r: 26.2653961182 y1_e: 39.8137893677 y1_r: 39.8196640015 x2_e: 103.787437439 x2_r: 103.78742981 y2_e: 226.122039795 y2_r: 226.119903564 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: cat box: [15] x1_e: 138.713195801 x1_r: 138.600036621 y1_e: 5.9761428833 y1_r: 5.97800064087 x2_e: 373.045227051 x2_r: 373.048919678 y2_e: 94.0718765259 y2_r: 94.055267334 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: cat box: [18] x1_e: 33.5604553223 x1_r: 33.5419769287 y1_e: 27.983253479 y1_r: 27.986831665 x2_e: 299.00289917 x2_r: 299.030151367 y2_e: 159.593505859 y2_r: 159.56590271 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: cat box: [19] x1_e: 54.893119812 x1_r: 54.9384269714 y1_e: 16.5549926758 y1_r: 16.5718765259 x2_e: 141.40234375 x2_r: 141.437271118 y2_e: 147.096099854 y2_r: 147.094848633 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: person box: [11] x1_e: 66.1478118896 x1_r: 66.1518859863 y1_e: 14.1631717682 y1_r: 14.1803474426 x2_e: 132.47819519 x2_r: 132.489807129 y2_e: 56.2804412842 y2_r: 56.2808494568 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: person box: [15] x1_e: 119.457199097 x1_r: 119.359588623 y1_e: 39.6798973083 y1_r: 39.6896820068 x2_e: 392.213134766 x2_r: 392.234039307 y2_e: 155.590118408 y2_r: 155.598587036 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: train box: [0] x1_e: 0.0 x1_r: 0.0 y1_e: 7.55653381348 y1_r: 7.55039215088 x2_e: 442.269104004 x2_r: 442.254089355 y2_e: 168.114074707 y2_r: 168.095703125 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: train box: [1] x1_e: 62.4389686584 x1_r: 62.4475860596 y1_e: 13.8174858093 y1_r: 13.8335647583 x2_e: 134.277740479 x2_r: 134.282226562 y2_e: 55.8009681702 y2_r: 55.802406311 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: diningtable box: [4] x1_e: 0.0 x1_r: 0.0 y1_e: 36.2841415405 y1_r: 36.269569397 x2_e: 208.964630127 x2_r: 208.956695557 y2_e: 265.992401123 y2_r: 265.994354248 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: diningtable box: [5] x1_e: 58.2079086304 x1_r: 58.2152519226 y1_e: 14.4385204315 y1_r: 14.4564723969 x2_e: 135.788482666 x2_r: 135.796554565 y2_e: 58.1980743408 y2_r: 58.1984329224 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: diningtable box: [14] x1_e: 0.0 x1_r: 0.0 y1_e: 11.8764610291 y1_r: 11.8730354309 x2_e: 420.930236816 x2_r: 420.911804199 y2_e: 124.4818573 y2_r: 124.485839844 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: bottle box: [2] x1_e: 70.4258422852 x1_r: 70.4360351562 y1_e: 13.7333049774 y1_r: 13.7521724701 x2_e: 127.115966797 x2_r: 127.113769531 y2_e: 52.8762207031 y2_r: 52.8771286011 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: bottle box: [17] x1_e: 145.427780151 x1_r: 145.42149353 y1_e: 20.3009643555 y1_r: 20.3048400879 x2_e: 447.895019531 x2_r: 447.897766113 y2_e: 227.122451782 y2_r: 227.126586914 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: bottle box: [19] x1_e: 67.4409790039 x1_r: 67.3924102783 y1_e: 0.336624145508 y1_r: 0.3327293396 x2_e: 364.237762451 x2_r: 364.235229492 y2_e: 117.862739563 y2_r: 117.880020142 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: bottle box: [22] x1_e: 50.6340484619 x1_r: 50.6624679565 y1_e: 2.22951507568 y1_r: 2.21997070312 x2_e: 144.983444214 x2_r: 145.020263672 y2_e: 139.677062988 y2_r: 139.6612854 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: bus box: [0] x1_e: 6.17202758789 x1_r: 6.10847473145 y1_e: 0.0 y1_r: 0.0 x2_e: 419.546508789 x2_r: 419.541015625 y2_e: 120.89138031 y2_r: 120.905319214 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: bus box: [1] x1_e: 62.7649993896 x1_r: 62.7729682922 y1_e: 13.3741207123 y1_r: 13.3914394379 x2_e: 133.863021851 x2_r: 133.867019653 y2_e: 55.6857833862 y2_r: 55.6854934692 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: bus box: [2] x1_e: 0.0 x1_r: 0.0 y1_e: 0.0 y1_r: 0.0 x2_e: 150.227371216 x2_r: 150.260314941 y2_e: 205.671539307 y2_r: 205.703765869 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: pottedplant box: [0] x1_e: 66.7143096924 x1_r: 66.725189209 y1_e: 12.8427734375 y1_r: 12.8624591827 x2_e: 129.984298706 x2_r: 129.984954834 y2_e: 55.8911361694 y2_r: 55.8939819336 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: pottedplant box: [2] x1_e: 25.1139831543 x1_r: 25.125125885 y1_e: 18.6689071655 y1_r: 18.6695251465 x2_e: 116.333618164 x2_r: 116.342529297 y2_e: 261.290252686 y2_r: 261.314819336 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: pottedplant box: [4] x1_e: 53.1383056641 x1_r: 53.1377792358 y1_e: 39.4138259888 y1_r: 39.4301528931 x2_e: 231.196350098 x2_r: 231.212799072 y2_e: 267.182525635 y2_r: 267.185913086 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: pottedplant box: [7] x1_e: 63.1510314941 x1_r: 63.0961456299 y1_e: 4.88533401489 y1_r: 4.8836479187 x2_e: 367.983062744 x2_r: 367.987121582 y2_e: 114.787628174 y2_r: 114.806671143 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: pottedplant box: [9] x1_e: 49.3084182739 x1_r: 49.3405189514 y1_e: 1.8143081665 y1_r: 1.80355834961 x2_e: 149.863647461 x2_r: 149.908172607 y2_e: 140.573822021 y2_r: 140.559997559 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: tvmonitor box: [0] x1_e: 65.081741333 x1_r: 65.0892562866 y1_e: 13.3572597504 y1_r: 13.3756809235 x2_e: 133.020874023 x2_r: 133.024475098 y2_e: 55.0676269531 y2_r: 55.0695266724 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: tvmonitor box: [4] x1_e: 139.476806641 x1_r: 139.355560303 y1_e: 2.08992004395 y1_r: 2.09210586548 x2_e: 378.552307129 x2_r: 378.571014404 y2_e: 85.2733459473 y2_r: 85.2597503662 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: tvmonitor box: [11] x1_e: 107.936645508 x1_r: 107.928359985 y1_e: 22.2416305542 y1_r: 22.244392395 x2_e: 478.025756836 x2_r: 478.03112793 y2_e: 203.586791992 y2_r: 203.5909729 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: tvmonitor box: [18] x1_e: 28.468460083 x1_r: 28.450592041 y1_e: 15.1095428467 y1_r: 15.10704422 x2_e: 300.814208984 x2_r: 300.85055542 y2_e: 135.729614258 y2_r: 135.701019287 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: chair box: [2] x1_e: 64.5950622559 x1_r: 64.6024627686 y1_e: 16.3075942993 y1_r: 16.3278865814 x2_e: 132.297546387 x2_r: 132.299255371 y2_e: 58.991897583 y2_r: 58.9920349121 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: chair box: [6] x1_e: 22.2264709473 x1_r: 22.2419586182 y1_e: 37.9676361084 y1_r: 37.9440383911 x2_e: 205.403640747 x2_r: 205.418045044 y2_e: 272.982543945 y2_r: 272.991668701 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: chair box: [11] x1_e: 96.4551849365 x1_r: 96.4450073242 y1_e: 43.1622161865 y1_r: 43.1666564941 x2_e: 499.0 x2_r: 499.0 y2_e: 235.546401978 y2_r: 235.552154541 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: chair box: [16] x1_e: 135.2394104 x1_r: 135.125411987 y1_e: 0.347141265869 y1_r: 0.354251861572 x2_e: 393.822113037 x2_r: 393.840087891 y2_e: 108.664855957 y2_r: 108.651977539 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: chair box: [19] x1_e: 50.1605949402 x1_r: 50.2018508911 y1_e: 17.8074493408 y1_r: 17.8122024536 x2_e: 145.990371704 x2_r: 146.02545166 y2_e: 162.447982788 y2_r: 162.441314697 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: bird box: [0] x1_e: 68.7257156372 x1_r: 68.7389526367 y1_e: 14.0855426788 y1_r: 14.1066741943 x2_e: 129.604721069 x2_r: 129.605712891 y2_e: 53.6997528076 y2_r: 53.7016906738 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: bird box: [6] x1_e: 26.0027961731 x1_r: 26.002658844 y1_e: 29.0178985596 y1_r: 29.024307251 x2_e: 105.46711731 x2_r: 105.467163086 y2_e: 232.215042114 y2_r: 232.212692261 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: bird box: [15] x1_e: 67.7308197021 x1_r: 67.7255859375 y1_e: 32.8677902222 y1_r: 32.8722229004 x2_e: 344.983032227 x2_r: 344.957977295 y2_e: 168.143615723 y2_r: 168.15814209 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: bird box: [17] x1_e: 145.244812012 x1_r: 145.14213562 y1_e: 0.470867156982 y1_r: 0.476078033447 x2_e: 378.990112305 x2_r: 378.995483398 y2_e: 95.536819458 y2_r: 95.5215148926 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: bird box: [20] x1_e: 48.561958313 x1_r: 48.6013946533 y1_e: 5.55846405029 y1_r: 5.55944824219 x2_e: 152.1534729 x2_r: 152.201965332 y2_e: 140.151153564 y2_r: 140.133972168 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: boat box: [0] x1_e: 65.7061767578 x1_r: 65.7176132202 y1_e: 13.6930370331 y1_r: 13.7152824402 x2_e: 132.000823975 x2_r: 132.002624512 y2_e: 57.1545639038 y2_r: 57.1575584412 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: boat box: [2] x1_e: 3.93663024902 x1_r: 3.87460327148 y1_e: 0.0 y1_r: 0.0 x2_e: 430.484558105 x2_r: 430.485809326 y2_e: 129.431655884 y2_r: 129.445220947 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: boat box: [4] x1_e: 5.0274887085 x1_r: 141.887542725 y1_e: 0.0 y1_r: 34.8425521851 x2_e: 148.423797607 x2_r: 494.010650635 y2_e: 220.329376221 y2_r: 259.970611572 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: boat box: [5] x1_e: 141.88734436 x1_r: 5.04614257812 y1_e: 34.8425369263 y1_r: 0.0 x2_e: 494.010803223 x2_r: 148.449798584 y2_e: 259.970703125 y2_r: 220.373672485 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: car box: [0] x1_e: 14.848236084 x1_r: 14.8480148315 y1_e: 24.2057571411 y1_r: 24.2123184204 x2_e: 113.123603821 x2_r: 113.123725891 y2_e: 234.468597412 y2_r: 234.465087891 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: car box: [1] x1_e: 62.7777938843 x1_r: 62.7868270874 y1_e: 13.8770103455 y1_r: 13.898103714 x2_e: 134.259521484 x2_r: 134.263641357 y2_e: 55.8628425598 y2_r: 55.8615188599 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_000449.jpg class: car box: [4] x1_e: 16.407043457 x1_r: 16.3377075195 y1_e: 4.3469543457 y1_r: 4.34783172607 x2_e: 420.303039551 x2_r: 420.303070068 y2_e: 122.821731567 y2_r: 122.836624146 
+#SDC Ite:18 KerTime:0.312394 AccTime:5.163893 KerErr:81 AccErr:81
+#IT Ite:19 KerTime:0.268586 AccTime:5.432479
+#IT Ite:20 KerTime:0.263801 AccTime:5.696280
+#IT Ite:21 KerTime:0.290589 AccTime:5.986869
+#IT Ite:22 KerTime:0.292030 AccTime:6.278899
+#IT Ite:23 KerTime:0.253185 AccTime:6.532084
+#IT Ite:24 KerTime:0.251867 AccTime:6.783951
+#IT Ite:25 KerTime:0.262831 AccTime:7.046782
+#IT Ite:26 KerTime:0.267429 AccTime:7.314211
+#IT Ite:27 KerTime:0.290450 AccTime:7.604661
+#IT Ite:28 KerTime:0.268469 AccTime:7.873130
+#IT Ite:29 KerTime:0.294269 AccTime:8.167399
+#IT Ite:30 KerTime:0.285864 AccTime:8.453263
+#IT Ite:31 KerTime:0.253615 AccTime:8.706878
+#IT Ite:32 KerTime:0.280988 AccTime:8.987866
+#IT Ite:33 KerTime:0.265021 AccTime:9.252887
+#IT Ite:34 KerTime:0.263005 AccTime:9.515892
+#IT Ite:35 KerTime:0.262832 AccTime:9.778724
+#IT Ite:36 KerTime:0.268819 AccTime:10.047543
+#IT Ite:37 KerTime:0.290313 AccTime:10.337856
+#IT Ite:38 KerTime:0.247621 AccTime:10.585477
+#IT Ite:39 KerTime:0.264060 AccTime:10.849537
+#IT Ite:40 KerTime:0.268430 AccTime:11.117967
+#IT Ite:41 KerTime:0.266894 AccTime:11.384861
+#IT Ite:42 KerTime:0.252120 AccTime:11.636981
+#IT Ite:43 KerTime:0.264556 AccTime:11.901537
+#IT Ite:44 KerTime:0.278570 AccTime:12.180107
+#IT Ite:45 KerTime:0.284953 AccTime:12.465060
+#IT Ite:46 KerTime:0.257885 AccTime:12.722945
+#IT Ite:47 KerTime:0.277897 AccTime:13.000842
+#IT Ite:48 KerTime:0.256209 AccTime:13.257051
+#IT Ite:49 KerTime:0.263159 AccTime:13.520210
+#IT Ite:50 KerTime:0.266502 AccTime:13.786712
+#IT Ite:51 KerTime:0.268404 AccTime:14.055116
+#IT Ite:52 KerTime:0.263564 AccTime:14.318680
+#IT Ite:53 KerTime:0.261468 AccTime:14.580148
+#IT Ite:54 KerTime:0.268902 AccTime:14.849050
+#IT Ite:55 KerTime:0.268762 AccTime:15.117812
+#IT Ite:56 KerTime:0.262008 AccTime:15.379820
+#IT Ite:57 KerTime:0.263935 AccTime:15.643755
+#IT Ite:58 KerTime:0.262153 AccTime:15.905908
+#IT Ite:59 KerTime:0.262398 AccTime:16.168306
+#IT Ite:60 KerTime:0.267855 AccTime:16.436161
+#IT Ite:61 KerTime:0.266802 AccTime:16.702963
+#IT Ite:62 KerTime:0.278099 AccTime:16.981062
+#IT Ite:63 KerTime:0.291633 AccTime:17.272695
+#IT Ite:64 KerTime:0.262902 AccTime:17.535597
+#IT Ite:65 KerTime:0.289860 AccTime:17.825457
+#IT Ite:66 KerTime:0.281356 AccTime:18.106813
+#IT Ite:67 KerTime:0.262751 AccTime:18.369564
+#IT Ite:68 KerTime:0.270095 AccTime:18.639659
+#IT Ite:69 KerTime:0.265614 AccTime:18.905273
+#IT Ite:70 KerTime:0.253008 AccTime:19.158281
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_001194.jpg class: bicycle box: [2] x1_e: 198.638275146 x1_r: 198.639297485 y1_e: 197.248092651 y1_r: 197.242416382 x2_e: 374.0 x2_r: 374.0 y2_e: 499.0 y2_r: 499.0 
+#SDC Ite:70 KerTime:0.253008 AccTime:19.158281 KerErr:1 AccErr:82
+#IT Ite:71 KerTime:0.263880 AccTime:19.422161
+#IT Ite:72 KerTime:0.263013 AccTime:19.685174
+#IT Ite:73 KerTime:0.306348 AccTime:19.991522
+#IT Ite:74 KerTime:0.290194 AccTime:20.281716
+#IT Ite:75 KerTime:0.262895 AccTime:20.544611
+#IT Ite:76 KerTime:0.262288 AccTime:20.806899
+#IT Ite:77 KerTime:0.262286 AccTime:21.069185
+#IT Ite:78 KerTime:0.286605 AccTime:21.355790
+#IT Ite:79 KerTime:0.261474 AccTime:21.617264
+#IT Ite:80 KerTime:0.254122 AccTime:21.871386
+#IT Ite:81 KerTime:0.292180 AccTime:22.163566
+#IT Ite:82 KerTime:0.267508 AccTime:22.431074
+#IT Ite:83 KerTime:0.290211 AccTime:22.721285
+#IT Ite:84 KerTime:0.265450 AccTime:22.986735
+#IT Ite:85 KerTime:0.266461 AccTime:23.253196
+#IT Ite:86 KerTime:0.254934 AccTime:23.508130
+#IT Ite:87 KerTime:0.286062 AccTime:23.794192
+#IT Ite:88 KerTime:0.264111 AccTime:24.058303
+#IT Ite:89 KerTime:0.291907 AccTime:24.350210
+#IT Ite:90 KerTime:0.297942 AccTime:24.648152
+#IT Ite:91 KerTime:0.286675 AccTime:24.934827
+#IT Ite:92 KerTime:0.263202 AccTime:25.198029
+#IT Ite:93 KerTime:0.287386 AccTime:25.485415
+#IT Ite:94 KerTime:0.253938 AccTime:25.739353
+#IT Ite:95 KerTime:0.263570 AccTime:26.002923
+#IT Ite:96 KerTime:0.266653 AccTime:26.269576
+#IT Ite:97 KerTime:0.291758 AccTime:26.561334
+#IT Ite:98 KerTime:0.266837 AccTime:26.828171
+#IT Ite:99 KerTime:0.263189 AccTime:27.091360
+#IT Ite:100 KerTime:0.289260 AccTime:27.380620
+#IT Ite:101 KerTime:0.278841 AccTime:27.659461
+#IT Ite:102 KerTime:0.259136 AccTime:27.918597
+#IT Ite:103 KerTime:0.267234 AccTime:28.185831
+#IT Ite:104 KerTime:0.281967 AccTime:28.467798
+#IT Ite:105 KerTime:0.265606 AccTime:28.733404
+#IT Ite:106 KerTime:0.269108 AccTime:29.002512
+#IT Ite:107 KerTime:0.286462 AccTime:29.288974
+#IT Ite:108 KerTime:0.266711 AccTime:29.555685
+#IT Ite:109 KerTime:0.289771 AccTime:29.845456
+#IT Ite:110 KerTime:0.289159 AccTime:30.134615
+#IT Ite:111 KerTime:0.255869 AccTime:30.390484
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: sheep box: [0] x1_e: 17.7539825439 x1_r: 17.4379425049 y1_e: 222.452163696 y1_r: 222.326599121 x2_e: 342.809570312 x2_r: 342.75189209 y2_e: 499.0 y2_r: 499.0 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: sheep box: [1] x1_e: 31.3003540039 x1_r: 31.3724822998 y1_e: 12.0807113647 y1_r: 12.109336853 x2_e: 351.652893066 x2_r: 351.557556152 y2_e: 241.719482422 y2_r: 242.145263672 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: sheep box: [2] x1_e: 9.92530822754 x1_r: 9.93934631348 y1_e: 20.1084747314 y1_r: 20.1772003174 x2_e: 140.115707397 x2_r: 140.000061035 y2_e: 222.40423584 y2_r: 222.456451416 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: sheep box: [3] x1_e: 179.128967285 x1_r: 179.151382446 y1_e: 178.912841797 y1_r: 178.772781372 x2_e: 238.544067383 x2_r: 238.475845337 y2_e: 228.999359131 y2_r: 229.006668091 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: sheep box: [4] x1_e: 235.470916748 x1_r: 235.548156738 y1_e: 226.589599609 y1_r: 226.501800537 x2_e: 374.0 x2_r: 374.0 y2_e: 497.133789062 y2_r: 497.173492432 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: sheep box: [5] x1_e: 76.0553436279 x1_r: 76.0800933838 y1_e: 165.19543457 y1_r: 165.073196411 x2_e: 372.204833984 x2_r: 371.940063477 y2_e: 246.557373047 y2_r: 246.506698608 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: sheep box: [6] x1_e: 146.282730103 x1_r: 146.242340088 y1_e: 32.5270347595 y1_r: 32.5717163086 x2_e: 195.55140686 x2_r: 195.537414551 y2_e: 94.5980377197 y2_r: 94.684753418 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: sheep box: [7] x1_e: 122.269592285 x1_r: 122.266090393 y1_e: 270.695983887 y1_r: 270.72744751 x2_e: 179.028594971 x2_r: 179.033569336 y2_e: 380.960510254 y2_r: 381.037689209 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: sheep box: [8] x1_e: 258.934936523 x1_r: 258.936004639 y1_e: 6.99812698364 y1_r: 7.03581237793 x2_e: 318.092407227 x2_r: 318.117156982 y2_e: 71.5771179199 y2_r: 71.5453872681 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: sheep box: [9] x1_e: 166.982879639 x1_r: 166.993179321 y1_e: 232.423431396 y1_r: 232.427154541 x2_e: 236.948394775 x2_r: 236.948104858 y2_e: 256.490539551 y2_r: 256.510559082 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: sheep box: [10] x1_e: 179.575286865 x1_r: 179.579315186 y1_e: 247.510452271 y1_r: 247.541564941 x2_e: 225.160827637 x2_r: 225.18258667 y2_e: 276.349212646 y2_r: 276.396484375 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: horse box: [0] x1_e: 23.3244781494 x1_r: 22.9571075439 y1_e: 205.083847046 y1_r: 204.961257935 x2_e: 338.817565918 x2_r: 338.766967773 y2_e: 484.831115723 y2_r: 484.844787598 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: horse box: [1] x1_e: 0.0 x1_r: 0.0 y1_e: 23.8000488281 y1_r: 23.8324279785 x2_e: 374.0 x2_r: 374.0 y2_e: 291.670135498 y2_r: 291.813140869 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: horse box: [2] x1_e: 10.9137878418 x1_r: 10.9206619263 y1_e: 21.6092834473 y1_r: 21.6578903198 x2_e: 149.874771118 x2_r: 149.749572754 y2_e: 235.127929688 y2_r: 235.179992676 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: horse box: [3] x1_e: 179.846572876 x1_r: 179.870025635 y1_e: 179.161727905 y1_r: 179.014938354 x2_e: 239.203109741 x2_r: 239.134674072 y2_e: 228.701187134 y2_r: 228.714797974 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: horse box: [4] x1_e: 145.003295898 x1_r: 144.963867188 y1_e: 31.7070884705 y1_r: 31.7516326904 x2_e: 198.918212891 x2_r: 198.903198242 y2_e: 98.0575714111 y2_r: 98.1474609375 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: horse box: [5] x1_e: 235.329483032 x1_r: 235.387527466 y1_e: 203.156387329 y1_r: 203.043701172 x2_e: 374.0 x2_r: 374.0 y2_e: 483.982116699 y2_r: 484.053588867 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: horse box: [6] x1_e: 77.1055908203 x1_r: 77.1663970947 y1_e: 156.239151001 y1_r: 156.105834961 x2_e: 374.0 x2_r: 374.0 y2_e: 238.867141724 y2_r: 238.819335938 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: horse box: [7] x1_e: 255.457351685 x1_r: 255.443130493 y1_e: 8.33675384521 y1_r: 8.38536834717 x2_e: 321.195129395 x2_r: 321.237762451 y2_e: 76.4327926636 y2_r: 76.406288147 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: horse box: [8] x1_e: 52.0344848633 x1_r: 52.0585479736 y1_e: 88.0063171387 y1_r: 88.0297775269 x2_e: 116.851715088 x2_r: 116.821075439 y2_e: 220.981048584 y2_r: 220.968109131 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: horse box: [9] x1_e: 123.591255188 x1_r: 123.583763123 y1_e: 266.33203125 y1_r: 266.361328125 x2_e: 181.152435303 x2_r: 181.158126831 y2_e: 385.521972656 y2_r: 385.598205566 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: horse box: [10] x1_e: 165.371170044 x1_r: 165.383529663 y1_e: 230.940826416 y1_r: 230.943252563 x2_e: 240.376785278 x2_r: 240.375198364 y2_e: 254.91998291 y2_r: 254.940261841 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: horse box: [11] x1_e: 177.831115723 x1_r: 177.834716797 y1_e: 245.83833313 y1_r: 245.865661621 x2_e: 228.7421875 x2_r: 228.765075684 y2_e: 275.003875732 y2_r: 275.048339844 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: bicycle box: [0] x1_e: 5.31214904785 x1_r: 4.97036743164 y1_e: 216.653808594 y1_r: 216.530899048 x2_e: 344.958374023 x2_r: 344.905761719 y2_e: 494.666442871 y2_r: 494.685546875 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: bicycle box: [1] x1_e: 20.275177002 x1_r: 20.3537597656 y1_e: 11.3877792358 y1_r: 11.4567871094 x2_e: 347.039520264 x2_r: 346.786315918 y2_e: 253.200164795 y2_r: 253.404724121 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: bicycle box: [2] x1_e: 9.29698181152 x1_r: 9.32526397705 y1_e: 98.0817184448 y1_r: 98.0281524658 x2_e: 162.518371582 x2_r: 162.35925293 y2_e: 226.138122559 y2_r: 226.178512573 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: bicycle box: [3] x1_e: 177.711761475 x1_r: 177.741424561 y1_e: 180.815795898 y1_r: 180.683181763 x2_e: 240.137329102 x2_r: 240.061462402 y2_e: 228.104309082 y2_r: 228.10508728 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: bicycle box: [4] x1_e: 210.304901123 x1_r: 76.4623565674 y1_e: 65.7331695557 y1_r: 170.057495117 x2_e: 372.878936768 x2_r: 373.901367188 y2_e: 470.935119629 y2_r: 241.371520996 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: bicycle box: [5] x1_e: 76.409072876 x1_r: 144.824417114 y1_e: 170.162994385 y1_r: 35.5955543518 x2_e: 374.0 x2_r: 197.294906616 y2_e: 241.418762207 y2_r: 94.5789337158 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: bicycle box: [6] x1_e: 144.862747192 x1_r: 207.236755371 y1_e: 35.5553665161 y1_r: 73.383392334 x2_e: 197.310195923 x2_r: 374.0 y2_e: 94.4934005737 y2_r: 455.20211792 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: bicycle box: [7] x1_e: 121.82106781 x1_r: 121.812774658 y1_e: 273.851531982 y1_r: 273.860748291 x2_e: 180.841293335 x2_r: 180.854492188 y2_e: 382.649017334 y2_r: 382.739959717 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: bicycle box: [8] x1_e: 257.134613037 x1_r: 257.124542236 y1_e: 11.3795051575 y1_r: 11.430393219 x2_e: 319.052215576 x2_r: 319.07913208 y2_e: 70.1716003418 y2_r: 70.1384887695 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: bicycle box: [9] x1_e: 168.940628052 x1_r: 168.951034546 y1_e: 233.597732544 y1_r: 233.6040802 x2_e: 236.961837769 x2_r: 236.960647583 y2_e: 254.611068726 y2_r: 254.630844116 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: bicycle box: [10] x1_e: 179.882522583 x1_r: 179.886352539 y1_e: 247.980178833 y1_r: 248.012695312 x2_e: 226.278396606 x2_r: 226.300170898 y2_e: 274.660186768 y2_r: 274.705749512 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: motorbike box: [0] x1_e: 0.0 x1_r: 0.0 y1_e: 150.603561401 y1_r: 150.676940918 x2_e: 344.145751953 x2_r: 344.31427002 y2_e: 492.983459473 y2_r: 493.022033691 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: motorbike box: [1] x1_e: 8.29983520508 x1_r: 8.32279205322 y1_e: 19.8279953003 y1_r: 19.8848495483 x2_e: 146.609909058 x2_r: 146.47177124 y2_e: 237.289978027 y2_r: 237.362365723 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: motorbike box: [2] x1_e: 35.4485168457 x1_r: 35.6087646484 y1_e: 25.3875808716 y1_r: 25.3610992432 x2_e: 348.953491211 x2_r: 348.847442627 y2_e: 275.158691406 y2_r: 275.393127441 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: motorbike box: [3] x1_e: 176.873901367 x1_r: 176.955200195 y1_e: 180.593276978 y1_r: 180.516769409 x2_e: 243.210235596 x2_r: 243.139892578 y2_e: 234.809707642 y2_r: 234.825271606 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: motorbike box: [4] x1_e: 215.391479492 x1_r: 215.396896362 y1_e: 212.377944946 y1_r: 212.454238892 x2_e: 374.0 x2_r: 374.0 y2_e: 499.0 y2_r: 499.0 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: motorbike box: [5] x1_e: 61.4510955811 x1_r: 61.5048370361 y1_e: 167.145019531 y1_r: 167.024810791 x2_e: 374.0 x2_r: 374.0 y2_e: 244.00567627 y2_r: 243.957824707 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: motorbike box: [6] x1_e: 142.917617798 x1_r: 142.879821777 y1_e: 35.4590454102 y1_r: 35.5085449219 x2_e: 198.347488403 x2_r: 198.332824707 y2_e: 99.0559387207 y2_r: 99.150894165 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: motorbike box: [7] x1_e: 119.027534485 x1_r: 119.021087646 y1_e: 269.607025146 y1_r: 269.632141113 x2_e: 181.918289185 x2_r: 181.929779053 y2_e: 392.359222412 y2_r: 392.454223633 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: motorbike box: [8] x1_e: 255.315490723 x1_r: 255.301895142 y1_e: 11.7450561523 y1_r: 11.7922325134 x2_e: 321.010559082 x2_r: 321.04397583 y2_e: 75.7719573975 y2_r: 75.740020752 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: motorbike box: [9] x1_e: 166.284194946 x1_r: 166.294570923 y1_e: 234.07661438 y1_r: 234.081237793 x2_e: 237.794570923 x2_r: 237.794784546 y2_e: 256.142303467 y2_r: 256.162902832 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: motorbike box: [10] x1_e: 177.661483765 x1_r: 177.663513184 y1_e: 249.853271484 y1_r: 249.886276245 x2_e: 226.937332153 x2_r: 226.960327148 y2_e: 277.28326416 y2_r: 277.331298828 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: cow box: [0] x1_e: 23.5860748291 x1_r: 23.2744903564 y1_e: 218.63168335 y1_r: 218.516891479 x2_e: 340.615539551 x2_r: 340.579345703 y2_e: 499.0 y2_r: 499.0 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: cow box: [1] x1_e: 40.4894256592 x1_r: 40.5743865967 y1_e: 12.8977355957 y1_r: 12.9501037598 x2_e: 349.523010254 x2_r: 349.405212402 y2_e: 247.943267822 y2_r: 248.426544189 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: cow box: [2] x1_e: 12.2796401978 x1_r: 12.2943382263 y1_e: 18.0535049438 y1_r: 18.1133575439 x2_e: 139.730316162 x2_r: 139.604415894 y2_e: 229.743804932 y2_r: 229.788314819 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: cow box: [3] x1_e: 179.706542969 x1_r: 179.731430054 y1_e: 178.919723511 y1_r: 178.774032593 x2_e: 238.801696777 x2_r: 238.734115601 y2_e: 230.532943726 y2_r: 230.54737854 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: cow box: [4] x1_e: 213.38343811 x1_r: 236.075164795 y1_e: 21.8381652832 y1_r: 217.017623901 x2_e: 374.0 x2_r: 374.0 y2_e: 492.468841553 y2_r: 497.555297852 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: cow box: [5] x1_e: 146.809951782 x1_r: 146.772842407 y1_e: 32.4963150024 y1_r: 32.5453720093 x2_e: 196.053726196 x2_r: 196.037826538 y2_e: 99.133934021 y2_r: 99.2300491333 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: cow box: [6] x1_e: 152.834106445 x1_r: 125.816650391 y1_e: 120.495857239 y1_r: 156.692321777 x2_e: 311.553283691 x2_r: 361.710083008 y2_e: 310.757873535 y2_r: 361.219238281 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: cow box: [7] x1_e: 123.070777893 x1_r: 123.068862915 y1_e: 269.687103271 y1_r: 269.721069336 x2_e: 179.492446899 x2_r: 179.496536255 y2_e: 393.486602783 y2_r: 393.563293457 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: cow box: [8] x1_e: 260.224090576 x1_r: 260.230194092 y1_e: 8.18517684937 y1_r: 8.22986221313 x2_e: 317.569366455 x2_r: 317.589813232 y2_e: 77.6399383545 y2_r: 77.6078491211 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: cow box: [9] x1_e: 167.877716064 x1_r: 167.887786865 y1_e: 232.412307739 y1_r: 232.414611816 x2_e: 236.991638184 x2_r: 236.991729736 y2_e: 256.654815674 y2_r: 256.675354004 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: cow box: [10] x1_e: 180.159835815 x1_r: 180.164260864 y1_e: 248.515487671 y1_r: 248.545440674 x2_e: 225.205886841 x2_r: 225.227523804 y2_e: 278.257385254 y2_r: 278.304962158 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: sofa box: [0] x1_e: 2.84715270996 x1_r: 3.00285339355 y1_e: 9.8988571167 y1_r: 9.95500946045 x2_e: 361.486328125 x2_r: 361.322631836 y2_e: 249.557678223 y2_r: 250.000091553 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: sofa box: [1] x1_e: 11.3173675537 x1_r: 11.2662506104 y1_e: 195.527435303 y1_r: 195.62852478 x2_e: 333.070861816 x2_r: 332.957214355 y2_e: 491.839874268 y2_r: 491.912231445 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: sofa box: [2] x1_e: 20.8217391968 x1_r: 20.8583831787 y1_e: 68.9650421143 y1_r: 69.0509567261 x2_e: 139.958618164 x2_r: 139.802612305 y2_e: 228.404800415 y2_r: 228.398864746 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: sofa box: [3] x1_e: 175.307281494 x1_r: 175.329330444 y1_e: 178.331695557 y1_r: 178.186706543 x2_e: 241.977813721 x2_r: 241.912155151 y2_e: 229.412750244 y2_r: 229.429534912 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: sofa box: [4] x1_e: 135.311157227 x1_r: 135.253082275 y1_e: 99.2367172241 y1_r: 99.3084793091 x2_e: 328.957824707 x2_r: 329.095672607 y2_e: 311.512084961 y2_r: 311.515960693 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: sofa box: [5] x1_e: 140.969573975 x1_r: 140.923980713 y1_e: 33.0499610901 y1_r: 33.0934486389 x2_e: 202.599853516 x2_r: 202.586639404 y2_e: 97.8359832764 y2_r: 97.9370117188 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: sofa box: [6] x1_e: 119.484466553 x1_r: 119.473670959 y1_e: 267.541900635 y1_r: 267.566894531 x2_e: 183.499420166 x2_r: 183.507263184 y2_e: 391.68057251 y2_r: 391.765869141 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: sofa box: [7] x1_e: 249.519851685 x1_r: 249.493103027 y1_e: 8.77138900757 y1_r: 8.81103897095 x2_e: 325.492706299 x2_r: 325.541564941 y2_e: 75.0471191406 y2_r: 75.0084686279 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: sofa box: [8] x1_e: 156.789398193 x1_r: 156.803009033 y1_e: 229.37272644 y1_r: 229.372833252 x2_e: 249.051574707 x2_r: 249.049041748 y2_e: 257.79119873 y2_r: 257.813690186 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: sofa box: [9] x1_e: 172.063293457 x1_r: 172.065292358 y1_e: 245.614593506 y1_r: 245.639648438 x2_e: 234.490478516 x2_r: 234.515762329 y2_e: 279.117706299 y2_r: 279.165344238 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: aeroplane box: [0] x1_e: 0.0 x1_r: 0.0 y1_e: 203.846633911 y1_r: 203.72064209 x2_e: 361.263122559 x2_r: 361.217712402 y2_e: 499.0 y2_r: 499.0 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: aeroplane box: [1] x1_e: 0.0 x1_r: 0.0 y1_e: 14.1546859741 y1_r: 14.2009506226 x2_e: 374.0 x2_r: 374.0 y2_e: 257.211547852 y2_r: 257.382019043 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: aeroplane box: [2] x1_e: 3.46463775635 x1_r: 3.48993682861 y1_e: 81.4702758789 y1_r: 81.4331817627 x2_e: 178.026519775 x2_r: 177.842773438 y2_e: 224.780761719 y2_r: 224.818344116 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: aeroplane box: [3] x1_e: 173.35836792 x1_r: 173.392959595 y1_e: 179.361206055 y1_r: 179.216018677 x2_e: 244.832946777 x2_r: 244.751541138 y2_e: 228.725341797 y2_r: 228.728561401 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: aeroplane box: [4] x1_e: 46.5792388916 x1_r: 46.6703338623 y1_e: 163.622146606 y1_r: 163.491500854 x2_e: 374.0 x2_r: 374.0 y2_e: 237.211257935 y2_r: 237.165237427 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: aeroplane box: [5] x1_e: 141.107467651 x1_r: 141.064163208 y1_e: 31.8384666443 y1_r: 31.8994522095 x2_e: 203.093307495 x2_r: 203.077255249 y2_e: 100.085998535 y2_r: 100.18082428 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: aeroplane box: [6] x1_e: 117.973556519 x1_r: 117.961410522 y1_e: 268.062805176 y1_r: 268.099914551 x2_e: 185.05406189 x2_r: 185.063247681 y2_e: 391.598022461 y2_r: 391.697143555 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: aeroplane box: [7] x1_e: 250.414672852 x1_r: 250.396179199 y1_e: 6.06120681763 y1_r: 6.09930038452 x2_e: 322.933776855 x2_r: 322.973022461 y2_e: 76.8335418701 y2_r: 76.8003540039 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: aeroplane box: [8] x1_e: 175.9375 x1_r: 175.93927002 y1_e: 249.319030762 y1_r: 249.348617554 x2_e: 230.195281982 x2_r: 230.220489502 y2_e: 274.005859375 y2_r: 274.049285889 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: aeroplane box: [9] x1_e: 162.387649536 x1_r: 162.399017334 y1_e: 233.080215454 y1_r: 233.082977295 x2_e: 243.953536987 x2_r: 243.953369141 y2_e: 253.759902954 y2_r: 253.780578613 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: dog box: [0] x1_e: 33.1069030762 x1_r: 32.7488555908 y1_e: 218.84979248 y1_r: 218.700622559 x2_e: 313.817718506 x2_r: 313.743652344 y2_e: 489.186340332 y2_r: 489.220458984 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: dog box: [1] x1_e: 32.436706543 x1_r: 32.4444885254 y1_e: 48.8448410034 y1_r: 48.9041061401 x2_e: 333.953277588 x2_r: 333.933837891 y2_e: 272.201293945 y2_r: 272.363464355 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: dog box: [2] x1_e: 18.0124092102 x1_r: 18.0150337219 y1_e: 25.5685195923 y1_r: 25.6187896729 x2_e: 136.505844116 x2_r: 136.373474121 y2_e: 224.624572754 y2_r: 224.697769165 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: dog box: [3] x1_e: 177.955917358 x1_r: 177.981262207 y1_e: 180.632720947 y1_r: 180.486175537 x2_e: 238.939804077 x2_r: 238.86920166 y2_e: 227.501617432 y2_r: 227.507873535 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: dog box: [4] x1_e: 230.673599243 x1_r: 230.701812744 y1_e: 195.513504028 y1_r: 195.571273804 x2_e: 365.291564941 x2_r: 365.42678833 y2_e: 497.447387695 y2_r: 497.558227539 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: dog box: [5] x1_e: 93.8701477051 x1_r: 93.843460083 y1_e: 165.117660522 y1_r: 164.976409912 x2_e: 360.340881348 x2_r: 360.083679199 y2_e: 231.551498413 y2_r: 231.492523193 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: dog box: [6] x1_e: 147.127487183 x1_r: 147.083312988 y1_e: 35.9154281616 y1_r: 35.9675598145 x2_e: 195.831802368 x2_r: 195.81451416 y2_e: 96.2187423706 y2_r: 96.3142852783 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: dog box: [7] x1_e: 123.675575256 x1_r: 123.673095703 y1_e: 268.984710693 y1_r: 269.023284912 x2_e: 180.399154663 x2_r: 180.394683838 y2_e: 390.676605225 y2_r: 390.760894775 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: dog box: [8] x1_e: 256.11050415 x1_r: 256.10635376 y1_e: 11.8382644653 y1_r: 11.8966636658 x2_e: 317.277374268 x2_r: 317.304046631 y2_e: 77.6123275757 y2_r: 77.5725250244 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: dog box: [9] x1_e: 168.279968262 x1_r: 168.291229248 y1_e: 234.061737061 y1_r: 234.065185547 x2_e: 236.894897461 x2_r: 236.894378662 y2_e: 253.883972168 y2_r: 253.903106689 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: dog box: [10] x1_e: 180.889068604 x1_r: 180.897033691 y1_e: 249.558288574 y1_r: 249.589385986 x2_e: 225.257171631 x2_r: 225.2762146 y2_e: 274.190795898 y2_r: 274.234649658 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: cat box: [0] x1_e: 36.6405639648 x1_r: 36.3097076416 y1_e: 222.141189575 y1_r: 222.022842407 x2_e: 317.4737854 x2_r: 317.404968262 y2_e: 477.720153809 y2_r: 477.762084961 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: cat box: [1] x1_e: 84.7883605957 x1_r: 84.7768554688 y1_e: 28.1358261108 y1_r: 28.1208648682 x2_e: 345.79119873 x2_r: 345.741912842 y2_e: 220.451263428 y2_r: 220.687591553 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: cat box: [2] x1_e: 18.6546669006 x1_r: 18.6511878967 y1_e: 28.278213501 y1_r: 28.3222198486 x2_e: 139.230499268 x2_r: 139.110137939 y2_e: 213.168518066 y2_r: 213.2315979 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: cat box: [3] x1_e: 178.988800049 x1_r: 179.011688232 y1_e: 180.208847046 y1_r: 180.064956665 x2_e: 238.592926025 x2_r: 238.525482178 y2_e: 225.064102173 y2_r: 225.074417114 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: cat box: [4] x1_e: 233.588562012 x1_r: 233.620391846 y1_e: 200.018951416 y1_r: 200.13973999 x2_e: 365.621643066 x2_r: 365.751983643 y2_e: 492.909210205 y2_r: 492.992218018 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: cat box: [5] x1_e: 88.2592468262 x1_r: 88.2945861816 y1_e: 164.048400879 y1_r: 163.922012329 x2_e: 367.097961426 x2_r: 366.798492432 y2_e: 227.655029297 y2_r: 227.603927612 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: cat box: [6] x1_e: 147.596923828 x1_r: 147.555099487 y1_e: 33.6431274414 y1_r: 33.6951065063 x2_e: 195.316131592 x2_r: 195.298416138 y2_e: 92.2788848877 y2_r: 92.3726654053 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: cat box: [7] x1_e: 151.255340576 x1_r: 151.178192139 y1_e: 130.213302612 y1_r: 129.978027344 x2_e: 354.761413574 x2_r: 354.740905762 y2_e: 361.37286377 y2_r: 361.433044434 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: cat box: [8] x1_e: 125.664520264 x1_r: 125.656234741 y1_e: 270.453674316 y1_r: 270.487915039 x2_e: 177.990264893 x2_r: 177.989852905 y2_e: 381.695068359 y2_r: 381.776062012 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: cat box: [9] x1_e: 257.722167969 x1_r: 257.72052002 y1_e: 9.46345710754 y1_r: 9.50799179077 x2_e: 315.498962402 x2_r: 315.524291992 y2_e: 72.6474914551 y2_r: 72.602355957 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: cat box: [10] x1_e: 169.220458984 x1_r: 169.232086182 y1_e: 232.947006226 y1_r: 232.950622559 x2_e: 236.222869873 x2_r: 236.222198486 y2_e: 253.05708313 y2_r: 253.075256348 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: cat box: [11] x1_e: 182.595809937 x1_r: 182.603378296 y1_e: 249.100997925 y1_r: 249.131149292 x2_e: 223.494064331 x2_r: 223.513626099 y2_e: 273.508239746 y2_r: 273.550506592 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: person box: [0] x1_e: 80.7246398926 x1_r: 80.8200073242 y1_e: 18.6446685791 y1_r: 18.5592346191 x2_e: 362.647979736 x2_r: 362.550323486 y2_e: 246.854812622 y2_r: 247.101226807 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: person box: [1] x1_e: 10.3552589417 x1_r: 10.3881645203 y1_e: 0.0 y1_r: 0.0 x2_e: 127.874908447 x2_r: 127.767150879 y2_e: 205.954299927 y2_r: 206.020477295 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: person box: [2] x1_e: 68.2094268799 x1_r: 68.0025024414 y1_e: 96.2302856445 y1_r: 95.962677002 x2_e: 342.130065918 x2_r: 342.286895752 y2_e: 488.494689941 y2_r: 488.574554443 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: person box: [3] x1_e: 181.655670166 x1_r: 181.682891846 y1_e: 178.155090332 y1_r: 178.000946045 x2_e: 234.768951416 x2_r: 234.704071045 y2_e: 226.901397705 y2_r: 226.893218994 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: person box: [4] x1_e: 0.0 x1_r: 0.0 y1_e: 119.260864258 y1_r: 118.960174561 x2_e: 162.671340942 x2_r: 162.852203369 y2_e: 477.245849609 y2_r: 477.277679443 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: person box: [5] x1_e: 150.502593994 x1_r: 150.460800171 y1_e: 27.5261039734 y1_r: 27.5868320465 x2_e: 192.444458008 x2_r: 192.423233032 y2_e: 91.0396728516 y2_r: 91.1422119141 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: person box: [6] x1_e: 266.005065918 x1_r: 266.038238525 y1_e: 9.22092247009 y1_r: 9.23951911926 x2_e: 316.025146484 x2_r: 316.036651611 y2_e: 67.5604629517 y2_r: 67.4820251465 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: person box: [7] x1_e: 246.128143311 x1_r: 246.150421143 y1_e: 169.179275513 y1_r: 168.882598877 x2_e: 374.0 x2_r: 374.0 y2_e: 488.961669922 y2_r: 489.040252686 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: person box: [8] x1_e: 55.2186317444 x1_r: 55.2306442261 y1_e: 72.2827835083 y1_r: 72.3111724854 x2_e: 107.41217041 x2_r: 107.39957428 y2_e: 215.098022461 y2_r: 215.098403931 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: person box: [9] x1_e: 125.494812012 x1_r: 125.501373291 y1_e: 253.065612793 y1_r: 253.128494263 x2_e: 177.962585449 x2_r: 177.953582764 y2_e: 380.27545166 y2_r: 380.359558105 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: person box: [10] x1_e: 170.5546875 x1_r: 170.563598633 y1_e: 230.608505249 y1_r: 230.609680176 x2_e: 232.621063232 x2_r: 232.620483398 y2_e: 255.969406128 y2_r: 255.988677979 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: person box: [11] x1_e: 181.831939697 x1_r: 181.837158203 y1_e: 243.783615112 y1_r: 243.809371948 x2_e: 222.579711914 x2_r: 222.599121094 y2_e: 275.546722412 y2_r: 275.593444824 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: train box: [0] x1_e: 0.0 x1_r: 0.0 y1_e: 199.157592773 y1_r: 199.120803833 x2_e: 359.050354004 x2_r: 358.971740723 y2_e: 492.655212402 y2_r: 492.650939941 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: train box: [1] x1_e: 0.0 x1_r: 0.0 y1_e: 0.0 y1_r: 0.0 x2_e: 371.499450684 x2_r: 371.370056152 y2_e: 248.321975708 y2_r: 248.805465698 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: train box: [2] x1_e: 19.9126739502 x1_r: 19.9501838684 y1_e: 81.056678772 y1_r: 81.1035232544 x2_e: 138.640991211 x2_r: 138.483657837 y2_e: 221.221801758 y2_r: 221.238555908 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: train box: [3] x1_e: 175.879394531 x1_r: 175.912139893 y1_e: 180.155929565 y1_r: 180.012069702 x2_e: 242.345794678 x2_r: 242.267181396 y2_e: 228.574295044 y2_r: 228.583450317 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: train box: [4] x1_e: 57.2048950195 x1_r: 57.2873840332 y1_e: 166.572967529 y1_r: 166.458236694 x2_e: 374.0 x2_r: 374.0 y2_e: 239.576141357 y2_r: 239.533554077 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: train box: [5] x1_e: 142.164016724 x1_r: 142.122909546 y1_e: 30.8086929321 y1_r: 30.8676490784 x2_e: 202.364822388 x2_r: 202.350112915 y2_e: 97.9531021118 y2_r: 98.0441131592 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: train box: [6] x1_e: 120.99055481 x1_r: 120.979400635 y1_e: 267.665496826 y1_r: 267.702178955 x2_e: 183.584671021 x2_r: 183.597076416 y2_e: 386.148040771 y2_r: 386.243011475 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: train box: [7] x1_e: 252.400726318 x1_r: 252.378952026 y1_e: 4.90672683716 y1_r: 4.91815185547 x2_e: 323.010772705 x2_r: 323.058624268 y2_e: 75.7878417969 y2_r: 75.7658615112 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: train box: [8] x1_e: 163.032424927 x1_r: 163.043731689 y1_e: 234.030166626 y1_r: 234.032058716 x2_e: 243.891433716 x2_r: 243.889404297 y2_e: 255.554550171 y2_r: 255.574264526 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: train box: [9] x1_e: 176.075866699 x1_r: 176.077865601 y1_e: 249.05859375 y1_r: 249.091873169 x2_e: 232.72857666 x2_r: 232.753372192 y2_e: 275.851379395 y2_r: 275.896728516 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: diningtable box: [0] x1_e: 9.0548248291 x1_r: 8.99833679199 y1_e: 122.091522217 y1_r: 122.147705078 x2_e: 337.350769043 x2_r: 337.405212402 y2_e: 490.277496338 y2_r: 490.25592041 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: diningtable box: [1] x1_e: 0.0 x1_r: 0.0 y1_e: 6.40213012695 y1_r: 6.42652130127 x2_e: 355.152862549 x2_r: 354.963287354 y2_e: 252.017059326 y2_r: 252.469573975 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: diningtable box: [2] x1_e: 12.3321609497 x1_r: 12.3756408691 y1_e: 73.6420822144 y1_r: 73.71459198 x2_e: 149.986175537 x2_r: 149.835250854 y2_e: 237.257965088 y2_r: 237.260803223 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: diningtable box: [3] x1_e: 172.912506104 x1_r: 172.948242188 y1_e: 180.350753784 y1_r: 180.208953857 x2_e: 242.972564697 x2_r: 242.897827148 y2_e: 231.975479126 y2_r: 231.980895996 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: diningtable box: [4] x1_e: 215.167022705 x1_r: 215.166809082 y1_e: 194.354034424 y1_r: 194.502548218 x2_e: 374.0 x2_r: 374.0 y2_e: 499.0 y2_r: 499.0 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: diningtable box: [5] x1_e: 140.779998779 x1_r: 140.745864868 y1_e: 32.6895561218 y1_r: 32.7242736816 x2_e: 200.255493164 x2_r: 200.23890686 y2_e: 97.0048370361 y2_r: 97.0928192139 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: diningtable box: [6] x1_e: 119.329185486 x1_r: 119.319732666 y1_e: 271.424316406 y1_r: 271.444946289 x2_e: 179.598068237 x2_r: 179.609436035 y2_e: 386.111755371 y2_r: 386.200927734 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: diningtable box: [7] x1_e: 253.340621948 x1_r: 253.322052002 y1_e: 7.67621421814 y1_r: 7.72167015076 x2_e: 320.267730713 x2_r: 320.302581787 y2_e: 69.6587753296 y2_r: 69.6329345703 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: diningtable box: [8] x1_e: 151.459396362 x1_r: 151.48135376 y1_e: 231.549468994 y1_r: 231.551300049 x2_e: 253.852890015 x2_r: 253.840423584 y2_e: 261.49597168 y2_r: 261.516998291 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: diningtable box: [9] x1_e: 162.064804077 x1_r: 162.057678223 y1_e: 247.666625977 y1_r: 247.693161011 x2_e: 244.434890747 x2_r: 244.465698242 y2_e: 285.355285645 y2_r: 285.410736084 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: bottle box: [0] x1_e: 100.382232666 x1_r: 100.254821777 y1_e: 11.698097229 y1_r: 11.7254486084 x2_e: 315.348236084 x2_r: 315.260101318 y2_e: 203.758972168 y2_r: 203.987228394 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: bottle box: [1] x1_e: 67.2387161255 x1_r: 67.1845550537 y1_e: 242.548675537 y1_r: 242.601913452 x2_e: 304.480895996 x2_r: 304.481506348 y2_e: 499.0 y2_r: 499.0 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: bottle box: [2] x1_e: 44.6574211121 x1_r: 44.700302124 y1_e: 21.3168182373 y1_r: 21.290687561 x2_e: 137.74861145 x2_r: 137.766708374 y2_e: 201.682922363 y2_r: 201.704071045 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: bottle box: [3] x1_e: 31.1032791138 x1_r: 31.1402740479 y1_e: 10.9471740723 y1_r: 10.1362762451 x2_e: 183.201477051 x2_r: 183.574783325 y2_e: 434.779632568 y2_r: 434.805114746 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: bottle box: [4] x1_e: 185.259429932 x1_r: 185.277877808 y1_e: 179.092895508 y1_r: 178.950775146 x2_e: 232.056060791 x2_r: 231.994827271 y2_e: 226.942230225 y2_r: 226.944091797 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: bottle box: [5] x1_e: 164.447174072 x1_r: 216.373641968 y1_e: 43.1354064941 y1_r: 180.763778687 x2_e: 343.978790283 x2_r: 349.347961426 y2_e: 440.342346191 y2_r: 476.155273438 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: bottle box: [6] x1_e: 111.665489197 x1_r: 111.668884277 y1_e: 160.636291504 y1_r: 160.512893677 x2_e: 319.701080322 x2_r: 319.499145508 y2_e: 231.712493896 y2_r: 231.655441284 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: bottle box: [7] x1_e: 7.26142120361 x1_r: 7.27198028564 y1_e: 253.771514893 y1_r: 253.5859375 x2_e: 146.189849854 x2_r: 146.17956543 y2_e: 496.026702881 y2_r: 496.058898926 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: bottle box: [8] x1_e: 243.644744873 x1_r: 150.591644287 y1_e: 222.243133545 y1_r: 32.487701416 x2_e: 358.292938232 x2_r: 190.281677246 y2_e: 496.33694458 y2_r: 95.5845031738 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: bottle box: [9] x1_e: 150.627380371 x1_r: 41.0754241943 y1_e: 32.446395874 y1_r: 116.267074585 x2_e: 190.297210693 x2_r: 255.984695435 y2_e: 95.4934387207 y2_r: 217.272232056 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: bottle box: [10] x1_e: 41.0485610962 x1_r: 227.935638428 y1_e: 116.314117432 y1_r: 10.2916564941 x2_e: 256.017547607 x2_r: 359.988616943 y2_e: 217.214874268 y2_r: 299.607849121 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: bottle box: [11] x1_e: 127.741752625 x1_r: 127.737228394 y1_e: 270.558837891 y1_r: 270.580993652 x2_e: 172.713409424 x2_r: 172.726242065 y2_e: 383.429077148 y2_r: 383.526977539 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: bottle box: [12] x1_e: 266.861083984 x1_r: 266.875579834 y1_e: 6.97451400757 y1_r: 7.01089859009 x2_e: 315.201293945 x2_r: 315.21383667 y2_e: 72.6003265381 y2_r: 72.5589904785 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: bottle box: [13] x1_e: 176.766326904 x1_r: 176.776519775 y1_e: 231.167678833 y1_r: 231.17225647 x2_e: 225.381103516 x2_r: 225.380767822 y2_e: 254.37663269 y2_r: 254.394577026 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: bottle box: [14] x1_e: 185.341308594 x1_r: 185.348907471 y1_e: 246.170608521 y1_r: 246.203109741 x2_e: 218.653900146 x2_r: 218.670593262 y2_e: 274.270294189 y2_r: 274.313690186 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: bus box: [0] x1_e: 52.7468566895 x1_r: 52.7819213867 y1_e: 2.89445495605 y1_r: 2.94581604004 x2_e: 374.0 x2_r: 374.0 y2_e: 243.18939209 y2_r: 243.407424927 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: bus box: [1] x1_e: 0.0 x1_r: 0.0 y1_e: 204.192306519 y1_r: 204.118667603 x2_e: 354.723510742 x2_r: 354.668640137 y2_e: 497.129150391 y2_r: 497.130310059 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: bus box: [2] x1_e: 4.22913360596 x1_r: 4.25974273682 y1_e: 0.0 y1_r: 0.0 x2_e: 152.961975098 x2_r: 152.824859619 y2_e: 227.974716187 y2_r: 228.041900635 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: bus box: [3] x1_e: 176.032806396 x1_r: 176.059432983 y1_e: 179.054916382 y1_r: 178.908081055 x2_e: 241.51751709 x2_r: 241.449325562 y2_e: 229.112930298 y2_r: 229.121765137 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: bus box: [4] x1_e: 141.287475586 x1_r: 141.244644165 y1_e: 29.2368583679 y1_r: 29.2973861694 x2_e: 201.713165283 x2_r: 201.700973511 y2_e: 96.7211303711 y2_r: 96.812538147 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: bus box: [5] x1_e: 48.3095474243 x1_r: 48.3364982605 y1_e: 88.509513855 y1_r: 88.5174789429 x2_e: 118.032737732 x2_r: 118.001724243 y2_e: 226.671020508 y2_r: 226.653594971 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: bus box: [6] x1_e: 140.598693848 x1_r: 140.535308838 y1_e: 116.350906372 y1_r: 116.423698425 x2_e: 319.950958252 x2_r: 320.087280273 y2_e: 304.488586426 y2_r: 304.489501953 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: bus box: [7] x1_e: 119.551429749 x1_r: 119.538864136 y1_e: 269.785675049 y1_r: 269.821105957 x2_e: 183.222686768 x2_r: 183.23487854 y2_e: 385.113128662 y2_r: 385.203430176 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: bus box: [8] x1_e: 252.165100098 x1_r: 252.141906738 y1_e: 3.26969146729 y1_r: 3.2904624939 x2_e: 323.35723877 x2_r: 323.401306152 y2_e: 70.5990524292 y2_r: 70.5667724609 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: bus box: [9] x1_e: 163.921356201 x1_r: 163.930831909 y1_e: 233.434310913 y1_r: 233.436264038 x2_e: 240.803924561 x2_r: 240.805557251 y2_e: 255.706710815 y2_r: 255.726272583 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: bus box: [10] x1_e: 177.718566895 x1_r: 177.721450806 y1_e: 249.476272583 y1_r: 249.508804321 x2_e: 229.931915283 x2_r: 229.955062866 y2_e: 276.137145996 y2_r: 276.183776855 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: pottedplant box: [0] x1_e: 84.6114349365 x1_r: 84.5959472656 y1_e: 12.4821472168 y1_r: 12.4488449097 x2_e: 346.42401123 x2_r: 346.384460449 y2_e: 231.159332275 y2_r: 231.364349365 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: pottedplant box: [1] x1_e: 33.9193878174 x1_r: 33.596572876 y1_e: 218.111907959 y1_r: 217.971572876 x2_e: 318.924133301 x2_r: 318.878173828 y2_e: 487.250396729 y2_r: 487.316772461 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: pottedplant box: [2] x1_e: 42.0063400269 x1_r: 42.0710067749 y1_e: 17.6717071533 y1_r: 17.6340866089 x2_e: 142.526397705 x2_r: 142.543914795 y2_e: 205.753799438 y2_r: 205.774353027 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: pottedplant box: [3] x1_e: 39.7116394043 x1_r: 39.6892089844 y1_e: 20.4382781982 y1_r: 20.4067687988 x2_e: 206.362045288 x2_r: 206.340103149 y2_e: 401.09185791 y2_r: 401.371917725 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: pottedplant box: [4] x1_e: 181.806930542 x1_r: 181.836761475 y1_e: 180.693862915 y1_r: 180.550765991 x2_e: 235.941238403 x2_r: 235.869781494 y2_e: 227.003768921 y2_r: 227.004928589 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: pottedplant box: [5] x1_e: 231.64050293 x1_r: 231.645233154 y1_e: 189.032241821 y1_r: 189.07975769 x2_e: 371.403137207 x2_r: 371.527252197 y2_e: 499.0 y2_r: 499.0 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: pottedplant box: [6] x1_e: 98.4172363281 x1_r: 98.4048614502 y1_e: 163.027496338 y1_r: 162.890014648 x2_e: 349.968322754 x2_r: 349.756591797 y2_e: 232.551055908 y2_r: 232.516387939 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: pottedplant box: [7] x1_e: 149.4609375 x1_r: 149.423355103 y1_e: 32.2326545715 y1_r: 32.2811050415 x2_e: 193.348022461 x2_r: 193.330337524 y2_e: 94.051651001 y2_r: 94.1430511475 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: pottedplant box: [8] x1_e: 126.033157349 x1_r: 126.031150818 y1_e: 267.883331299 y1_r: 267.924804688 x2_e: 176.960769653 x2_r: 176.965301514 y2_e: 382.484893799 y2_r: 382.575073242 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: pottedplant box: [9] x1_e: 263.657409668 x1_r: 263.673339844 y1_e: 7.20597839355 y1_r: 7.25185394287 x2_e: 316.85559082 x2_r: 316.870605469 y2_e: 73.7262573242 y2_r: 73.6728439331 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: pottedplant box: [10] x1_e: 180.333450317 x1_r: 180.339859009 y1_e: 245.768966675 y1_r: 245.798217773 x2_e: 226.279495239 x2_r: 226.299057007 y2_e: 277.305480957 y2_r: 277.349243164 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: pottedplant box: [11] x1_e: 171.521850586 x1_r: 171.535415649 y1_e: 231.378128052 y1_r: 231.381668091 x2_e: 234.48059082 x2_r: 234.476730347 y2_e: 255.032485962 y2_r: 255.051101685 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: tvmonitor box: [0] x1_e: 22.963973999 x1_r: 22.6324157715 y1_e: 232.331893921 y1_r: 232.186630249 x2_e: 333.138305664 x2_r: 333.104156494 y2_e: 499.0 y2_r: 499.0 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: tvmonitor box: [1] x1_e: 77.2078552246 x1_r: 77.2404174805 y1_e: 21.0861816406 y1_r: 21.0573501587 x2_e: 361.476654053 x2_r: 361.409179688 y2_e: 229.578353882 y2_r: 229.790222168 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: tvmonitor box: [2] x1_e: 15.0357093811 x1_r: 15.0488853455 y1_e: 20.4166107178 y1_r: 20.4774551392 x2_e: 132.847076416 x2_r: 132.729034424 y2_e: 215.814193726 y2_r: 215.894714355 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: tvmonitor box: [3] x1_e: 7.58284759521 x1_r: 7.58288574219 y1_e: 36.0642089844 y1_r: 36.1233520508 x2_e: 171.770721436 x2_r: 171.634368896 y2_e: 458.444519043 y2_r: 458.453399658 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: tvmonitor box: [4] x1_e: 177.505874634 x1_r: 177.532119751 y1_e: 180.865524292 y1_r: 180.721923828 x2_e: 240.505508423 x2_r: 240.431625366 y2_e: 228.429519653 y2_r: 228.443664551 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: tvmonitor box: [5] x1_e: 122.698554993 x1_r: 122.750617981 y1_e: 168.053955078 y1_r: 167.90447998 x2_e: 353.257507324 x2_r: 353.276000977 y2_e: 350.290222168 y2_r: 350.259094238 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: tvmonitor box: [6] x1_e: 231.943725586 x1_r: 232.054763794 y1_e: 224.045578003 y1_r: 223.93598938 x2_e: 374.0 x2_r: 374.0 y2_e: 499.0 y2_r: 499.0 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: tvmonitor box: [7] x1_e: 145.360275269 x1_r: 145.316390991 y1_e: 33.365272522 y1_r: 33.4083175659 x2_e: 197.895370483 x2_r: 197.88520813 y2_e: 93.9531326294 y2_r: 94.0409393311 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: tvmonitor box: [8] x1_e: 124.079811096 x1_r: 124.071838379 y1_e: 269.293548584 y1_r: 269.318939209 x2_e: 179.497131348 x2_r: 179.507507324 y2_e: 384.0519104 y2_r: 384.146942139 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: tvmonitor box: [9] x1_e: 256.914733887 x1_r: 256.91494751 y1_e: 4.73865509033 y1_r: 4.78183364868 x2_e: 319.940979004 x2_r: 319.966522217 y2_e: 69.6107025146 y2_r: 69.5658721924 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: tvmonitor box: [10] x1_e: 161.81036377 x1_r: 161.823364258 y1_e: 232.453979492 y1_r: 232.457046509 x2_e: 243.988128662 x2_r: 243.985870361 y2_e: 256.100372314 y2_r: 256.12008667 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: tvmonitor box: [11] x1_e: 178.953216553 x1_r: 178.955322266 y1_e: 246.220245361 y1_r: 246.251708984 x2_e: 228.053619385 x2_r: 228.077606201 y2_e: 276.282073975 y2_r: 276.327087402 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: chair score: [0] e: 0.326109111309 r: 0.320269882679
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: chair box: [0] x1_e: 78.9977645874 x1_r: 79.060005188 y1_e: 247.30166626 y1_r: 247.190856934 x2_e: 318.510955811 x2_r: 318.384887695 y2_e: 499.0 y2_r: 499.0 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: chair box: [1] x1_e: 73.3746337891 x1_r: 73.468170166 y1_e: 39.0190582275 y1_r: 39.0154495239 x2_e: 363.668243408 x2_r: 363.571868896 y2_e: 261.985534668 y2_r: 262.256317139 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: chair box: [2] x1_e: 36.0540313721 x1_r: 36.0471496582 y1_e: 54.2856445312 y1_r: 54.291305542 x2_e: 202.733825684 x2_r: 202.725509644 y2_e: 477.454284668 y2_r: 477.759521484 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: chair box: [3] x1_e: 13.7063903809 x1_r: 13.7237281799 y1_e: 34.7316665649 y1_r: 34.7772216797 x2_e: 130.560806274 x2_r: 130.449386597 y2_e: 231.620300293 y2_r: 231.686737061 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: chair box: [4] x1_e: 226.466812134 x1_r: 226.468826294 y1_e: 211.726043701 y1_r: 211.808334351 x2_e: 371.767883301 x2_r: 371.922973633 y2_e: 499.0 y2_r: 499.0 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: chair box: [5] x1_e: 179.204467773 x1_r: 179.22467041 y1_e: 182.388824463 y1_r: 182.253509521 x2_e: 238.435058594 x2_r: 238.363067627 y2_e: 231.656616211 y2_r: 231.665710449 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: chair box: [6] x1_e: 124.46030426 x1_r: 124.454582214 y1_e: 271.525878906 y1_r: 271.547119141 x2_e: 178.650665283 x2_r: 178.661346436 y2_e: 400.073608398 y2_r: 400.173400879 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: chair box: [7] x1_e: 145.653549194 x1_r: 145.608398438 y1_e: 38.0906829834 y1_r: 38.1342697144 x2_e: 195.773147583 x2_r: 195.765045166 y2_e: 101.430328369 y2_r: 101.537406921 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: chair box: [8] x1_e: 156.941009521 x1_r: 156.886383057 y1_e: 126.073783875 y1_r: 126.15348053 x2_e: 312.845611572 x2_r: 312.968383789 y2_e: 324.828216553 y2_r: 324.815948486 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: chair box: [9] x1_e: 257.23928833 x1_r: 257.23223877 y1_e: 13.3618221283 y1_r: 13.4162750244 x2_e: 321.835113525 x2_r: 321.868469238 y2_e: 76.8905715942 y2_r: 76.8477172852 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: chair box: [10] x1_e: 179.135025024 x1_r: 179.14024353 y1_e: 247.033782959 y1_r: 247.064544678 x2_e: 226.95375061 x2_r: 226.974502563 y2_e: 279.563568115 y2_r: 279.613861084 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: chair box: [11] x1_e: 162.079269409 x1_r: 162.091598511 y1_e: 232.299362183 y1_r: 232.30128479 x2_e: 242.039840698 x2_r: 242.037643433 y2_e: 258.737701416 y2_r: 258.75994873 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: bird box: [0] x1_e: 28.8831787109 x1_r: 28.5540008545 y1_e: 215.61882019 y1_r: 215.516815186 x2_e: 324.996520996 x2_r: 324.926879883 y2_e: 487.326293945 y2_r: 487.350860596 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: bird box: [1] x1_e: 87.9926147461 x1_r: 87.967956543 y1_e: 17.1503372192 y1_r: 17.0924453735 x2_e: 349.838897705 x2_r: 349.807403564 y2_e: 235.041748047 y2_r: 235.24609375 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: bird box: [2] x1_e: 19.262878418 x1_r: 19.2659111023 y1_e: 20.8515319824 y1_r: 20.8792572021 x2_e: 136.101730347 x2_r: 135.976394653 y2_e: 220.481903076 y2_r: 220.531173706 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: bird box: [3] x1_e: 180.506881714 x1_r: 180.529983521 y1_e: 180.263275146 y1_r: 180.121139526 x2_e: 237.142318726 x2_r: 237.073074341 y2_e: 227.305938721 y2_r: 227.321853638 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: bird box: [4] x1_e: 231.239044189 x1_r: 231.244018555 y1_e: 199.228317261 y1_r: 199.306900024 x2_e: 371.353546143 x2_r: 371.500366211 y2_e: 496.324035645 y2_r: 496.422851562 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: bird box: [5] x1_e: 148.459503174 x1_r: 148.414123535 y1_e: 34.1671142578 y1_r: 34.2249145508 x2_e: 195.47946167 x2_r: 195.466156006 y2_e: 94.701965332 y2_r: 94.7937927246 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: bird box: [6] x1_e: 135.229644775 x1_r: 135.272186279 y1_e: 161.067001343 y1_r: 160.903747559 x2_e: 344.884765625 x2_r: 344.915313721 y2_e: 343.488708496 y2_r: 343.460357666 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: bird box: [7] x1_e: 123.986755371 x1_r: 123.987197876 y1_e: 270.338684082 y1_r: 270.374572754 x2_e: 180.140930176 x2_r: 180.139572144 y2_e: 384.134460449 y2_r: 384.209716797 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: bird box: [8] x1_e: 259.303192139 x1_r: 259.301879883 y1_e: 9.97665786743 y1_r: 10.0181179047 x2_e: 316.029754639 x2_r: 316.054931641 y2_e: 74.0588378906 y2_r: 74.0133056641 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: bird box: [9] x1_e: 182.346847534 x1_r: 182.353363037 y1_e: 249.684890747 y1_r: 249.715881348 x2_e: 223.805526733 x2_r: 223.825836182 y2_e: 273.913665771 y2_r: 273.957275391 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: bird box: [10] x1_e: 169.724075317 x1_r: 169.73387146 y1_e: 233.926498413 y1_r: 233.929794312 x2_e: 235.961349487 x2_r: 235.961532593 y2_e: 254.098312378 y2_r: 254.118057251 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: boat box: [0] x1_e: 62.1250762939 x1_r: 62.1882171631 y1_e: 6.87349700928 y1_r: 6.94493103027 x2_e: 374.0 x2_r: 374.0 y2_e: 248.698059082 y2_r: 248.950668335 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: boat box: [1] x1_e: 13.60597229 x1_r: 13.2770996094 y1_e: 211.960250854 y1_r: 211.863464355 x2_e: 333.99609375 x2_r: 333.908966064 y2_e: 499.0 y2_r: 499.0 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: boat box: [2] x1_e: 10.4382858276 x1_r: 10.4638519287 y1_e: 12.9585571289 y1_r: 13.013710022 x2_e: 145.15322876 x2_r: 145.012741089 y2_e: 233.980712891 y2_r: 234.06463623 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: boat box: [3] x1_e: 174.92199707 x1_r: 174.947662354 y1_e: 178.344909668 y1_r: 178.187927246 x2_e: 243.884490967 x2_r: 243.811798096 y2_e: 230.780334473 y2_r: 230.798675537 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: boat box: [4] x1_e: 143.357772827 x1_r: 143.31489563 y1_e: 31.4258613586 y1_r: 31.4744377136 x2_e: 201.474105835 x2_r: 201.462265015 y2_e: 101.160507202 y2_r: 101.262039185 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: boat box: [5] x1_e: 225.215057373 x1_r: 225.271484375 y1_e: 187.061050415 y1_r: 187.171401978 x2_e: 374.0 x2_r: 374.0 y2_e: 499.0 y2_r: 499.0 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: boat box: [6] x1_e: 144.515594482 x1_r: 144.443237305 y1_e: 118.377342224 y1_r: 118.417053223 x2_e: 323.565093994 x2_r: 323.711700439 y2_e: 317.135345459 y2_r: 317.132019043 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: boat box: [7] x1_e: 122.354217529 x1_r: 122.344268799 y1_e: 264.693603516 y1_r: 264.711578369 x2_e: 181.896697998 x2_r: 181.913360596 y2_e: 398.254455566 y2_r: 398.367523193 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: boat box: [8] x1_e: 254.210128784 x1_r: 254.184844971 y1_e: 7.86951065063 y1_r: 7.90565490723 x2_e: 322.530670166 x2_r: 322.587554932 y2_e: 79.9112701416 y2_r: 79.8793716431 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: boat box: [9] x1_e: 163.163192749 x1_r: 163.173812866 y1_e: 233.424316406 y1_r: 233.425125122 x2_e: 244.621292114 x2_r: 244.620101929 y2_e: 257.346496582 y2_r: 257.36706543 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: boat box: [10] x1_e: 179.548370361 x1_r: 179.551620483 y1_e: 250.125640869 y1_r: 250.156982422 x2_e: 229.42590332 x2_r: 229.450027466 y2_e: 280.132843018 y2_r: 280.18157959 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: car box: [0] x1_e: 0.0 x1_r: 0.0 y1_e: 203.303131104 y1_r: 203.210968018 x2_e: 342.463104248 x2_r: 342.389465332 y2_e: 499.0 y2_r: 499.0 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: car box: [1] x1_e: 19.0275726318 x1_r: 19.1371917725 y1_e: 6.49276733398 y1_r: 6.55072021484 x2_e: 367.599060059 x2_r: 367.338928223 y2_e: 262.134429932 y2_r: 262.380462646 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: car box: [2] x1_e: 7.01890563965 x1_r: 7.04496002197 y1_e: 79.5115890503 y1_r: 79.4748077393 x2_e: 164.29536438 x2_r: 164.147979736 y2_e: 224.094238281 y2_r: 224.141647339 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: car box: [3] x1_e: 175.8828125 x1_r: 175.963745117 y1_e: 180.347000122 y1_r: 180.268768311 x2_e: 242.907714844 x2_r: 242.838531494 y2_e: 233.628616333 y2_r: 233.645568848 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: car box: [4] x1_e: 141.70324707 x1_r: 141.660507202 y1_e: 32.887512207 y1_r: 32.9410095215 x2_e: 200.52432251 x2_r: 200.508010864 y2_e: 96.9299621582 y2_r: 97.0186157227 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: car box: [5] x1_e: 62.4335327148 x1_r: 62.4980621338 y1_e: 160.156143188 y1_r: 160.018005371 x2_e: 374.0 x2_r: 374.0 y2_e: 242.098556519 y2_r: 242.064239502 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: car box: [6] x1_e: 228.683624268 x1_r: 228.795303345 y1_e: 210.026275635 y1_r: 209.922607422 x2_e: 374.0 x2_r: 374.0 y2_e: 490.462432861 y2_r: 490.509033203 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: car box: [7] x1_e: 119.531448364 x1_r: 119.523223877 y1_e: 266.356109619 y1_r: 266.385498047 x2_e: 182.320877075 x2_r: 182.330688477 y2_e: 388.600250244 y2_r: 388.702026367 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: car box: [8] x1_e: 254.627319336 x1_r: 254.614700317 y1_e: 9.95669174194 y1_r: 9.99507522583 x2_e: 320.838928223 x2_r: 320.879333496 y2_e: 70.4094390869 y2_r: 70.3699951172 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: car box: [9] x1_e: 164.676254272 x1_r: 164.685241699 y1_e: 231.901046753 y1_r: 231.902877808 x2_e: 239.810714722 x2_r: 239.811279297 y2_e: 254.988876343 y2_r: 255.008621216 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000496.jpg class: car box: [10] x1_e: 177.221328735 x1_r: 177.225463867 y1_e: 247.20123291 y1_r: 247.230987549 x2_e: 228.218673706 x2_r: 228.241241455 y2_e: 274.597045898 y2_r: 274.642059326 
+#SDC Ite:111 KerTime:0.255869 AccTime:30.390484 KerErr:227 AccErr:309
+#IT Ite:112 KerTime:0.263282 AccTime:30.653766
+#IT Ite:113 KerTime:0.264968 AccTime:30.918734
+#IT Ite:114 KerTime:0.277482 AccTime:31.196216
+#IT Ite:115 KerTime:0.257526 AccTime:31.453742
+#IT Ite:116 KerTime:0.264163 AccTime:31.717905
+#IT Ite:117 KerTime:0.278634 AccTime:31.996539
+#IT Ite:118 KerTime:0.265088 AccTime:32.261627
+#IT Ite:119 KerTime:0.264680 AccTime:32.526307
+#IT Ite:120 KerTime:0.286467 AccTime:32.812774
+#IT Ite:121 KerTime:0.267721 AccTime:33.080495
+#IT Ite:122 KerTime:0.265556 AccTime:33.346051
+#IT Ite:123 KerTime:0.265855 AccTime:33.611906
+#IT Ite:124 KerTime:0.256358 AccTime:33.868264
+#IT Ite:125 KerTime:0.268846 AccTime:34.137110
+#IT Ite:126 KerTime:0.315922 AccTime:34.453032
+#IT Ite:127 KerTime:0.292864 AccTime:34.745896
+#IT Ite:128 KerTime:0.287901 AccTime:35.033797
+#IT Ite:129 KerTime:0.267931 AccTime:35.301728
+#IT Ite:130 KerTime:0.234102 AccTime:35.535830
+#IT Ite:131 KerTime:0.279142 AccTime:35.814972
+#IT Ite:132 KerTime:0.267304 AccTime:36.082276
+#IT Ite:133 KerTime:0.265909 AccTime:36.348185
+#IT Ite:134 KerTime:0.287468 AccTime:36.635653
+#IT Ite:135 KerTime:0.265942 AccTime:36.901595
+#IT Ite:136 KerTime:0.268878 AccTime:37.170473
+#IT Ite:137 KerTime:0.272379 AccTime:37.442852
+#IT Ite:138 KerTime:0.292038 AccTime:37.734890
+#IT Ite:139 KerTime:0.255028 AccTime:37.989918
+#IT Ite:140 KerTime:0.292078 AccTime:38.281996
+#IT Ite:141 KerTime:0.287705 AccTime:38.569701
+#IT Ite:142 KerTime:0.262630 AccTime:38.832331
+#IT Ite:143 KerTime:0.291163 AccTime:39.123494
+#IT Ite:144 KerTime:0.268407 AccTime:39.391901
+#IT Ite:145 KerTime:0.253726 AccTime:39.645627
+#IT Ite:146 KerTime:0.255518 AccTime:39.901145
+#IT Ite:147 KerTime:0.264021 AccTime:40.165166
+#IT Ite:148 KerTime:0.291233 AccTime:40.456399
+#IT Ite:149 KerTime:0.267936 AccTime:40.724335
+#IT Ite:150 KerTime:0.257854 AccTime:40.982189
+#IT Ite:151 KerTime:0.256159 AccTime:41.238348
+#IT Ite:152 KerTime:0.266668 AccTime:41.505016
+#IT Ite:153 KerTime:0.267719 AccTime:41.772735
+#IT Ite:154 KerTime:0.248029 AccTime:42.020764
+#IT Ite:155 KerTime:0.290184 AccTime:42.310948
+#IT Ite:156 KerTime:0.263901 AccTime:42.574849
+#IT Ite:157 KerTime:0.265985 AccTime:42.840834
+#IT Ite:158 KerTime:0.292676 AccTime:43.133510
+#IT Ite:159 KerTime:0.289771 AccTime:43.423281
+#IT Ite:160 KerTime:0.266247 AccTime:43.689528
+#IT Ite:161 KerTime:0.280693 AccTime:43.970221
+#IT Ite:162 KerTime:0.239693 AccTime:44.209914
+#IT Ite:163 KerTime:0.257148 AccTime:44.467062
+#IT Ite:164 KerTime:0.254841 AccTime:44.721903
+#IT Ite:165 KerTime:0.278544 AccTime:45.000447
+#IT Ite:166 KerTime:0.248152 AccTime:45.248599
+#IT Ite:167 KerTime:0.287908 AccTime:45.536507
+#IT Ite:168 KerTime:0.243884 AccTime:45.780391
+#IT Ite:169 KerTime:0.266747 AccTime:46.047138
+#IT Ite:170 KerTime:0.267782 AccTime:46.314920
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000701.jpg class: person box: [36] x1_e: 170.790328979 x1_r: 170.796340942 y1_e: 2.12754821777 y1_r: 2.12562561035 x2_e: 442.018920898 x2_r: 442.018615723 y2_e: 137.832824707 y2_r: 137.830795288 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2010_000701.jpg class: boat box: [26] x1_e: 153.385314941 x1_r: 153.390884399 y1_e: 12.2731437683 y1_r: 12.2707748413 x2_e: 445.898376465 x2_r: 445.899230957 y2_e: 139.201766968 y2_r: 139.199920654 
+#SDC Ite:170 KerTime:0.267782 AccTime:46.314920 KerErr:2 AccErr:311
+#IT Ite:171 KerTime:0.279699 AccTime:46.594619
+#IT Ite:172 KerTime:0.262636 AccTime:46.857255
+#IT Ite:173 KerTime:0.269993 AccTime:47.127248
+#IT Ite:174 KerTime:0.257104 AccTime:47.384352
+#IT Ite:175 KerTime:0.271619 AccTime:47.655971
+#IT Ite:176 KerTime:0.263972 AccTime:47.919943
+#IT Ite:177 KerTime:0.292863 AccTime:48.212806
+#IT Ite:178 KerTime:0.269063 AccTime:48.481869
+#IT Ite:179 KerTime:0.267242 AccTime:48.749111
+#IT Ite:180 KerTime:0.289744 AccTime:49.038855
+#IT Ite:181 KerTime:0.261245 AccTime:49.300100
+#IT Ite:182 KerTime:0.292645 AccTime:49.592745
+#IT Ite:183 KerTime:0.267008 AccTime:49.859753
+#IT Ite:184 KerTime:0.266702 AccTime:50.126455
+#IT Ite:185 KerTime:0.292919 AccTime:50.419374
+#IT Ite:186 KerTime:0.287730 AccTime:50.707104
+#IT Ite:187 KerTime:0.263561 AccTime:50.970665
+#IT Ite:188 KerTime:0.262227 AccTime:51.232892
+#IT Ite:189 KerTime:0.287816 AccTime:51.520708
+#IT Ite:190 KerTime:0.255429 AccTime:51.776137
+#IT Ite:191 KerTime:0.255243 AccTime:52.031380
+#IT Ite:192 KerTime:0.264984 AccTime:52.296364
+#IT Ite:193 KerTime:0.292046 AccTime:52.588410
+#IT Ite:194 KerTime:0.267889 AccTime:52.856299
+#IT Ite:195 KerTime:0.301848 AccTime:53.158147
+#IT Ite:196 KerTime:0.264076 AccTime:53.422223
+#IT Ite:197 KerTime:0.264633 AccTime:53.686856
+#IT Ite:198 KerTime:0.292469 AccTime:53.979325
+#IT Ite:199 KerTime:0.261900 AccTime:54.241225
+#IT Ite:200 KerTime:0.290118 AccTime:54.531343
+#IT Ite:201 KerTime:0.291956 AccTime:54.823299
+#IT Ite:202 KerTime:0.264216 AccTime:55.087515
+#IT Ite:203 KerTime:0.265168 AccTime:55.352683
+#IT Ite:204 KerTime:0.268613 AccTime:55.621296

@@ -1,0 +1,25 @@
+#HEADER execution_type:yolo execution_model:valid img_list_path:/home/carol/radiation-benchmarks/data/networks_img_list/voc.2012.1K.txt weights:/home/carol/radiation-benchmarks/data/darknet/yolo.weights config_file:/home/carol/radiation-benchmarks/data/darknet/yolo.cfg iterations:10000 abft: dumb_abft
+#BEGIN Y:2016 M:12 D:11 Time:21:49:44
+#IT Ite:0 KerTime:0.568203 AccTime:0.568203
+#IT Ite:1 KerTime:0.378325 AccTime:0.946528
+#IT Ite:2 KerTime:0.375724 AccTime:1.322252
+#IT Ite:3 KerTime:0.374968 AccTime:1.697220
+#IT Ite:4 KerTime:0.375117 AccTime:2.072337
+#IT Ite:5 KerTime:0.375282 AccTime:2.447619
+#IT Ite:6 KerTime:0.375488 AccTime:2.823107
+#IT Ite:7 KerTime:0.375667 AccTime:3.198774
+#IT Ite:8 KerTime:0.375175 AccTime:3.573949
+#IT Ite:9 KerTime:0.375037 AccTime:3.948986
+#IT Ite:10 KerTime:0.374617 AccTime:4.323603
+#IT Ite:11 KerTime:0.375563 AccTime:4.699166
+#IT Ite:12 KerTime:0.377374 AccTime:5.076540
+#IT Ite:13 KerTime:0.375164 AccTime:5.451704
+#IT Ite:14 KerTime:0.375592 AccTime:5.827296
+#IT Ite:15 KerTime:0.374911 AccTime:6.202207
+#IT Ite:16 KerTime:0.375470 AccTime:6.577677
+#IT Ite:17 KerTime:0.375588 AccTime:6.953265
+#IT Ite:18 KerTime:0.375037 AccTime:7.328302
+#IT Ite:19 KerTime:0.375289 AccTime:7.703591
+#IT Ite:20 KerTime:0.375259 AccTime:8.078850
+#IT Ite:21 KerTime:0.375431 AccTime:8.454281
+#IT Ite:22 KerTime:0.375612 AccTime:8.829893

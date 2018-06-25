@@ -1,0 +1,284 @@
+#HEADER iterations: 1000 img_list: /home/carol/radiation-benchmarks/data/networks_img_list/caltech.pedestrians.1K.txt board: K40
+#BEGIN Y:2016 M:12 D:12 Time:13:19:25
+#IT Ite:0 KerTime:0.276335 AccTime:0.276335
+#IT Ite:1 KerTime:0.273497 AccTime:0.549832
+#IT Ite:2 KerTime:0.273752 AccTime:0.823584
+#IT Ite:3 KerTime:0.277249 AccTime:1.100833
+#IT Ite:4 KerTime:0.272573 AccTime:1.373406
+#IT Ite:5 KerTime:0.273127 AccTime:1.646533
+#IT Ite:6 KerTime:0.273129 AccTime:1.919662
+#IT Ite:7 KerTime:0.277029 AccTime:2.196691
+#IT Ite:8 KerTime:0.277784 AccTime:2.474475
+#IT Ite:9 KerTime:0.273795 AccTime:2.748270
+#IT Ite:10 KerTime:0.277645 AccTime:3.025915
+#IT Ite:11 KerTime:0.270594 AccTime:3.296509
+#IT Ite:12 KerTime:0.275833 AccTime:3.572342
+#IT Ite:13 KerTime:0.277231 AccTime:3.849573
+#IT Ite:14 KerTime:0.272691 AccTime:4.122264
+#IT Ite:15 KerTime:0.273721 AccTime:4.395985
+#IT Ite:16 KerTime:0.278479 AccTime:4.674464
+#IT Ite:17 KerTime:0.276791 AccTime:4.951255
+#IT Ite:18 KerTime:0.275511 AccTime:5.226766
+#IT Ite:19 KerTime:0.273720 AccTime:5.500486
+#IT Ite:20 KerTime:0.278701 AccTime:5.779187
+#IT Ite:21 KerTime:0.275805 AccTime:6.054992
+#IT Ite:22 KerTime:0.272305 AccTime:6.327297
+#IT Ite:23 KerTime:0.272720 AccTime:6.600017
+#IT Ite:24 KerTime:0.275909 AccTime:6.875926
+#IT Ite:25 KerTime:0.276253 AccTime:7.152179
+#IT Ite:26 KerTime:0.280226 AccTime:7.432405
+#IT Ite:27 KerTime:0.277334 AccTime:7.709739
+#IT Ite:28 KerTime:0.276288 AccTime:7.986027
+#IT Ite:29 KerTime:0.278310 AccTime:8.264337
+#IT Ite:30 KerTime:0.272012 AccTime:8.536349
+#IT Ite:31 KerTime:0.276437 AccTime:8.812786
+#IT Ite:32 KerTime:0.272540 AccTime:9.085326
+#IT Ite:33 KerTime:0.273321 AccTime:9.358647
+#IT Ite:34 KerTime:0.272339 AccTime:9.630986
+#IT Ite:35 KerTime:0.275748 AccTime:9.906734
+#IT Ite:36 KerTime:0.272630 AccTime:10.179364
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: sheep box: [19] x1_e: 34.2685546875 x1_r: 34.2774047852 y1_e: 193.997970581 y1_r: 194.040283203 x2_e: 404.339355469 x2_r: 404.323944092 y2_e: 464.035827637 y2_r: 464.02923584 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: sheep box: [22] x1_e: 217.342590332 x1_r: 217.391052246 y1_e: 231.366699219 y1_r: 231.389083862 x2_e: 631.110107422 x2_r: 631.111816406 y2_e: 452.336730957 y2_r: 452.332824707 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: sheep box: [33] x1_e: 373.571563721 x1_r: 373.57824707 y1_e: 58.5378799438 y1_r: 58.5389099121 x2_e: 568.075073242 x2_r: 568.079711914 y2_e: 284.52947998 y2_r: 284.533996582 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: sheep box: [37] x1_e: 150.256896973 x1_r: 150.281661987 y1_e: 174.259918213 y1_r: 174.259552002 x2_e: 355.075836182 x2_r: 355.073364258 y2_e: 336.010375977 y2_r: 336.002838135 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: sheep box: [39] x1_e: 12.0836105347 x1_r: 12.0829162598 y1_e: 155.158081055 y1_r: 155.158355713 x2_e: 181.432281494 x2_r: 181.426361084 y2_e: 395.94720459 y2_r: 395.948822021 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: sheep box: [43] x1_e: 112.355712891 x1_r: 112.359542847 y1_e: 78.6080169678 y1_r: 78.6077423096 x2_e: 452.601196289 x2_r: 452.606262207 y2_e: 268.795959473 y2_r: 268.791137695 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: horse box: [9] x1_e: 550.494628906 x1_r: 550.801696777 y1_e: 166.739456177 y1_r: 155.398468018 x2_e: 581.234130859 x2_r: 582.20526123 y2_e: 217.526596069 y2_r: 209.782867432 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: horse box: [18] x1_e: 30.1889038086 x1_r: 30.1909942627 y1_e: 176.090072632 y1_r: 176.135513306 x2_e: 413.586914062 x2_r: 413.574707031 y2_e: 446.313781738 y2_r: 446.308776855 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: horse box: [22] x1_e: 316.817962646 x1_r: 316.844024658 y1_e: 148.018966675 y1_r: 148.038955688 x2_e: 604.666015625 x2_r: 604.66418457 y2_e: 405.607421875 y2_r: 405.611206055 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: horse box: [35] x1_e: 118.413253784 x1_r: 118.422988892 y1_e: 127.38735199 y1_r: 127.385627747 x2_e: 523.900756836 x2_r: 523.921508789 y2_e: 306.394256592 y2_r: 306.386169434 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: bicycle box: [16] x1_e: 104.480606079 x1_r: 104.569946289 y1_e: 209.185638428 y1_r: 209.266418457 x2_e: 587.627380371 x2_r: 587.665039062 y2_e: 441.15927124 y2_r: 441.16809082 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: bicycle box: [24] x1_e: 9.619972229 x1_r: 9.62245178223 y1_e: 185.393417358 y1_r: 185.401794434 x2_e: 230.776763916 x2_r: 230.752487183 y2_e: 436.856811523 y2_r: 436.855285645 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: bicycle box: [27] x1_e: 435.555908203 x1_r: 435.53729248 y1_e: 257.754669189 y1_r: 257.743835449 x2_e: 635.297973633 x2_r: 635.29510498 y2_e: 427.589141846 y2_r: 427.590515137 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: bicycle box: [34] x1_e: 372.334442139 x1_r: 372.340454102 y1_e: 69.704246521 y1_r: 69.705039978 x2_e: 575.679321289 x2_r: 575.684326172 y2_e: 274.034973145 y2_r: 274.04006958 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: bicycle box: [35] x1_e: 149.025390625 x1_r: 149.052368164 y1_e: 173.484771729 y1_r: 173.484863281 x2_e: 358.402709961 x2_r: 358.399688721 y2_e: 326.322875977 y2_r: 326.315887451 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: bicycle box: [40] x1_e: 218.014678955 x1_r: 218.019500732 y1_e: 93.0973434448 y1_r: 93.1007385254 x2_e: 451.094451904 x2_r: 451.08883667 y2_e: 286.500823975 y2_r: 286.494628906 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: motorbike box: [17] x1_e: 5.68437194824 x1_r: 5.68730163574 y1_e: 200.485748291 y1_r: 200.492523193 x2_e: 228.766662598 x2_r: 228.743606567 y2_e: 441.861846924 y2_r: 441.858917236 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: motorbike box: [19] x1_e: 63.4930267334 x1_r: 63.5357971191 y1_e: 190.715881348 y1_r: 190.710632324 x2_e: 540.492004395 x2_r: 540.517456055 y2_e: 424.03137207 y2_r: 424.029785156 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: motorbike box: [25] x1_e: 360.49899292 x1_r: 360.519714355 y1_e: 181.282211304 y1_r: 181.292724609 x2_e: 622.888549805 x2_r: 622.883422852 y2_e: 403.787353516 y2_r: 403.797607422 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: motorbike box: [31] x1_e: 148.449539185 x1_r: 148.476882935 y1_e: 178.930343628 y1_r: 178.931091309 x2_e: 355.460083008 x2_r: 355.455444336 y2_e: 328.313110352 y2_r: 328.304382324 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: motorbike box: [38] x1_e: 107.433746338 x1_r: 107.438186646 y1_e: 114.67023468 y1_r: 114.668937683 x2_e: 446.683502197 x2_r: 446.688354492 y2_e: 269.281311035 y2_r: 269.274871826 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: cow box: [20] x1_e: 10.6509552002 x1_r: 10.6524963379 y1_e: 186.602371216 y1_r: 186.606918335 x2_e: 226.338775635 x2_r: 226.315246582 y2_e: 444.128662109 y2_r: 444.126342773 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: cow box: [25] x1_e: 87.2565307617 x1_r: 87.2953643799 y1_e: 170.458526611 y1_r: 170.450286865 x2_e: 550.550842285 x2_r: 550.570068359 y2_e: 431.524383545 y2_r: 431.523101807 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: cow box: [33] x1_e: 380.028717041 x1_r: 380.042663574 y1_e: 217.966705322 y1_r: 217.963409424 x2_e: 635.03125 x2_r: 635.023132324 y2_e: 432.433441162 y2_r: 432.427703857 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: cow box: [35] x1_e: 374.408416748 x1_r: 374.414855957 y1_e: 59.6508865356 y1_r: 59.6522674561 x2_e: 567.59375 x2_r: 567.598999023 y2_e: 284.106506348 y2_r: 284.110778809 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: cow box: [38] x1_e: 155.198043823 x1_r: 155.221923828 y1_e: 173.299179077 y1_r: 173.297195435 x2_e: 353.536010742 x2_r: 353.532867432 y2_e: 333.982543945 y2_r: 333.974243164 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: cow box: [43] x1_e: 120.728485107 x1_r: 120.731796265 y1_e: 79.9615859985 y1_r: 79.9608840942 x2_e: 443.004608154 x2_r: 443.009765625 y2_e: 268.974609375 y2_r: 268.969421387 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: sofa box: [12] x1_e: 0.0 x1_r: 0.0 y1_e: 155.8722229 y1_r: 155.862411499 x2_e: 600.565856934 x2_r: 600.592224121 y2_e: 437.225311279 y2_r: 437.225097656 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: sofa box: [15] x1_e: 473.735107422 x1_r: 473.721740723 y1_e: 168.980163574 y1_r: 168.977752686 x2_e: 639.0 x2_r: 639.0 y2_e: 411.784973145 y2_r: 411.794219971 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: sofa box: [27] x1_e: 0.0 x1_r: 0.0 y1_e: 163.366668701 y1_r: 163.362869263 x2_e: 354.547058105 x2_r: 354.548583984 y2_e: 299.357543945 y2_r: 299.352111816 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: sofa box: [30] x1_e: 339.369720459 x1_r: 339.378845215 y1_e: 81.0690231323 y1_r: 81.0709533691 x2_e: 601.778808594 x2_r: 601.782592773 y2_e: 293.408477783 y2_r: 293.41305542 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: aeroplane box: [13] x1_e: 17.8806152344 x1_r: 17.8945770264 y1_e: 196.66494751 y1_r: 196.71194458 x2_e: 454.012512207 x2_r: 453.990844727 y2_e: 445.241546631 y2_r: 445.230377197 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: aeroplane box: [14] x1_e: 533.550048828 x1_r: 533.545471191 y1_e: 73.2882003784 y1_r: 73.2872695923 x2_e: 636.101074219 x2_r: 636.101135254 y2_e: 312.119812012 y2_r: 312.124816895 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: aeroplane box: [22] x1_e: 303.696777344 x1_r: 303.722717285 y1_e: 158.384246826 y1_r: 158.407424927 x2_e: 612.83392334 x2_r: 612.833129883 y2_e: 390.783477783 y2_r: 390.787963867 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: aeroplane box: [27] x1_e: 357.345245361 x1_r: 357.352386475 y1_e: 77.9492416382 y1_r: 77.9519729614 x2_e: 582.952514648 x2_r: 582.958007812 y2_e: 261.766662598 y2_r: 261.772247314 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: aeroplane box: [29] x1_e: 130.000762939 x1_r: 130.03187561 y1_e: 171.523574829 y1_r: 171.524200439 x2_e: 368.750915527 x2_r: 368.745727539 y2_e: 317.060791016 y2_r: 317.050720215 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: dog box: [23] x1_e: 130.38671875 x1_r: 130.483932495 y1_e: 199.696533203 y1_r: 199.779815674 x2_e: 546.834960938 x2_r: 546.883056641 y2_e: 435.473022461 y2_r: 435.485198975 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: dog box: [24] x1_e: 21.4452438354 x1_r: 21.445350647 y1_e: 196.433776855 y1_r: 196.442016602 x2_e: 224.661315918 x2_r: 224.635620117 y2_e: 432.305297852 y2_r: 432.303955078 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: dog box: [30] x1_e: 319.37020874 x1_r: 319.356872559 y1_e: 271.722137451 y1_r: 271.708435059 x2_e: 614.347167969 x2_r: 614.34576416 y2_e: 400.710540771 y2_r: 400.703613281 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: dog box: [36] x1_e: 150.112091064 x1_r: 150.140777588 y1_e: 181.102111816 y1_r: 181.100769043 x2_e: 352.642883301 x2_r: 352.641723633 y2_e: 330.096588135 y2_r: 330.088134766 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: dog box: [38] x1_e: 376.720031738 x1_r: 376.728210449 y1_e: 76.2265930176 y1_r: 76.2275924683 x2_e: 564.835083008 x2_r: 564.840759277 y2_e: 282.254608154 y2_r: 282.258972168 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: dog box: [46] x1_e: 118.866027832 x1_r: 118.870742798 y1_e: 96.8089141846 y1_r: 96.8082885742 x2_e: 438.70489502 x2_r: 438.710754395 y2_e: 269.16003418 y2_r: 269.15411377 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: cat box: [19] x1_e: 126.266860962 x1_r: 126.3621521 y1_e: 196.205383301 y1_r: 196.291976929 x2_e: 553.013122559 x2_r: 553.061279297 y2_e: 429.303771973 y2_r: 429.317810059 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: cat box: [21] x1_e: 37.2283630371 x1_r: 37.226524353 y1_e: 192.351470947 y1_r: 192.388824463 x2_e: 281.551483154 x2_r: 281.528717041 y2_e: 437.889129639 y2_r: 437.895111084 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: cat box: [25] x1_e: 321.425292969 x1_r: 321.412231445 y1_e: 269.350891113 y1_r: 269.337799072 x2_e: 612.848632812 x2_r: 612.847106934 y2_e: 396.365783691 y2_r: 396.358123779 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: cat box: [37] x1_e: 149.325042725 x1_r: 149.352645874 y1_e: 175.174957275 y1_r: 175.174835205 x2_e: 354.204589844 x2_r: 354.203186035 y2_e: 326.82409668 y2_r: 326.816680908 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: cat box: [38] x1_e: 370.388275146 x1_r: 370.399780273 y1_e: 109.214485168 y1_r: 109.215049744 x2_e: 585.976074219 x2_r: 585.987426758 y2_e: 300.642883301 y2_r: 300.649353027 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: cat box: [44] x1_e: 109.265441895 x1_r: 109.269607544 y1_e: 82.8762359619 y1_r: 82.8760375977 x2_e: 452.196594238 x2_r: 452.202148438 y2_e: 257.950500488 y2_r: 257.945617676 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: person box: [26] x1_e: 27.6517868042 x1_r: 27.6475448608 y1_e: 174.233779907 y1_r: 174.239532471 x2_e: 197.616485596 x2_r: 197.597106934 y2_e: 455.957336426 y2_r: 455.958526611 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: person box: [29] x1_e: 150.081787109 x1_r: 150.143661499 y1_e: 171.147232056 y1_r: 171.245559692 x2_e: 590.114074707 x2_r: 590.141784668 y2_e: 469.622314453 y2_r: 469.624816895 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: person box: [32] x1_e: 510.246368408 x1_r: 510.237792969 y1_e: 168.706954956 y1_r: 168.706039429 x2_e: 619.822021484 x2_r: 619.817749023 y2_e: 424.719970703 y2_r: 424.727600098 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: person box: [39] x1_e: 327.633544922 x1_r: 327.613952637 y1_e: 264.113037109 y1_r: 264.102416992 x2_e: 613.853149414 x2_r: 613.846496582 y2_e: 412.445068359 y2_r: 412.439941406 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: person box: [40] x1_e: 382.058105469 x1_r: 382.063476562 y1_e: 65.79737854 y1_r: 65.8014526367 x2_e: 562.26361084 x2_r: 562.269226074 y2_e: 309.446166992 y2_r: 309.450805664 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: person box: [43] x1_e: 79.3195800781 x1_r: 79.3091888428 y1_e: 223.706420898 y1_r: 223.714477539 x2_e: 350.760009766 x2_r: 350.849487305 y2_e: 396.702880859 y2_r: 396.644592285 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: person box: [47] x1_e: 181.463150024 x1_r: 181.473358154 y1_e: 88.8912506104 y1_r: 88.8966751099 x2_e: 357.866638184 x2_r: 357.872283936 y2_e: 331.487304688 y2_r: 331.480895996 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: train box: [20] x1_e: 24.089263916 x1_r: 24.1377868652 y1_e: 185.949493408 y1_r: 185.943084717 x2_e: 589.985717773 x2_r: 590.011352539 y2_e: 422.221710205 y2_r: 422.219146729 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: train box: [28] x1_e: 358.225524902 x1_r: 358.233062744 y1_e: 76.7336425781 y1_r: 76.735786438 x2_e: 589.736999512 x2_r: 589.741455078 y2_e: 276.91696167 y2_r: 276.921295166 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: train box: [30] x1_e: 13.2990112305 x1_r: 13.2976226807 y1_e: 172.227233887 y1_r: 172.22454834 x2_e: 342.394104004 x2_r: 342.39440918 y2_e: 289.596893311 y2_r: 289.590026855 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: train box: [31] x1_e: 293.566467285 x1_r: 293.553405762 y1_e: 276.630950928 y1_r: 276.620605469 x2_e: 639.0 x2_r: 639.0 y2_e: 395.537811279 y2_r: 395.529846191 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: train box: [35] x1_e: 195.923904419 x1_r: 195.929290771 y1_e: 99.377243042 y1_r: 99.3807830811 x2_e: 474.82824707 x2_r: 474.822662354 y2_e: 287.738220215 y2_r: 287.732055664 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: diningtable box: [4] x1_e: 0.0 x1_r: 0.0 y1_e: 169.300872803 y1_r: 169.297546387 x2_e: 638.520385742 x2_r: 638.544128418 y2_e: 462.82711792 y2_r: 462.83026123 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: diningtable box: [13] x1_e: 379.359069824 x1_r: 379.345367432 y1_e: 251.077789307 y1_r: 251.063598633 x2_e: 639.0 x2_r: 639.0 y2_e: 462.991851807 y2_r: 462.991516113 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: diningtable box: [17] x1_e: 12.5298042297 x1_r: 13.1023750305 y1_e: 186.510482788 y1_r: 183.923431396 x2_e: 100.616363525 x2_r: 92.0680236816 y2_e: 217.16456604 y2_r: 228.940063477 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: diningtable box: [21] x1_e: 13.0014457703 x1_r: 407.080780029 y1_e: 200.157089233 y1_r: 111.754898071 x2_e: 59.8306922913 x2_r: 441.65927124 y2_e: 229.582717896 y2_r: 140.33821106 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: diningtable box: [22] x1_e: 407.080780029 x1_r: 0.0 y1_e: 111.754898071 y1_r: 164.682495117 x2_e: 441.65927124 x2_r: 396.403442383 y2_e: 140.33821106 y2_r: 292.644775391 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: diningtable box: [23] x1_e: 0.0 x1_r: 585.392578125 y1_e: 164.68347168 y1_r: 144.776916504 x2_e: 396.404022217 x2_r: 628.360107422 y2_e: 292.646331787 y2_r: 181.109039307 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: diningtable box: [24] x1_e: 585.392578125 x1_r: 3.38283157349 y1_e: 144.776916504 y1_r: 202.537261963 x2_e: 628.360107422 x2_r: 48.4738960266 y2_e: 181.109039307 y2_r: 236.916442871 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: bottlewrong_score_size: -1
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: bottlewrong_boxes_size: -1
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: bottle box: [5] x1_e: 358.168914795 x1_r: 365.070404053 y1_e: 166.424942017 y1_r: 163.747665405 x2_e: 377.184906006 x2_r: 386.133636475 y2_e: 208.578659058 y2_r: 206.980758667 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: bottle box: [14] x1_e: 33.3262557983 x1_r: 33.3269500732 y1_e: 193.273147583 y1_r: 193.317169189 x2_e: 238.474365234 x2_r: 238.454269409 y2_e: 464.859802246 y2_r: 464.85635376 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: bottle box: [20] x1_e: 513.208312988 x1_r: 355.172424316 y1_e: 170.689880371 y1_r: 126.308486938 x2_e: 532.763244629 x2_r: 380.575256348 y2_e: 214.989624023 y2_r: 205.817703247 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: bottle box: [21] x1_e: 151.327667236 x1_r: 513.208312988 y1_e: 194.113739014 y1_r: 170.689880371 x2_e: 523.578613281 x2_r: 532.763244629 y2_e: 460.989715576 y2_r: 214.989624023 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: bottle box: [22] x1_e: 237.946609497 x1_r: 151.400497437 y1_e: 163.450668335 y1_r: 194.204330444 x2_e: 264.559417725 x2_r: 523.607788086 y2_e: 199.414108276 y2_r: 460.991455078 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: bottle box: [23] x1_e: 16.4738044739 x1_r: 237.946609497 y1_e: 200.131118774 y1_r: 163.450668335 x2_e: 51.5276069641 x2_r: 264.559417725 y2_e: 228.580093384 y2_r: 199.414108276 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: bottle box: [24] x1_e: 386.709106445 x1_r: 16.4738483429 y1_e: 125.364768982 y1_r: 200.130569458 x2_e: 412.789550781 x2_r: 51.5273284912 y2_e: 165.06439209 y2_r: 228.579391479 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: bottle box: [25] x1_e: 235.393310547 x1_r: 386.709106445 y1_e: 179.518325806 y1_r: 125.364768982 x2_e: 271.132385254 x2_r: 412.789550781 y2_e: 241.267166138 y2_r: 165.06439209 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: bottle box: [26] x1_e: 581.933654785 x1_r: 235.393310547 y1_e: 148.211853027 y1_r: 179.518325806 x2_e: 619.01348877 x2_r: 271.132385254 y2_e: 185.372650146 y2_r: 241.267166138 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: bottle box: [27] x1_e: 542.311889648 x1_r: 581.933654785 y1_e: 159.711395264 y1_r: 148.211853027 x2_e: 561.047363281 x2_r: 619.01348877 y2_e: 217.657867432 y2_r: 185.372650146 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: bottle box: [28] x1_e: 266.94140625 x1_r: 542.311828613 y1_e: 175.576385498 y1_r: 159.711395264 x2_e: 296.701904297 x2_r: 561.047302246 y2_e: 210.486022949 y2_r: 217.657867432 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: bottle box: [29] x1_e: 413.539794922 x1_r: 266.94140625 y1_e: 216.292449951 y1_r: 175.576385498 x2_e: 602.482971191 x2_r: 296.701904297 y2_e: 433.449981689 y2_r: 210.486022949 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: bottle box: [30] x1_e: 73.3660202026 x1_r: 413.548431396 y1_e: 157.792572021 y1_r: 216.289993286 x2_e: 109.269493103 x2_r: 602.477294922 y2_e: 210.66708374 y2_r: 433.443725586 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: bottle box: [31] x1_e: 123.50553894 x1_r: 73.3660202026 y1_e: 165.635360718 y1_r: 157.792572021 x2_e: 190.912033081 x2_r: 109.269493103 y2_e: 221.351333618 y2_r: 210.66708374 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: bottle box: [32] x1_e: 478.785980225 x1_r: 123.50553894 y1_e: 170.561004639 y1_r: 165.635360718 x2_e: 503.828765869 x2_r: 190.912033081 y2_e: 215.294921875 y2_r: 221.351333618 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: bottle box: [33] x1_e: 407.119018555 x1_r: 478.785980225 y1_e: 129.751525879 y1_r: 170.561004639 x2_e: 430.368530273 x2_r: 503.828765869 y2_e: 161.083557129 y2_r: 215.294921875 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: bottle box: [34] x1_e: 231.12197876 x1_r: 407.119018555 y1_e: 18.8997955322 y1_r: 129.751525879 x2_e: 457.786590576 x2_r: 430.368530273 y2_e: 187.723434448 y2_r: 161.083557129 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: bottle box: [35] x1_e: 84.0080871582 x1_r: 231.122009277 y1_e: 111.997367859 y1_r: 18.8997955322 x2_e: 118.733032227 x2_r: 457.786621094 y2_e: 149.076568604 y2_r: 187.723434448 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: bottle box: [36] x1_e: 571.649230957 x1_r: 84.0080871582 y1_e: 6.16099357605 y1_r: 111.997367859 x2_e: 615.336853027 x2_r: 118.733032227 y2_e: 56.6554946899 y2_r: 149.076568604 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: bottle box: [37] x1_e: 496.442901611 x1_r: 571.649230957 y1_e: 48.8415374756 y1_r: 6.16099357605 x2_e: 611.636230469 x2_r: 615.336853027 y2_e: 295.567749023 y2_r: 56.6554946899 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: bottle box: [38] x1_e: 170.46232605 x1_r: 496.43258667 y1_e: 169.348907471 y1_r: 48.8413619995 x2_e: 339.152526855 x2_r: 611.633056641 y2_e: 338.930755615 y2_r: 295.570678711 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: bottle box: [39] x1_e: 416.218170166 x1_r: 170.483566284 y1_e: 107.771759033 y1_r: 169.347442627 x2_e: 432.895294189 x2_r: 339.149780273 y2_e: 135.7993927 y2_r: 338.922088623 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: bottle box: [40] x1_e: 389.935455322 x1_r: 416.218170166 y1_e: 47.4861221313 y1_r: 107.771759033 x2_e: 551.759338379 x2_r: 432.895294189 y2_e: 285.84286499 y2_r: 135.7993927 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: bottle box: [41] x1_e: 548.195495605 x1_r: 389.941314697 y1_e: 213.812850952 y1_r: 47.4875488281 x2_e: 572.191589355 x2_r: 551.76373291 y2_e: 254.987808228 y2_r: 285.846313477 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: bottle box: [42] x1_e: 218.678359985 x1_r: 548.195129395 y1_e: 177.479064941 y1_r: 213.812957764 x2_e: 239.406692505 x2_r: 572.191223145 y2_e: 222.482940674 y2_r: 254.988220215 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: bottle box: [43] x1_e: 30.9356460571 x1_r: 218.678359985 y1_e: 55.1706237793 y1_r: 177.479064941 x2_e: 193.163665771 x2_r: 239.406692505 y2_e: 231.114044189 y2_r: 222.482940674 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: bottle box: [44] x1_e: 52.6551818848 x1_r: 30.9356460571 y1_e: 143.582885742 y1_r: 55.1706314087 x2_e: 273.134155273 x2_r: 193.163665771 y2_e: 261.798187256 y2_r: 231.114044189 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: bottle box: [45] x1_e: 94.4970169067 x1_r: 52.6541137695 y1_e: 89.7600631714 y1_r: 143.582275391 x2_e: 124.317558289 x2_r: 273.134338379 y2_e: 119.804145813 y2_r: 261.797454834 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: bottle box: [46] x1_e: 128.653137207 x1_r: 94.4970169067 y1_e: 69.1046524048 y1_r: 89.7600631714 x2_e: 406.071838379 x2_r: 124.317558289 y2_e: 280.450592041 y2_r: 119.804145813 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: bus box: [21] x1_e: 29.0742797852 x1_r: 29.1192321777 y1_e: 156.72593689 y1_r: 156.71824646 x2_e: 573.390075684 x2_r: 573.413818359 y2_e: 422.427429199 y2_r: 422.428344727 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: bus box: [24] x1_e: 483.230926514 x1_r: 483.218505859 y1_e: 145.094329834 y1_r: 145.091552734 x2_e: 639.0 x2_r: 639.0 y2_e: 390.868743896 y2_r: 390.876953125 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: bus box: [31] x1_e: 19.0982818604 x1_r: 19.0975494385 y1_e: 153.658630371 y1_r: 153.656585693 x2_e: 332.016784668 x2_r: 332.017089844 y2_e: 286.512237549 y2_r: 286.507110596 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: bus box: [32] x1_e: 291.778106689 x1_r: 291.75982666 y1_e: 270.482421875 y1_r: 270.471710205 x2_e: 637.479614258 x2_r: 637.476013184 y2_e: 395.159057617 y2_r: 395.152557373 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: pottedplant box: [18] x1_e: 43.2779388428 x1_r: 43.2846069336 y1_e: 179.143463135 y1_r: 179.193984985 x2_e: 389.43963623 x2_r: 389.423797607 y2_e: 459.76461792 y2_r: 459.754821777 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: pottedplant box: [25] x1_e: 235.267211914 x1_r: 235.30960083 y1_e: 216.346084595 y1_r: 216.370697021 x2_e: 620.744812012 x2_r: 620.750244141 y2_e: 442.182434082 y2_r: 442.181182861 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: pottedplant box: [32] x1_e: 503.871063232 x1_r: 503.860229492 y1_e: 158.717773438 y1_r: 158.713867188 x2_e: 627.063598633 x2_r: 627.060424805 y2_e: 395.973999023 y2_r: 395.984375 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: pottedplant box: [40] x1_e: 15.1429824829 x1_r: 15.1424407959 y1_e: 139.661117554 y1_r: 139.659973145 x2_e: 177.235168457 x2_r: 177.22833252 y2_e: 383.007080078 y2_r: 383.007873535 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: pottedplant box: [43] x1_e: 117.976974487 x1_r: 117.980651855 y1_e: 68.5832519531 y1_r: 68.5824356079 x2_e: 427.583618164 x2_r: 427.589050293 y2_e: 278.241424561 y2_r: 278.235321045 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: tvmonitor box: [10] x1_e: 12.753326416 x1_r: 12.758392334 y1_e: 193.355239868 y1_r: 193.393066406 x2_e: 435.342437744 x2_r: 435.326568604 y2_e: 479.0 y2_r: 479.0 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: tvmonitor box: [17] x1_e: 285.105834961 x1_r: 285.068969727 y1_e: 252.297363281 y1_r: 252.27885437 x2_e: 639.0 x2_r: 639.0 y2_e: 464.532043457 y2_r: 464.524169922 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: tvmonitor box: [27] x1_e: 489.224822998 x1_r: 489.212890625 y1_e: 168.473510742 y1_r: 168.467926025 x2_e: 637.530822754 x2_r: 637.52746582 y2_e: 403.051940918 y2_r: 403.059234619 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: tvmonitor box: [36] x1_e: 359.422027588 x1_r: 359.42980957 y1_e: 46.9074020386 y1_r: 46.9085235596 x2_e: 577.053588867 x2_r: 577.057800293 y2_e: 278.438690186 y2_r: 278.440551758 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: tvmonitor box: [38] x1_e: 0.0 x1_r: 0.0 y1_e: 154.453979492 y1_r: 154.449401855 x2_e: 200.212112427 x2_r: 200.203872681 y2_e: 392.210266113 y2_r: 392.207763672 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: tvmonitor box: [39] x1_e: 138.322555542 x1_r: 138.348968506 y1_e: 166.654556274 y1_r: 166.651580811 x2_e: 365.613342285 x2_r: 365.609313965 y2_e: 336.7890625 y2_r: 336.781188965 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: chair box: [16] x1_e: 18.9032287598 x1_r: 18.8961029053 y1_e: 229.185913086 y1_r: 229.227737427 x2_e: 333.241333008 x2_r: 333.23248291 y2_e: 479.0 y2_r: 479.0 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: chair box: [21] x1_e: 214.157318115 x1_r: 214.213729858 y1_e: 230.15447998 y1_r: 230.176071167 x2_e: 639.0 x2_r: 639.0 y2_e: 464.548461914 y2_r: 464.53918457 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: chair box: [23] x1_e: 497.215332031 x1_r: 497.203857422 y1_e: 185.549957275 y1_r: 185.544769287 x2_e: 636.246704102 x2_r: 636.243041992 y2_e: 418.587799072 y2_r: 418.595306396 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: chair box: [27] x1_e: 15.7170944214 x1_r: 16.5109863281 y1_e: 199.208129883 y1_r: 195.823059082 x2_e: 58.1180419922 x2_r: 62.8449249268 y2_e: 228.60760498 y2_r: 223.332336426 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: chair box: [36] x1_e: 43.6854248047 x1_r: 43.6803436279 y1_e: 166.612304688 y1_r: 166.608642578 x2_e: 317.407043457 x2_r: 317.406921387 y2_e: 300.049804688 y2_r: 300.04296875 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: chair box: [37] x1_e: 365.995056152 x1_r: 366.002929688 y1_e: 77.0018692017 y1_r: 77.0036010742 x2_e: 577.992858887 x2_r: 577.997375488 y2_e: 296.353546143 y2_r: 296.359161377 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: chair box: [41] x1_e: 155.021911621 x1_r: 155.051101685 y1_e: 142.940551758 y1_r: 142.927505493 x2_e: 452.787475586 x2_r: 452.790588379 y2_e: 386.35559082 y2_r: 386.345153809 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: bird box: [18] x1_e: 62.3947601318 x1_r: 62.4031524658 y1_e: 188.775482178 y1_r: 188.823013306 x2_e: 389.573364258 x2_r: 389.554016113 y2_e: 439.482696533 y2_r: 439.481140137 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: bird box: [20] x1_e: 240.555603027 x1_r: 240.60383606 y1_e: 229.965362549 y1_r: 229.985717773 x2_e: 609.690124512 x2_r: 609.69732666 y2_e: 426.038726807 y2_r: 426.034484863 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: bird box: [34] x1_e: 387.666717529 x1_r: 387.673828125 y1_e: 77.0244522095 y1_r: 77.0269088745 x2_e: 563.140869141 x2_r: 563.146850586 y2_e: 271.447509766 y2_r: 271.452697754 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: bird box: [36] x1_e: 17.6866531372 x1_r: 17.6849822998 y1_e: 163.865203857 y1_r: 163.861907959 x2_e: 183.821136475 x2_r: 183.814651489 y2_e: 367.838226318 y2_r: 367.840057373 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: bird box: [42] x1_e: 235.183868408 x1_r: 235.187896729 y1_e: 93.2497253418 y1_r: 93.252746582 x2_e: 433.128875732 x2_r: 433.123382568 y2_e: 279.2159729 y2_r: 279.209899902 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: bird box: [43] x1_e: 77.0363006592 x1_r: 77.0358352661 y1_e: 122.724151611 y1_r: 122.722244263 x2_e: 329.409729004 x2_r: 329.414215088 y2_e: 276.083831787 y2_r: 276.072998047 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: boat box: [11] x1_e: 43.3361816406 x1_r: 43.3479766846 y1_e: 184.916870117 y1_r: 184.969696045 x2_e: 413.884094238 x2_r: 413.868591309 y2_e: 462.488098145 y2_r: 462.482025146 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: boat box: [16] x1_e: 216.375320435 x1_r: 216.427322388 y1_e: 230.430404663 y1_r: 230.454559326 x2_e: 630.309997559 x2_r: 630.312438965 y2_e: 448.230773926 y2_r: 448.225250244 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: boat box: [25] x1_e: 372.424072266 x1_r: 372.431854248 y1_e: 73.7050704956 y1_r: 73.7063598633 x2_e: 577.333007812 x2_r: 577.338012695 y2_e: 295.500610352 y2_r: 295.504852295 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: boat box: [29] x1_e: 9.16223907471 x1_r: 9.16204833984 y1_e: 185.663513184 y1_r: 185.659286499 x2_e: 198.730957031 x2_r: 198.722808838 y2_e: 393.546691895 y2_r: 393.546508789 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: boat box: [32] x1_e: 109.835327148 x1_r: 109.839263916 y1_e: 102.288986206 y1_r: 102.286064148 x2_e: 469.336975098 x2_r: 469.34463501 y2_e: 280.706054688 y2_r: 280.699462891 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: car box: [11] x1_e: 1.72231292725 x1_r: 1.72463226318 y1_e: 188.287963867 y1_r: 188.290466309 x2_e: 242.934448242 x2_r: 242.907714844 y2_e: 432.61706543 y2_r: 432.610290527 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: car box: [24] x1_e: 34.0050506592 x1_r: 34.0027923584 y1_e: 170.019866943 y1_r: 170.016204834 x2_e: 311.504211426 x2_r: 311.504638672 y2_e: 285.872955322 y2_r: 285.866424561 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: car box: [25] x1_e: 60.4342041016 x1_r: 60.5426635742 y1_e: 193.171813965 y1_r: 193.263702393 x2_e: 599.994934082 x2_r: 600.020446777 y2_e: 454.701416016 y2_r: 454.701324463 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: car box: [30] x1_e: 416.988800049 x1_r: 416.972229004 y1_e: 254.325195312 y1_r: 254.317687988 x2_e: 639.0 x2_r: 639.0 y2_e: 432.175170898 y2_r: 432.17767334 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: car box: [35] x1_e: 366.330200195 x1_r: 366.341186523 y1_e: 117.768302917 y1_r: 117.769561768 x2_e: 596.231079102 x2_r: 596.241821289 y2_e: 294.60333252 y2_r: 294.61151123 
+#ERR img_name: /home/carol/radiation-benchmarks/data/CALTECH/set10/V000/769.jpg class: car box: [38] x1_e: 152.351959229 x1_r: 152.362106323 y1_e: 140.502075195 y1_r: 140.500701904 x2_e: 502.48727417 x2_r: 502.508300781 y2_e: 300.021728516 y2_r: 300.01260376 
+#SDC Ite:36 KerTime:0.272630 AccTime:10.179364 KerErr:137 AccErr:137
+#IT Ite:37 KerTime:0.272736 AccTime:10.452100
+#IT Ite:38 KerTime:0.276365 AccTime:10.728465
+#IT Ite:39 KerTime:0.277005 AccTime:11.005470
+#IT Ite:40 KerTime:0.272446 AccTime:11.277916
+#IT Ite:41 KerTime:0.277385 AccTime:11.555301
+#IT Ite:42 KerTime:0.272122 AccTime:11.827423
+#IT Ite:43 KerTime:0.277189 AccTime:12.104612
+#IT Ite:44 KerTime:0.278496 AccTime:12.383108
+#IT Ite:45 KerTime:0.272265 AccTime:12.655373
+#IT Ite:46 KerTime:0.273196 AccTime:12.928569
+#IT Ite:47 KerTime:0.277525 AccTime:13.206094
+#IT Ite:48 KerTime:0.273277 AccTime:13.479371
+#IT Ite:49 KerTime:0.273033 AccTime:13.752404
+#IT Ite:50 KerTime:0.272666 AccTime:14.025070
+#IT Ite:51 KerTime:0.276738 AccTime:14.301808
+#IT Ite:52 KerTime:0.273362 AccTime:14.575170
+#IT Ite:53 KerTime:0.274479 AccTime:14.849649
+#IT Ite:54 KerTime:0.277092 AccTime:15.126741
+#IT Ite:55 KerTime:0.276838 AccTime:15.403579
+#IT Ite:56 KerTime:0.276900 AccTime:15.680479
+#IT Ite:57 KerTime:0.276670 AccTime:15.957149
+#IT Ite:58 KerTime:0.276773 AccTime:16.233922
+#IT Ite:59 KerTime:0.272446 AccTime:16.506368
+#IT Ite:60 KerTime:0.276195 AccTime:16.782563
+#IT Ite:61 KerTime:0.278060 AccTime:17.060623
+#IT Ite:62 KerTime:0.273380 AccTime:17.334003
+#IT Ite:63 KerTime:0.278634 AccTime:17.612637
+#IT Ite:64 KerTime:0.277474 AccTime:17.890111
+#IT Ite:65 KerTime:0.276357 AccTime:18.166468
+#IT Ite:66 KerTime:0.272541 AccTime:18.439009
+#IT Ite:67 KerTime:0.277075 AccTime:18.716084
+#IT Ite:68 KerTime:0.277657 AccTime:18.993741
+#IT Ite:69 KerTime:0.272714 AccTime:19.266455
+#IT Ite:70 KerTime:0.276796 AccTime:19.543251
+#IT Ite:71 KerTime:0.278486 AccTime:19.821737
+#IT Ite:72 KerTime:0.272663 AccTime:20.094400
+#IT Ite:73 KerTime:0.273466 AccTime:20.367866
+#IT Ite:74 KerTime:0.272483 AccTime:20.640349
+#IT Ite:75 KerTime:0.273465 AccTime:20.913814
+#IT Ite:76 KerTime:0.277326 AccTime:21.191140
+#IT Ite:77 KerTime:0.272621 AccTime:21.463761
+#IT Ite:78 KerTime:0.277025 AccTime:21.740786
+#IT Ite:79 KerTime:0.273080 AccTime:22.013866
+#IT Ite:80 KerTime:0.274457 AccTime:22.288323
+#IT Ite:81 KerTime:0.275012 AccTime:22.563335
+#IT Ite:82 KerTime:0.279323 AccTime:22.842658
+#IT Ite:83 KerTime:0.273308 AccTime:23.115966
+#IT Ite:84 KerTime:0.276382 AccTime:23.392348
+#IT Ite:85 KerTime:0.273188 AccTime:23.665536
+#IT Ite:86 KerTime:0.278059 AccTime:23.943595
+#IT Ite:87 KerTime:0.277845 AccTime:24.221440
+#IT Ite:88 KerTime:0.276914 AccTime:24.498354
+#IT Ite:89 KerTime:0.277851 AccTime:24.776205
+#IT Ite:90 KerTime:0.274548 AccTime:25.050753
+#IT Ite:91 KerTime:0.272856 AccTime:25.323609
+#IT Ite:92 KerTime:0.276037 AccTime:25.599646
+#IT Ite:93 KerTime:0.273529 AccTime:25.873175
+#IT Ite:94 KerTime:0.277662 AccTime:26.150837
+#IT Ite:95 KerTime:0.277223 AccTime:26.428060
+#IT Ite:96 KerTime:0.274076 AccTime:26.702136
+#IT Ite:97 KerTime:0.273104 AccTime:26.975240
+#IT Ite:98 KerTime:0.277823 AccTime:27.253063
+#IT Ite:99 KerTime:0.272141 AccTime:27.525204
+#IT Ite:100 KerTime:0.271672 AccTime:27.796876
+#IT Ite:101 KerTime:0.278294 AccTime:28.075170
+#IT Ite:102 KerTime:0.273032 AccTime:28.348202
+#IT Ite:103 KerTime:0.272658 AccTime:28.620860
+#IT Ite:104 KerTime:0.274416 AccTime:28.895276
+#IT Ite:105 KerTime:0.271706 AccTime:29.166982
+#IT Ite:106 KerTime:0.272832 AccTime:29.439814
+#IT Ite:107 KerTime:0.276883 AccTime:29.716697
+#IT Ite:108 KerTime:0.273197 AccTime:29.989894
+#IT Ite:109 KerTime:0.277294 AccTime:30.267188
+#IT Ite:110 KerTime:0.272355 AccTime:30.539543
+#IT Ite:111 KerTime:0.273006 AccTime:30.812549
+#IT Ite:112 KerTime:0.273323 AccTime:31.085872
+#IT Ite:113 KerTime:0.273801 AccTime:31.359673
+#IT Ite:114 KerTime:0.278524 AccTime:31.638197
+#IT Ite:115 KerTime:0.278434 AccTime:31.916631
+#IT Ite:116 KerTime:0.277723 AccTime:32.194354
+#IT Ite:117 KerTime:0.273266 AccTime:32.467620
+#IT Ite:118 KerTime:0.273015 AccTime:32.740635
+#IT Ite:119 KerTime:0.272955 AccTime:33.013590
+#IT Ite:120 KerTime:0.277642 AccTime:33.291232
+#IT Ite:121 KerTime:0.276842 AccTime:33.568074
+#IT Ite:122 KerTime:0.272403 AccTime:33.840477
+#IT Ite:123 KerTime:0.278134 AccTime:34.118611
+#IT Ite:124 KerTime:0.272042 AccTime:34.390653
+#IT Ite:125 KerTime:0.277630 AccTime:34.668283
+#IT Ite:126 KerTime:0.272296 AccTime:34.940579
+#IT Ite:127 KerTime:0.273197 AccTime:35.213776
+#IT Ite:128 KerTime:0.273841 AccTime:35.487617
+#IT Ite:129 KerTime:0.276952 AccTime:35.764569
+#IT Ite:130 KerTime:0.276643 AccTime:36.041212
+#IT Ite:131 KerTime:0.276035 AccTime:36.317247
+#IT Ite:132 KerTime:0.276413 AccTime:36.593660
+#IT Ite:133 KerTime:0.275110 AccTime:36.868770
+#IT Ite:134 KerTime:0.276876 AccTime:37.145646
+#IT Ite:135 KerTime:0.272119 AccTime:37.417765
+#IT Ite:136 KerTime:0.275983 AccTime:37.693748
+#IT Ite:137 KerTime:0.273257 AccTime:37.967005
+#IT Ite:138 KerTime:0.277869 AccTime:38.244874
+#IT Ite:139 KerTime:0.273398 AccTime:38.518272
+#IT Ite:140 KerTime:0.272470 AccTime:38.790742
+#IT Ite:141 KerTime:0.276284 AccTime:39.067026
+#IT Ite:142 KerTime:0.277658 AccTime:39.344684
+#IT Ite:143 KerTime:0.272708 AccTime:39.617392

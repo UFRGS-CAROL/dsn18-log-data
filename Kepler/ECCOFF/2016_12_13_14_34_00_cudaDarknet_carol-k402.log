@@ -1,0 +1,1172 @@
+#HEADER execution_type:yolo execution_model:valid img_list_path:/home/carol/radiation-benchmarks/data/networks_img_list/caltech.pedestrians.critical.1K.txt weights:/home/carol/radiation-benchmarks/data/darknet/yolo.weights config_file:/home/carol/radiation-benchmarks/data/darknet/yolo.cfg iterations:10000 abft: no_abft
+#BEGIN Y:2016 M:12 D:13 Time:14:34:00
+#IT Ite:0 KerTime:0.550979 AccTime:0.550979
+#IT Ite:1 KerTime:0.362016 AccTime:0.912995
+#IT Ite:2 KerTime:0.357600 AccTime:1.270595
+#IT Ite:3 KerTime:0.357646 AccTime:1.628241
+#IT Ite:4 KerTime:0.357191 AccTime:1.985432
+#IT Ite:5 KerTime:0.357467 AccTime:2.342899
+#IT Ite:6 KerTime:0.357259 AccTime:2.700158
+#IT Ite:7 KerTime:0.357427 AccTime:3.057585
+#IT Ite:8 KerTime:0.357151 AccTime:3.414736
+#IT Ite:9 KerTime:0.357497 AccTime:3.772233
+#IT Ite:10 KerTime:0.357874 AccTime:4.130107
+#IT Ite:11 KerTime:0.357225 AccTime:4.487332
+#IT Ite:12 KerTime:0.357803 AccTime:4.845135
+#IT Ite:13 KerTime:0.357116 AccTime:5.202251
+#IT Ite:14 KerTime:0.357750 AccTime:5.560001
+#IT Ite:15 KerTime:0.357648 AccTime:5.917649
+#IT Ite:16 KerTime:0.357321 AccTime:6.274970
+#IT Ite:17 KerTime:0.357452 AccTime:6.632422
+#IT Ite:18 KerTime:0.357794 AccTime:6.990216
+#IT Ite:19 KerTime:0.356945 AccTime:7.347161
+#IT Ite:20 KerTime:0.357776 AccTime:7.704937
+#IT Ite:21 KerTime:0.357019 AccTime:8.061956
+#IT Ite:22 KerTime:0.357377 AccTime:8.419333
+#IT Ite:23 KerTime:0.358021 AccTime:8.777354
+#IT Ite:24 KerTime:0.357891 AccTime:9.135245
+#IT Ite:25 KerTime:0.356890 AccTime:9.492135
+#IT Ite:26 KerTime:0.357559 AccTime:9.849694
+#IT Ite:27 KerTime:0.357732 AccTime:10.207426
+#IT Ite:28 KerTime:0.357707 AccTime:10.565133
+#IT Ite:29 KerTime:0.357784 AccTime:10.922917
+#IT Ite:30 KerTime:0.357660 AccTime:11.280577
+#IT Ite:31 KerTime:0.357660 AccTime:11.638237
+#IT Ite:32 KerTime:0.357745 AccTime:11.995982
+#IT Ite:33 KerTime:0.357118 AccTime:12.353100
+#IT Ite:34 KerTime:0.357385 AccTime:12.710485
+#IT Ite:35 KerTime:0.357390 AccTime:13.067875
+#IT Ite:36 KerTime:0.357768 AccTime:13.425643
+#IT Ite:37 KerTime:0.357251 AccTime:13.782894
+#IT Ite:38 KerTime:0.357733 AccTime:14.140627
+#IT Ite:39 KerTime:0.357406 AccTime:14.498033
+#IT Ite:40 KerTime:0.357316 AccTime:14.855349
+#IT Ite:41 KerTime:0.357274 AccTime:15.212623
+#IT Ite:42 KerTime:0.357609 AccTime:15.570232
+#IT Ite:43 KerTime:0.357068 AccTime:15.927300
+#IT Ite:44 KerTime:0.357762 AccTime:16.285062
+#IT Ite:45 KerTime:0.357668 AccTime:16.642730
+#IT Ite:46 KerTime:0.357425 AccTime:17.000155
+#IT Ite:47 KerTime:0.357583 AccTime:17.357738
+#IT Ite:48 KerTime:0.357603 AccTime:17.715341
+#IT Ite:49 KerTime:0.357403 AccTime:18.072744
+#IT Ite:50 KerTime:0.357700 AccTime:18.430444
+#IT Ite:51 KerTime:0.357714 AccTime:18.788158
+#IT Ite:52 KerTime:0.357723 AccTime:19.145881
+#IT Ite:53 KerTime:0.357855 AccTime:19.503736
+#IT Ite:54 KerTime:0.357671 AccTime:19.861407
+#IT Ite:55 KerTime:0.357248 AccTime:20.218655
+#IT Ite:56 KerTime:0.357882 AccTime:20.576537
+#IT Ite:57 KerTime:0.357113 AccTime:20.933650
+#IT Ite:58 KerTime:0.357821 AccTime:21.291471
+#IT Ite:59 KerTime:0.357092 AccTime:21.648563
+#IT Ite:60 KerTime:0.357808 AccTime:22.006371
+#IT Ite:61 KerTime:0.357431 AccTime:22.363802
+#IT Ite:62 KerTime:0.357690 AccTime:22.721492
+#IT Ite:63 KerTime:0.357348 AccTime:23.078840
+#IT Ite:64 KerTime:0.357466 AccTime:23.436306
+#IT Ite:65 KerTime:0.357002 AccTime:23.793308
+#IT Ite:66 KerTime:0.357365 AccTime:24.150673
+#IT Ite:67 KerTime:0.357629 AccTime:24.508302
+#IT Ite:68 KerTime:0.357348 AccTime:24.865650
+#IT Ite:69 KerTime:0.356847 AccTime:25.222497
+#IT Ite:70 KerTime:0.357430 AccTime:25.579927
+#IT Ite:71 KerTime:0.357359 AccTime:25.937286
+#IT Ite:72 KerTime:0.357593 AccTime:26.294879
+#IT Ite:73 KerTime:0.357692 AccTime:26.652571
+#IT Ite:74 KerTime:0.357641 AccTime:27.010212
+#IT Ite:75 KerTime:0.357358 AccTime:27.367570
+#IT Ite:76 KerTime:0.357524 AccTime:27.725094
+#IT Ite:77 KerTime:0.357575 AccTime:28.082669
+#IT Ite:78 KerTime:0.357532 AccTime:28.440201
+#IT Ite:79 KerTime:0.357482 AccTime:28.797683
+#IT Ite:80 KerTime:0.357602 AccTime:29.155285
+#IT Ite:81 KerTime:0.357328 AccTime:29.512613
+#IT Ite:82 KerTime:0.357875 AccTime:29.870488
+#IT Ite:83 KerTime:0.357164 AccTime:30.227652
+#IT Ite:84 KerTime:0.357697 AccTime:30.585349
+#IT Ite:85 KerTime:0.357262 AccTime:30.942611
+#IT Ite:86 KerTime:0.357340 AccTime:31.299951
+#IT Ite:87 KerTime:0.357551 AccTime:31.657502
+#IT Ite:88 KerTime:0.357362 AccTime:32.014864
+#IT Ite:89 KerTime:0.357656 AccTime:32.372520
+#IT Ite:90 KerTime:0.357794 AccTime:32.730314
+#IT Ite:91 KerTime:0.358148 AccTime:33.088462
+#IT Ite:92 KerTime:0.357516 AccTime:33.445978
+#IT Ite:93 KerTime:0.357759 AccTime:33.803737
+#IT Ite:94 KerTime:0.357873 AccTime:34.161610
+#IT Ite:95 KerTime:0.356928 AccTime:34.518538
+#IT Ite:96 KerTime:0.357424 AccTime:34.875962
+#IT Ite:97 KerTime:0.357547 AccTime:35.233509
+#IT Ite:98 KerTime:0.357664 AccTime:35.591173
+#IT Ite:99 KerTime:0.357891 AccTime:35.949064
+#IT Ite:100 KerTime:0.357144 AccTime:36.306208
+#IT Ite:101 KerTime:0.357311 AccTime:36.663519
+#IT Ite:102 KerTime:0.357839 AccTime:37.021358
+#IT Ite:103 KerTime:0.357191 AccTime:37.378549
+#IT Ite:104 KerTime:0.357606 AccTime:37.736155
+#IT Ite:105 KerTime:0.357711 AccTime:38.093866
+#IT Ite:106 KerTime:0.357371 AccTime:38.451237
+#IT Ite:107 KerTime:0.357722 AccTime:38.808959
+#IT Ite:108 KerTime:0.357448 AccTime:39.166407
+#IT Ite:109 KerTime:0.357374 AccTime:39.523781
+#IT Ite:110 KerTime:0.357479 AccTime:39.881260
+#IT Ite:111 KerTime:0.357708 AccTime:40.238968
+#IT Ite:112 KerTime:0.357529 AccTime:40.596497
+#IT Ite:113 KerTime:0.357153 AccTime:40.953650
+#IT Ite:114 KerTime:0.357674 AccTime:41.311324
+#IT Ite:115 KerTime:0.357308 AccTime:41.668632
+#IT Ite:116 KerTime:0.357652 AccTime:42.026284
+#IT Ite:117 KerTime:0.357564 AccTime:42.383848
+#IT Ite:118 KerTime:0.356951 AccTime:42.740799
+#IT Ite:119 KerTime:0.357667 AccTime:43.098466
+#IT Ite:120 KerTime:0.357619 AccTime:43.456085
+#IT Ite:121 KerTime:0.357116 AccTime:43.813201
+#IT Ite:122 KerTime:0.357681 AccTime:44.170882
+#IT Ite:123 KerTime:0.357786 AccTime:44.528668
+#IT Ite:124 KerTime:0.357465 AccTime:44.886133
+#IT Ite:125 KerTime:0.357775 AccTime:45.243908
+#IT Ite:126 KerTime:0.357363 AccTime:45.601271
+#IT Ite:127 KerTime:0.357726 AccTime:45.958997
+#IT Ite:128 KerTime:0.357633 AccTime:46.316630
+#IT Ite:129 KerTime:0.357767 AccTime:46.674397
+#IT Ite:130 KerTime:0.356936 AccTime:47.031333
+#IT Ite:131 KerTime:0.357735 AccTime:47.389068
+#IT Ite:132 KerTime:0.357734 AccTime:47.746802
+#IT Ite:133 KerTime:0.357307 AccTime:48.104109
+#IT Ite:134 KerTime:0.357608 AccTime:48.461717
+#IT Ite:135 KerTime:0.357772 AccTime:48.819489
+#IT Ite:136 KerTime:0.357022 AccTime:49.176511
+#IT Ite:137 KerTime:0.357247 AccTime:49.533758
+#IT Ite:138 KerTime:0.357358 AccTime:49.891116
+#IT Ite:139 KerTime:0.357244 AccTime:50.248360
+#IT Ite:140 KerTime:0.357611 AccTime:50.605971
+#IT Ite:141 KerTime:0.357159 AccTime:50.963130
+#IT Ite:142 KerTime:0.357648 AccTime:51.320778
+#IT Ite:143 KerTime:0.356863 AccTime:51.677641
+#IT Ite:144 KerTime:0.357282 AccTime:52.034923
+#IT Ite:145 KerTime:0.357057 AccTime:52.391980
+#IT Ite:146 KerTime:0.357636 AccTime:52.749616
+#IT Ite:147 KerTime:0.357447 AccTime:53.107063
+#IT Ite:148 KerTime:0.357794 AccTime:53.464857
+#IT Ite:149 KerTime:0.357367 AccTime:53.822224
+#IT Ite:150 KerTime:0.357686 AccTime:54.179910
+#IT Ite:151 KerTime:0.357682 AccTime:54.537592
+#IT Ite:152 KerTime:0.357938 AccTime:54.895530
+#IT Ite:153 KerTime:0.357590 AccTime:55.253120
+#IT Ite:154 KerTime:0.357202 AccTime:55.610322
+#IT Ite:155 KerTime:0.357737 AccTime:55.968059
+#IT Ite:156 KerTime:0.357226 AccTime:56.325285
+#IT Ite:157 KerTime:0.357881 AccTime:56.683166
+#IT Ite:158 KerTime:0.357536 AccTime:57.040702
+#IT Ite:159 KerTime:0.357553 AccTime:57.398255
+#IT Ite:160 KerTime:0.357913 AccTime:57.756168
+#IT Ite:161 KerTime:0.357194 AccTime:58.113362
+#IT Ite:162 KerTime:0.357477 AccTime:58.470839
+#IT Ite:163 KerTime:0.357763 AccTime:58.828602
+#IT Ite:164 KerTime:0.357699 AccTime:59.186301
+#IT Ite:165 KerTime:0.357388 AccTime:59.543689
+#IT Ite:166 KerTime:0.357758 AccTime:59.901447
+#IT Ite:167 KerTime:0.357427 AccTime:60.258874
+#IT Ite:168 KerTime:0.357094 AccTime:60.615968
+#IT Ite:169 KerTime:0.357287 AccTime:60.973255
+#IT Ite:170 KerTime:0.357407 AccTime:61.330662
+#IT Ite:171 KerTime:0.357269 AccTime:61.687931
+#IT Ite:172 KerTime:0.357714 AccTime:62.045645
+#IT Ite:173 KerTime:0.356966 AccTime:62.402611
+#IT Ite:174 KerTime:0.357725 AccTime:62.760336
+#IT Ite:175 KerTime:0.357949 AccTime:63.118285
+#IT Ite:176 KerTime:0.357218 AccTime:63.475503
+#IT Ite:177 KerTime:0.357864 AccTime:63.833367
+#IT Ite:178 KerTime:0.357579 AccTime:64.190946
+#IT Ite:179 KerTime:0.357685 AccTime:64.548631
+#IT Ite:180 KerTime:0.357728 AccTime:64.906359
+#IT Ite:181 KerTime:0.357315 AccTime:65.263674
+#IT Ite:182 KerTime:0.357281 AccTime:65.620955
+#IT Ite:183 KerTime:0.357347 AccTime:65.978302
+#IT Ite:184 KerTime:0.357443 AccTime:66.335745
+#IT Ite:185 KerTime:0.357730 AccTime:66.693475
+#IT Ite:186 KerTime:0.357384 AccTime:67.050859
+#IT Ite:187 KerTime:0.357860 AccTime:67.408719
+#IT Ite:188 KerTime:0.357671 AccTime:67.766390
+#IT Ite:189 KerTime:0.357795 AccTime:68.124185
+#IT Ite:190 KerTime:0.357244 AccTime:68.481429
+#IT Ite:191 KerTime:0.357255 AccTime:68.838684
+#IT Ite:192 KerTime:0.357835 AccTime:69.196519
+#IT Ite:193 KerTime:0.357489 AccTime:69.554008
+#IT Ite:194 KerTime:0.357710 AccTime:69.911718
+#IT Ite:195 KerTime:0.357589 AccTime:70.269307
+#IT Ite:196 KerTime:0.357410 AccTime:70.626717
+#IT Ite:197 KerTime:0.356993 AccTime:70.983710
+#IT Ite:198 KerTime:0.357668 AccTime:71.341378
+#IT Ite:199 KerTime:0.357122 AccTime:71.698500
+#IT Ite:200 KerTime:0.357569 AccTime:72.056069
+#IT Ite:201 KerTime:0.356958 AccTime:72.413027
+#IT Ite:202 KerTime:0.357298 AccTime:72.770325
+#IT Ite:203 KerTime:0.357673 AccTime:73.127998
+#IT Ite:204 KerTime:0.357872 AccTime:73.485870
+#IT Ite:205 KerTime:0.356893 AccTime:73.842763
+#IT Ite:206 KerTime:0.357979 AccTime:74.200742
+#IT Ite:207 KerTime:0.357224 AccTime:74.557966
+#IT Ite:208 KerTime:0.357380 AccTime:74.915346
+#IT Ite:209 KerTime:0.357503 AccTime:75.272849
+#IT Ite:210 KerTime:0.356882 AccTime:75.629731
+#IT Ite:211 KerTime:0.356981 AccTime:75.986712
+#IT Ite:212 KerTime:0.357402 AccTime:76.344114
+#IT Ite:213 KerTime:0.357400 AccTime:76.701514
+#IT Ite:214 KerTime:0.357262 AccTime:77.058776
+#IT Ite:215 KerTime:0.357742 AccTime:77.416518
+#IT Ite:216 KerTime:0.357449 AccTime:77.773967
+#IT Ite:217 KerTime:0.357739 AccTime:78.131706
+#IT Ite:218 KerTime:0.357536 AccTime:78.489242
+#IT Ite:219 KerTime:0.357171 AccTime:78.846413
+#IT Ite:220 KerTime:0.357268 AccTime:79.203681
+#IT Ite:221 KerTime:0.357694 AccTime:79.561375
+#IT Ite:222 KerTime:0.357592 AccTime:79.918967
+#IT Ite:223 KerTime:0.357363 AccTime:80.276330
+#IT Ite:224 KerTime:0.357416 AccTime:80.633746
+#IT Ite:225 KerTime:0.357631 AccTime:80.991377
+#IT Ite:226 KerTime:0.357046 AccTime:81.348423
+#IT Ite:227 KerTime:0.357784 AccTime:81.706207
+#IT Ite:228 KerTime:0.357509 AccTime:82.063716
+#IT Ite:229 KerTime:0.357720 AccTime:82.421436
+#IT Ite:230 KerTime:0.357767 AccTime:82.779203
+#IT Ite:231 KerTime:0.357062 AccTime:83.136265
+#IT Ite:232 KerTime:0.357024 AccTime:83.493289
+#IT Ite:233 KerTime:0.357716 AccTime:83.851005
+#IT Ite:234 KerTime:0.357150 AccTime:84.208155
+#IT Ite:235 KerTime:0.357747 AccTime:84.565902
+#IT Ite:236 KerTime:0.357601 AccTime:84.923503
+#IT Ite:237 KerTime:0.357861 AccTime:85.281364
+#IT Ite:238 KerTime:0.357704 AccTime:85.639068
+#IT Ite:239 KerTime:0.357739 AccTime:85.996807
+#IT Ite:240 KerTime:0.357727 AccTime:86.354534
+#IT Ite:241 KerTime:0.357711 AccTime:86.712245
+#IT Ite:242 KerTime:0.357508 AccTime:87.069753
+#IT Ite:243 KerTime:0.357392 AccTime:87.427145
+#IT Ite:244 KerTime:0.357188 AccTime:87.784333
+#IT Ite:245 KerTime:0.357664 AccTime:88.141997
+#IT Ite:246 KerTime:0.357171 AccTime:88.499168
+#IT Ite:247 KerTime:0.356852 AccTime:88.856020
+#IT Ite:248 KerTime:0.357160 AccTime:89.213180
+#IT Ite:249 KerTime:0.357695 AccTime:89.570875
+#IT Ite:250 KerTime:0.357565 AccTime:89.928440
+#IT Ite:251 KerTime:0.357253 AccTime:90.285693
+#IT Ite:252 KerTime:0.357024 AccTime:90.642717
+#IT Ite:253 KerTime:0.357362 AccTime:91.000079
+#IT Ite:254 KerTime:0.357127 AccTime:91.357206
+#IT Ite:255 KerTime:0.357800 AccTime:91.715006
+#IT Ite:256 KerTime:0.357614 AccTime:92.072620
+#IT Ite:257 KerTime:0.357373 AccTime:92.429993
+#IT Ite:258 KerTime:0.357935 AccTime:92.787928
+#IT Ite:259 KerTime:0.357583 AccTime:93.145511
+#IT Ite:260 KerTime:0.357859 AccTime:93.503370
+#IT Ite:261 KerTime:0.357762 AccTime:93.861132
+#IT Ite:262 KerTime:0.357609 AccTime:94.218741
+#IT Ite:263 KerTime:0.357303 AccTime:94.576044
+#IT Ite:264 KerTime:0.357210 AccTime:94.933254
+#IT Ite:265 KerTime:0.357565 AccTime:95.290819
+#IT Ite:266 KerTime:0.357605 AccTime:95.648424
+#IT Ite:267 KerTime:0.357538 AccTime:96.005962
+#IT Ite:268 KerTime:0.357674 AccTime:96.363636
+#IT Ite:269 KerTime:0.357224 AccTime:96.720860
+#IT Ite:270 KerTime:0.357818 AccTime:97.078678
+#IT Ite:271 KerTime:0.357122 AccTime:97.435800
+#IT Ite:272 KerTime:0.357218 AccTime:97.793018
+#IT Ite:273 KerTime:0.357528 AccTime:98.150546
+#IT Ite:274 KerTime:0.357591 AccTime:98.508137
+#IT Ite:275 KerTime:0.356951 AccTime:98.865088
+#IT Ite:276 KerTime:0.357001 AccTime:99.222089
+#IT Ite:277 KerTime:0.357176 AccTime:99.579265
+#IT Ite:278 KerTime:0.357441 AccTime:99.936706
+#IT Ite:279 KerTime:0.357728 AccTime:100.294434
+#IT Ite:280 KerTime:0.357701 AccTime:100.652135
+#IT Ite:281 KerTime:0.357139 AccTime:101.009274
+#IT Ite:282 KerTime:0.357088 AccTime:101.366362
+#IT Ite:283 KerTime:0.357722 AccTime:101.724084
+#IT Ite:284 KerTime:0.357401 AccTime:102.081485
+#IT Ite:285 KerTime:0.357607 AccTime:102.439092
+#IT Ite:286 KerTime:0.357714 AccTime:102.796806
+#IT Ite:287 KerTime:0.357518 AccTime:103.154324
+#IT Ite:288 KerTime:0.357652 AccTime:103.511976
+#IT Ite:289 KerTime:0.357717 AccTime:103.869693
+#IT Ite:290 KerTime:0.357648 AccTime:104.227341
+#IT Ite:291 KerTime:0.357596 AccTime:104.584937
+#IT Ite:292 KerTime:0.357654 AccTime:104.942591
+#IT Ite:293 KerTime:0.357131 AccTime:105.299722
+#IT Ite:294 KerTime:0.357200 AccTime:105.656922
+#IT Ite:295 KerTime:0.357792 AccTime:106.014714
+#IT Ite:296 KerTime:0.357346 AccTime:106.372060
+#IT Ite:297 KerTime:0.357565 AccTime:106.729625
+#IT Ite:298 KerTime:0.357121 AccTime:107.086746
+#IT Ite:299 KerTime:0.357058 AccTime:107.443804
+#IT Ite:300 KerTime:0.357242 AccTime:107.801046
+#IT Ite:301 KerTime:0.357261 AccTime:108.158307
+#IT Ite:302 KerTime:0.357221 AccTime:108.515528
+#IT Ite:303 KerTime:0.357302 AccTime:108.872830
+#IT Ite:304 KerTime:0.357540 AccTime:109.230370
+#IT Ite:305 KerTime:0.357864 AccTime:109.588234
+#IT Ite:306 KerTime:0.357617 AccTime:109.945851
+#IT Ite:307 KerTime:0.357689 AccTime:110.303540
+#IT Ite:308 KerTime:0.357137 AccTime:110.660677
+#IT Ite:309 KerTime:0.357648 AccTime:111.018325
+#IT Ite:310 KerTime:0.357672 AccTime:111.375997
+#IT Ite:311 KerTime:0.357863 AccTime:111.733860
+#IT Ite:312 KerTime:0.357536 AccTime:112.091396
+#IT Ite:313 KerTime:0.357390 AccTime:112.448786
+#IT Ite:314 KerTime:0.357166 AccTime:112.805952
+#IT Ite:315 KerTime:0.357213 AccTime:113.163165
+#IT Ite:316 KerTime:0.357219 AccTime:113.520384
+#IT Ite:317 KerTime:0.356967 AccTime:113.877351
+#IT Ite:318 KerTime:0.356883 AccTime:114.234234
+#IT Ite:319 KerTime:0.357621 AccTime:114.591855
+#IT Ite:320 KerTime:0.357302 AccTime:114.949157
+#IT Ite:321 KerTime:0.357621 AccTime:115.306778
+#IT Ite:322 KerTime:0.357958 AccTime:115.664736
+#IT Ite:323 KerTime:0.357345 AccTime:116.022081
+#IT Ite:324 KerTime:0.357292 AccTime:116.379373
+#IT Ite:325 KerTime:0.357668 AccTime:116.737041
+#IT Ite:326 KerTime:0.357620 AccTime:117.094661
+#IT Ite:327 KerTime:0.356832 AccTime:117.451493
+#IT Ite:328 KerTime:0.356999 AccTime:117.808492
+#IT Ite:329 KerTime:0.357683 AccTime:118.166175
+#IT Ite:330 KerTime:0.357716 AccTime:118.523891
+#IT Ite:331 KerTime:0.357749 AccTime:118.881640
+#IT Ite:332 KerTime:0.357300 AccTime:119.238940
+#IT Ite:333 KerTime:0.357527 AccTime:119.596467
+#IT Ite:334 KerTime:0.357355 AccTime:119.953822
+#IT Ite:335 KerTime:0.357105 AccTime:120.310927
+#IT Ite:336 KerTime:0.357271 AccTime:120.668198
+#IT Ite:337 KerTime:0.357698 AccTime:121.025896
+#IT Ite:338 KerTime:0.357764 AccTime:121.383660
+#IT Ite:339 KerTime:0.357687 AccTime:121.741347
+#IT Ite:340 KerTime:0.357159 AccTime:122.098506
+#IT Ite:341 KerTime:0.357120 AccTime:122.455626
+#IT Ite:342 KerTime:0.357565 AccTime:122.813191
+#IT Ite:343 KerTime:0.357695 AccTime:123.170886
+#IT Ite:344 KerTime:0.357607 AccTime:123.528493
+#IT Ite:345 KerTime:0.357129 AccTime:123.885622
+#IT Ite:346 KerTime:0.357598 AccTime:124.243220
+#IT Ite:347 KerTime:0.357403 AccTime:124.600623
+#IT Ite:348 KerTime:0.357575 AccTime:124.958198
+#IT Ite:349 KerTime:0.357495 AccTime:125.315693
+#IT Ite:350 KerTime:0.356843 AccTime:125.672536
+#IT Ite:351 KerTime:0.357458 AccTime:126.029994
+#IT Ite:352 KerTime:0.357280 AccTime:126.387274
+#IT Ite:353 KerTime:0.357617 AccTime:126.744891
+#IT Ite:354 KerTime:0.357420 AccTime:127.102311
+#IT Ite:355 KerTime:0.357645 AccTime:127.459956
+#IT Ite:356 KerTime:0.356988 AccTime:127.816944
+#IT Ite:357 KerTime:0.357574 AccTime:128.174518
+#IT Ite:358 KerTime:0.357791 AccTime:128.532309
+#IT Ite:359 KerTime:0.357519 AccTime:128.889828
+#IT Ite:360 KerTime:0.357191 AccTime:129.247019
+#IT Ite:361 KerTime:0.357423 AccTime:129.604442
+#IT Ite:362 KerTime:0.356770 AccTime:129.961212
+#IT Ite:363 KerTime:0.357030 AccTime:130.318242
+#IT Ite:364 KerTime:0.357280 AccTime:130.675522
+#IT Ite:365 KerTime:0.357698 AccTime:131.033220
+#IT Ite:366 KerTime:0.357484 AccTime:131.390704
+#IT Ite:367 KerTime:0.357471 AccTime:131.748175
+#IT Ite:368 KerTime:0.357625 AccTime:132.105800
+#IT Ite:369 KerTime:0.357189 AccTime:132.462989
+#IT Ite:370 KerTime:0.357774 AccTime:132.820763
+#IT Ite:371 KerTime:0.357712 AccTime:133.178475
+#IT Ite:372 KerTime:0.357528 AccTime:133.536003
+#IT Ite:373 KerTime:0.357241 AccTime:133.893244
+#IT Ite:374 KerTime:0.357303 AccTime:134.250547
+#IT Ite:375 KerTime:0.357575 AccTime:134.608122
+#IT Ite:376 KerTime:0.357806 AccTime:134.965928
+#IT Ite:377 KerTime:0.357688 AccTime:135.323616
+#IT Ite:378 KerTime:0.357363 AccTime:135.680979
+#IT Ite:379 KerTime:0.358013 AccTime:136.038992
+#IT Ite:380 KerTime:0.357647 AccTime:136.396639
+#IT Ite:381 KerTime:0.357399 AccTime:136.754038
+#IT Ite:382 KerTime:0.356979 AccTime:137.111017
+#IT Ite:383 KerTime:0.357806 AccTime:137.468823
+#ERR image_list_position: [383] boxes: [101]  x_r: 5.1273907470703125e+02 x_e: 5.1274139404296875e+02 x_diff: 2.3193359375000000e-03 y_r: 3.0049459838867188e+02 y_e: 3.0049417114257812e+02 y_diff: 4.2724609375000000e-04 w_r: 9.4774749755859375e+01 w_e: 9.4774131774902344e+01 w_diff: 6.1798095703125000e-04 h_r: 1.7123551940917969e+02 h_e: 1.7124057006835938e+02 h_diff: 5.0506591796875000e-03
+#ERR image_list_position: [383] probs: [101,6]  prob_r: 2.4796964135020971e-03 prob_e: 2.4789522867649794e-03
+#ERR image_list_position: [383] probs: [101,14]  prob_r: 1.6115424223244190e-03 prob_e: 1.6113119199872017e-03
+#ERR image_list_position: [383] boxes: [102]  x_r: 5.9738598632812500e+02 x_e: 5.9738348388671875e+02 x_diff: 2.5024414062500000e-03 y_r: 2.9957388305664062e+02 y_e: 2.9957296752929688e+02 y_diff: 9.1552734375000000e-04 w_r: 4.5313556671142578e+01 w_e: 4.5315341949462891e+01 w_diff: 1.7852783203125000e-03 h_r: 1.6766564941406250e+02 h_e: 1.6767243957519531e+02 h_diff: 6.7901611328125000e-03
+#ERR image_list_position: [383] probs: [102,6]  prob_r: 1.4734866563230753e-03 prob_e: 1.4739559264853597e-03
+#ERR image_list_position: [383] probs: [102,14]  prob_r: 1.2907758355140686e-03 prob_e: 1.2914703693240881e-03
+#ERR image_list_position: [383] boxes: [119]  x_r: 4.0504077148437500e+02 x_e: 4.0503973388671875e+02 x_diff: 1.0375976562500000e-03 y_r: 3.6882003784179688e+02 y_e: 3.6881927490234375e+02 y_diff: 7.6293945312500000e-04 w_r: 1.8328611755371094e+02 w_e: 1.8328063964843750e+02 w_diff: 5.4779052734375000e-03 h_r: 1.3493978881835938e+02 h_e: 1.3494142150878906e+02 h_diff: 1.6326904296875000e-03
+#ERR image_list_position: [383] probs: [119,1]  prob_r: 1.2354269856587052e-03 prob_e: 1.2356854276731610e-03
+#ERR image_list_position: [383] probs: [119,6]  prob_r: 5.2490890957415104e-03 prob_e: 5.2495487034320831e-03
+#ERR image_list_position: [383] probs: [119,8]  prob_r: 1.7528261523693800e-03 prob_e: 1.7531671328470111e-03
+#ERR image_list_position: [383] probs: [119,10]  prob_r: 1.0081621585413814e-03 prob_e: 1.0083565721288323e-03
+#ERR image_list_position: [383] probs: [119,14]  prob_r: 1.3326496118679643e-03 prob_e: 1.3329297071322799e-03
+#SDC Ite:383 KerTime:0.357806 AccTime:137.468823 KerErr:3 AccErr:3
+#IT Ite:384 KerTime:0.357443 AccTime:137.826266
+#IT Ite:385 KerTime:0.357380 AccTime:138.183646
+#IT Ite:386 KerTime:0.357807 AccTime:138.541453
+#IT Ite:387 KerTime:0.357625 AccTime:138.899078
+#IT Ite:388 KerTime:0.357707 AccTime:139.256785
+#IT Ite:389 KerTime:0.357581 AccTime:139.614366
+#IT Ite:390 KerTime:0.357363 AccTime:139.971729
+#IT Ite:391 KerTime:0.357640 AccTime:140.329369
+#IT Ite:392 KerTime:0.357328 AccTime:140.686697
+#IT Ite:393 KerTime:0.357731 AccTime:141.044428
+#IT Ite:394 KerTime:0.357345 AccTime:141.401773
+#IT Ite:395 KerTime:0.357660 AccTime:141.759433
+#IT Ite:396 KerTime:0.357728 AccTime:142.117161
+#IT Ite:397 KerTime:0.357278 AccTime:142.474439
+#IT Ite:398 KerTime:0.357139 AccTime:142.831578
+#IT Ite:399 KerTime:0.357839 AccTime:143.189417
+#IT Ite:400 KerTime:0.357602 AccTime:143.547019
+#IT Ite:401 KerTime:0.357139 AccTime:143.904158
+#IT Ite:402 KerTime:0.357254 AccTime:144.261412
+#IT Ite:403 KerTime:0.357304 AccTime:144.618716
+#IT Ite:404 KerTime:0.357357 AccTime:144.976073
+#IT Ite:405 KerTime:0.357828 AccTime:145.333901
+#IT Ite:406 KerTime:0.357379 AccTime:145.691280
+#IT Ite:407 KerTime:0.357712 AccTime:146.048992
+#IT Ite:408 KerTime:0.357436 AccTime:146.406428
+#IT Ite:409 KerTime:0.357182 AccTime:146.763610
+#IT Ite:410 KerTime:0.357666 AccTime:147.121276
+#IT Ite:411 KerTime:0.357250 AccTime:147.478526
+#IT Ite:412 KerTime:0.357846 AccTime:147.836372
+#IT Ite:413 KerTime:0.357241 AccTime:148.193613
+#IT Ite:414 KerTime:0.357541 AccTime:148.551154
+#IT Ite:415 KerTime:0.356899 AccTime:148.908053
+#IT Ite:416 KerTime:0.357574 AccTime:149.265627
+#IT Ite:417 KerTime:0.357308 AccTime:149.622935
+#IT Ite:418 KerTime:0.357795 AccTime:149.980730
+#IT Ite:419 KerTime:0.357858 AccTime:150.338588
+#IT Ite:420 KerTime:0.357346 AccTime:150.695934
+#IT Ite:421 KerTime:0.357509 AccTime:151.053443
+#IT Ite:422 KerTime:0.357503 AccTime:151.410946
+#IT Ite:423 KerTime:0.357692 AccTime:151.768638
+#IT Ite:424 KerTime:0.356920 AccTime:152.125558
+#IT Ite:425 KerTime:0.357438 AccTime:152.482996
+#IT Ite:426 KerTime:0.357487 AccTime:152.840483
+#IT Ite:427 KerTime:0.357002 AccTime:153.197485
+#IT Ite:428 KerTime:0.357369 AccTime:153.554854
+#IT Ite:429 KerTime:0.357800 AccTime:153.912654
+#IT Ite:430 KerTime:0.356854 AccTime:154.269508
+#IT Ite:431 KerTime:0.357584 AccTime:154.627092
+#IT Ite:432 KerTime:0.357643 AccTime:154.984735
+#IT Ite:433 KerTime:0.357237 AccTime:155.341972
+#IT Ite:434 KerTime:0.357460 AccTime:155.699432
+#IT Ite:435 KerTime:0.357767 AccTime:156.057199
+#IT Ite:436 KerTime:0.357200 AccTime:156.414399
+#IT Ite:437 KerTime:0.357574 AccTime:156.771973
+#IT Ite:438 KerTime:0.357605 AccTime:157.129578
+#IT Ite:439 KerTime:0.357304 AccTime:157.486882
+#IT Ite:440 KerTime:0.357261 AccTime:157.844143
+#IT Ite:441 KerTime:0.357251 AccTime:158.201394
+#IT Ite:442 KerTime:0.357682 AccTime:158.559076
+#IT Ite:443 KerTime:0.356968 AccTime:158.916044
+#IT Ite:444 KerTime:0.356913 AccTime:159.272957
+#IT Ite:445 KerTime:0.357473 AccTime:159.630430
+#IT Ite:446 KerTime:0.357747 AccTime:159.988177
+#IT Ite:447 KerTime:0.356964 AccTime:160.345141
+#IT Ite:448 KerTime:0.357296 AccTime:160.702437
+#IT Ite:449 KerTime:0.357497 AccTime:161.059934
+#IT Ite:450 KerTime:0.357879 AccTime:161.417813
+#IT Ite:451 KerTime:0.357555 AccTime:161.775368
+#IT Ite:452 KerTime:0.357414 AccTime:162.132782
+#IT Ite:453 KerTime:0.357711 AccTime:162.490493
+#IT Ite:454 KerTime:0.357939 AccTime:162.848432
+#IT Ite:455 KerTime:0.357525 AccTime:163.205957
+#IT Ite:456 KerTime:0.357682 AccTime:163.563639
+#IT Ite:457 KerTime:0.357541 AccTime:163.921180
+#IT Ite:458 KerTime:0.357621 AccTime:164.278801
+#IT Ite:459 KerTime:0.357383 AccTime:164.636184
+#IT Ite:460 KerTime:0.357165 AccTime:164.993349
+#IT Ite:461 KerTime:0.357153 AccTime:165.350502
+#IT Ite:462 KerTime:0.357573 AccTime:165.708075
+#IT Ite:463 KerTime:0.357233 AccTime:166.065308
+#IT Ite:464 KerTime:0.357355 AccTime:166.422663
+#IT Ite:465 KerTime:0.357396 AccTime:166.780059
+#IT Ite:466 KerTime:0.357336 AccTime:167.137395
+#IT Ite:467 KerTime:0.356949 AccTime:167.494344
+#IT Ite:468 KerTime:0.357197 AccTime:167.851541
+#IT Ite:469 KerTime:0.357278 AccTime:168.208819
+#IT Ite:470 KerTime:0.357427 AccTime:168.566246
+#IT Ite:471 KerTime:0.357938 AccTime:168.924184
+#IT Ite:472 KerTime:0.357754 AccTime:169.281938
+#IT Ite:473 KerTime:0.357325 AccTime:169.639263
+#IT Ite:474 KerTime:0.357933 AccTime:169.997196
+#IT Ite:475 KerTime:0.357530 AccTime:170.354726
+#IT Ite:476 KerTime:0.357429 AccTime:170.712155
+#IT Ite:477 KerTime:0.357635 AccTime:171.069790
+#IT Ite:478 KerTime:0.356945 AccTime:171.426735
+#IT Ite:479 KerTime:0.357469 AccTime:171.784204
+#IT Ite:480 KerTime:0.357841 AccTime:172.142045
+#IT Ite:481 KerTime:0.357180 AccTime:172.499225
+#IT Ite:482 KerTime:0.357422 AccTime:172.856647
+#IT Ite:483 KerTime:0.357457 AccTime:173.214104
+#IT Ite:484 KerTime:0.357394 AccTime:173.571498
+#IT Ite:485 KerTime:0.357561 AccTime:173.929059
+#IT Ite:486 KerTime:0.357671 AccTime:174.286730
+#IT Ite:487 KerTime:0.356784 AccTime:174.643514
+#IT Ite:488 KerTime:0.356743 AccTime:175.000257
+#IT Ite:489 KerTime:0.357757 AccTime:175.358014
+#IT Ite:490 KerTime:0.357210 AccTime:175.715224
+#IT Ite:491 KerTime:0.357669 AccTime:176.072893
+#IT Ite:492 KerTime:0.357581 AccTime:176.430474
+#IT Ite:493 KerTime:0.357495 AccTime:176.787969
+#IT Ite:494 KerTime:0.357685 AccTime:177.145654
+#IT Ite:495 KerTime:0.356941 AccTime:177.502595
+#IT Ite:496 KerTime:0.357224 AccTime:177.859819
+#IT Ite:497 KerTime:0.357186 AccTime:178.217005
+#IT Ite:498 KerTime:0.357396 AccTime:178.574401
+#IT Ite:499 KerTime:0.357706 AccTime:178.932107
+#IT Ite:500 KerTime:0.357755 AccTime:179.289862
+#IT Ite:501 KerTime:0.357391 AccTime:179.647253
+#IT Ite:502 KerTime:0.357112 AccTime:180.004365
+#IT Ite:503 KerTime:0.357720 AccTime:180.362085
+#IT Ite:504 KerTime:0.357265 AccTime:180.719350
+#IT Ite:505 KerTime:0.357284 AccTime:181.076634
+#IT Ite:506 KerTime:0.357154 AccTime:181.433788
+#IT Ite:507 KerTime:0.357767 AccTime:181.791555
+#IT Ite:508 KerTime:0.357580 AccTime:182.149135
+#IT Ite:509 KerTime:0.357696 AccTime:182.506831
+#IT Ite:510 KerTime:0.357040 AccTime:182.863871
+#IT Ite:511 KerTime:0.357315 AccTime:183.221186
+#IT Ite:512 KerTime:0.357409 AccTime:183.578595
+#IT Ite:513 KerTime:0.357026 AccTime:183.935621
+#IT Ite:514 KerTime:0.357603 AccTime:184.293224
+#IT Ite:515 KerTime:0.357031 AccTime:184.650255
+#IT Ite:516 KerTime:0.357763 AccTime:185.008018
+#IT Ite:517 KerTime:0.357708 AccTime:185.365726
+#IT Ite:518 KerTime:0.357207 AccTime:185.722933
+#IT Ite:519 KerTime:0.356976 AccTime:186.079909
+#IT Ite:520 KerTime:0.357445 AccTime:186.437354
+#IT Ite:521 KerTime:0.357465 AccTime:186.794819
+#IT Ite:522 KerTime:0.357488 AccTime:187.152307
+#IT Ite:523 KerTime:0.357550 AccTime:187.509857
+#IT Ite:524 KerTime:0.357398 AccTime:187.867255
+#IT Ite:525 KerTime:0.357254 AccTime:188.224509
+#IT Ite:526 KerTime:0.357563 AccTime:188.582072
+#IT Ite:527 KerTime:0.357096 AccTime:188.939168
+#IT Ite:528 KerTime:0.357771 AccTime:189.296939
+#IT Ite:529 KerTime:0.357748 AccTime:189.654687
+#IT Ite:530 KerTime:0.357385 AccTime:190.012072
+#IT Ite:531 KerTime:0.357838 AccTime:190.369910
+#IT Ite:532 KerTime:0.357630 AccTime:190.727540
+#IT Ite:533 KerTime:0.357756 AccTime:191.085296
+#IT Ite:534 KerTime:0.357987 AccTime:191.443283
+#IT Ite:535 KerTime:0.357681 AccTime:191.800964
+#IT Ite:536 KerTime:0.357812 AccTime:192.158776
+#IT Ite:537 KerTime:0.357342 AccTime:192.516118
+#IT Ite:538 KerTime:0.357358 AccTime:192.873476
+#IT Ite:539 KerTime:0.357400 AccTime:193.230876
+#IT Ite:540 KerTime:0.357292 AccTime:193.588168
+#IT Ite:541 KerTime:0.357830 AccTime:193.945998
+#IT Ite:542 KerTime:0.357554 AccTime:194.303552
+#IT Ite:543 KerTime:0.357526 AccTime:194.661078
+#IT Ite:544 KerTime:0.357617 AccTime:195.018695
+#IT Ite:545 KerTime:0.357717 AccTime:195.376412
+#IT Ite:546 KerTime:0.356846 AccTime:195.733258
+#IT Ite:547 KerTime:0.357383 AccTime:196.090641
+#IT Ite:548 KerTime:0.357132 AccTime:196.447773
+#IT Ite:549 KerTime:0.357465 AccTime:196.805238
+#IT Ite:550 KerTime:0.357697 AccTime:197.162935
+#IT Ite:551 KerTime:0.357368 AccTime:197.520303
+#IT Ite:552 KerTime:0.357655 AccTime:197.877958
+#IT Ite:553 KerTime:0.357704 AccTime:198.235662
+#IT Ite:554 KerTime:0.357517 AccTime:198.593179
+#IT Ite:555 KerTime:0.357703 AccTime:198.950882
+#IT Ite:556 KerTime:0.357250 AccTime:199.308132
+#IT Ite:557 KerTime:0.357418 AccTime:199.665550
+#IT Ite:558 KerTime:0.357809 AccTime:200.023359
+#IT Ite:559 KerTime:0.357791 AccTime:200.381150
+#IT Ite:560 KerTime:0.357676 AccTime:200.738826
+#IT Ite:561 KerTime:0.357856 AccTime:201.096682
+#IT Ite:562 KerTime:0.357428 AccTime:201.454110
+#IT Ite:563 KerTime:0.357590 AccTime:201.811700
+#IT Ite:564 KerTime:0.357640 AccTime:202.169340
+#IT Ite:565 KerTime:0.357165 AccTime:202.526505
+#IT Ite:566 KerTime:0.357299 AccTime:202.883804
+#IT Ite:567 KerTime:0.357290 AccTime:203.241094
+#IT Ite:568 KerTime:0.357842 AccTime:203.598936
+#IT Ite:569 KerTime:0.357413 AccTime:203.956349
+#IT Ite:570 KerTime:0.357267 AccTime:204.313616
+#IT Ite:571 KerTime:0.357631 AccTime:204.671247
+#IT Ite:572 KerTime:0.357898 AccTime:205.029145
+#IT Ite:573 KerTime:0.357864 AccTime:205.387009
+#IT Ite:574 KerTime:0.356958 AccTime:205.743967
+#IT Ite:575 KerTime:0.357326 AccTime:206.101293
+#IT Ite:576 KerTime:0.357403 AccTime:206.458696
+#IT Ite:577 KerTime:0.357200 AccTime:206.815896
+#IT Ite:578 KerTime:0.357352 AccTime:207.173248
+#IT Ite:579 KerTime:0.357160 AccTime:207.530408
+#IT Ite:580 KerTime:0.356984 AccTime:207.887392
+#IT Ite:581 KerTime:0.357213 AccTime:208.244605
+#IT Ite:582 KerTime:0.357730 AccTime:208.602335
+#IT Ite:583 KerTime:0.356938 AccTime:208.959273
+#IT Ite:584 KerTime:0.357688 AccTime:209.316961
+#IT Ite:585 KerTime:0.357440 AccTime:209.674401
+#IT Ite:586 KerTime:0.357241 AccTime:210.031642
+#IT Ite:587 KerTime:0.357518 AccTime:210.389160
+#IT Ite:588 KerTime:0.357765 AccTime:210.746925
+#IT Ite:589 KerTime:0.357255 AccTime:211.104180
+#IT Ite:590 KerTime:0.357174 AccTime:211.461354
+#IT Ite:591 KerTime:0.357816 AccTime:211.819170
+#IT Ite:592 KerTime:0.357784 AccTime:212.176954
+#IT Ite:593 KerTime:0.357635 AccTime:212.534589
+#IT Ite:594 KerTime:0.357381 AccTime:212.891970
+#IT Ite:595 KerTime:0.357581 AccTime:213.249551
+#IT Ite:596 KerTime:0.356994 AccTime:213.606545
+#IT Ite:597 KerTime:0.357740 AccTime:213.964285
+#IT Ite:598 KerTime:0.357483 AccTime:214.321768
+#IT Ite:599 KerTime:0.357787 AccTime:214.679555
+#IT Ite:600 KerTime:0.357450 AccTime:215.037005
+#IT Ite:601 KerTime:0.357618 AccTime:215.394623
+#IT Ite:602 KerTime:0.357446 AccTime:215.752069
+#IT Ite:603 KerTime:0.357396 AccTime:216.109465
+#IT Ite:604 KerTime:0.357586 AccTime:216.467051
+#IT Ite:605 KerTime:0.357341 AccTime:216.824392
+#IT Ite:606 KerTime:0.357208 AccTime:217.181600
+#IT Ite:607 KerTime:0.357401 AccTime:217.539001
+#INF abft_type: dumb image_list_position: [0] row_detected_errors: 1 col_detected_errors: 1
+#INF abft_type: dumb image_list_position: [0] row_detected_errors: 2 col_detected_errors: 512
+#INF abft_type: dumb image_list_position: [0] row_detected_errors: 10 col_detected_errors: 1024
+#INF abft_type: dumb image_list_position: [0] row_detected_errors: 10 col_detected_errors: 512
+#INF abft_type: dumb image_list_position: [0] row_detected_errors: 24 col_detected_errors: 1024
+#INF abft_type: dumb image_list_position: [0] row_detected_errors: 36 col_detected_errors: 1024
+#INF abft_type: dumb image_list_position: [0] row_detected_errors: 10 col_detected_errors: 1024
+#INF abft_type: dumb image_list_position: [0] row_detected_errors: 18 col_detected_errors: 1024
+#INF abft_type: dumb image_list_position: [0] row_detected_errors: 28 col_detected_errors: 1024
+#INF abft_type: dumb image_list_position: [0] row_detected_errors: 1 col_detected_errors: 0
+#INF abft_type: dumb image_list_position: [0] row_detected_errors: 1 col_detected_errors: 0
+#INF abft_type: dumb image_list_position: [0] row_detected_errors: 1 col_detected_errors: 0
+#INF abft_type: dumb image_list_position: [0] row_detected_errors: 1 col_detected_errors: 0
+#INF abft_type: dumb image_list_position: [0] row_detected_errors: 1 col_detected_errors: 0
+#INF abft_type: dumb image_list_position: [0] row_detected_errors: 1 col_detected_errors: 0
+#INF abft_type: dumb image_list_position: [0] row_detected_errors: 1 col_detected_errors: 0
+#INF abft_type: dumb image_list_position: [0] row_detected_errors: 1 col_detected_errors: 0
+#INF abft_type: dumb image_list_position: [0] row_detected_errors: 1 col_detected_errors: 0
+#INF abft_type: dumb image_list_position: [0] row_detected_errors: 1 col_detected_errors: 0
+#INF abft_type: dumb image_list_position: [0] row_detected_errors: 1 col_detected_errors: 0
+#INF abft_type: dumb image_list_position: [0] row_detected_errors: 1 col_detected_errors: 0
+#INF abft_type: dumb image_list_position: [0] row_detected_errors: 1 col_detected_errors: 0
+#INF abft_type: dumb image_list_position: [0] row_detected_errors: 1 col_detected_errors: 0
+#INF abft_type: dumb image_list_position: [0] row_detected_errors: 1 col_detected_errors: 0
+#INF abft_type: dumb image_list_position: [0] row_detected_errors: 1 col_detected_errors: 0
+#INF abft_type: dumb image_list_position: [0] row_detected_errors: 1 col_detected_errors: 0
+#INF abft_type: dumb image_list_position: [0] row_detected_errors: 1 col_detected_errors: 0
+#INF abft_type: dumb image_list_position: [0] row_detected_errors: 1 col_detected_errors: 0
+#INF abft_type: dumb image_list_position: [0] row_detected_errors: 1 col_detected_errors: 0
+#INF abft_type: dumb image_list_position: [0] row_detected_errors: 1 col_detected_errors: 0
+#INF abft_type: dumb image_list_position: [0] row_detected_errors: 1 col_detected_errors: 0
+#INF abft_type: dumb image_list_position: [0] row_detected_errors: 1 col_detected_errors: 0
+#INF abft_type: dumb image_list_position: [0] row_detected_errors: 1 col_detected_errors: 0
+#INF abft_type: dumb image_list_position: [0] row_detected_errors: 1 col_detected_errors: 0
+#INF abft_type: dumb image_list_position: [0] row_detected_errors: 1 col_detected_errors: 0
+#INF abft_type: dumb image_list_position: [0] row_detected_errors: 1 col_detected_errors: 0
+#INF abft_type: dumb image_list_position: [0] row_detected_errors: 1 col_detected_errors: 0
+#INF abft_type: dumb image_list_position: [0] row_detected_errors: 1 col_detected_errors: 0
+#INF abft_type: dumb image_list_position: [0] row_detected_errors: 1 col_detected_errors: 0
+#INF abft_type: dumb image_list_position: [0] row_detected_errors: 1 col_detected_errors: 0
+#INF abft_type: dumb image_list_position: [0] row_detected_errors: 1 col_detected_errors: 0
+#INF abft_type: dumb image_list_position: [0] row_detected_errors: 1 col_detected_errors: 0
+#INF abft_type: dumb image_list_position: [0] row_detected_errors: 1 col_detected_errors: 0
+#INF abft_type: dumb image_list_position: [0] row_detected_errors: 1 col_detected_errors: 0
+#INF abft_type: dumb image_list_position: [0] row_detected_errors: 0 col_detected_errors: 1
+#IT Ite:608 KerTime:0.358266 AccTime:217.897267
+#ERR image_list_position: [608] boxes: [0]  x_r: -3.1962872918887570e+32 x_e: 1.1363594055175781e+01 x_diff: 3.1962872918887570e+32 y_r: -5.7035035787877058e+33 y_e: 7.0429143905639648e+00 y_diff: 5.7035035787877058e+33 w_r: inf w_e: 4.5753688812255859e+00 w_diff: inf h_r: inf h_e: 4.9920597076416016e+00 h_diff: inf
+#ERR image_list_position: [608] probs: [0,0]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [0,2]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [0,8]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [0,9]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [0,10]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [0,11]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [0,13]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [0,17]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [0,18]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] boxes: [1]  x_r: 2.7819761037405580e+34 x_e: 1.4470324516296387e+01 x_diff: 2.7819761037405580e+34 y_r: -1.1938510368999888e+33 y_e: 3.1010662078857422e+01 y_diff: 1.1938510368999888e+33 w_r: inf w_e: 2.2566593170166016e+01 w_diff: inf h_r: inf h_e: 3.2847343444824219e+01 h_diff: inf
+#ERR image_list_position: [608] probs: [1,1]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [1,3]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [1,4]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [1,5]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [1,6]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [1,7]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [1,12]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [1,14]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [1,15]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [1,16]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [1,19]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] boxes: [2]  x_r: 1.0614585645208329e+34 x_e: 5.3274330139160156e+01 x_diff: 1.0614585645208329e+34 y_r: 6.5654719435918214e+33 y_e: 3.0792926788330078e+01 y_diff: 6.5654719435918214e+33 w_r: inf w_e: 4.3035594940185547e+01 w_diff: inf h_r: inf h_e: 2.7324438095092773e+01 h_diff: inf
+#ERR image_list_position: [608] probs: [2,1]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [2,3]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [2,4]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [2,5]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [2,6]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [2,7]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [2,12]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [2,14]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [2,15]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [2,16]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [2,19]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] boxes: [3]  x_r: 1.0613119924201815e+34 x_e: 1.4091329956054688e+02 x_diff: 1.0613119924201815e+34 y_r: -3.8289395664443964e+33 y_e: 3.1971067428588867e+01 y_diff: 3.8289395664443964e+33 w_r: inf w_e: 4.9070335388183594e+01 w_diff: inf h_r: inf h_e: 3.1213035583496094e+01 h_diff: inf
+#ERR image_list_position: [608] probs: [3,3]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [3,5]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [3,7]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [3,10]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [3,13]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [3,14]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [3,15]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [3,17]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [3,19]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] boxes: [4]  x_r: 2.7761761689655001e+33 x_e: 1.1148960876464844e+02 x_diff: 2.7761761689655001e+33 y_r: 7.8272268543829542e+33 y_e: 2.3673595428466797e+01 y_diff: 7.8272268543829542e+33 w_r: inf w_e: 2.7318675994873047e+01 w_diff: inf h_r: inf h_e: 2.0549997329711914e+01 h_diff: inf
+#ERR image_list_position: [608] probs: [4,3]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [4,5]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [4,7]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [4,10]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [4,13]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [4,14]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [4,15]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [4,17]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [4,19]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] boxes: [5]  x_r: 2.0008834139519896e+33 x_e: 1.1155973052978516e+02 x_diff: 2.0008834139519896e+33 y_r: -2.9753736036000516e+32 y_e: 6.6827211380004883e+00 y_diff: 2.9753736036000516e+32 w_r: inf w_e: 9.1326932907104492e+00 w_diff: inf h_r: inf h_e: 3.7785613536834717e+00 h_diff: inf
+#ERR image_list_position: [608] probs: [5,3]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [5,5]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [5,7]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [5,10]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [5,13]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [5,14]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [5,15]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [5,17]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [5,19]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] boxes: [6]  x_r: -1.1407595217779698e+32 x_e: 2.0186946105957031e+02 x_diff: 1.1407595217779698e+32 y_r: -1.8640452977265035e+34 y_e: 1.6684612274169922e+01 y_diff: 1.8640452977265035e+34 w_r: inf w_e: 3.7587490081787109e+01 w_diff: inf h_r: inf h_e: 1.8557989120483398e+01 h_diff: inf
+#ERR image_list_position: [608] probs: [6,0]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [6,1]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [6,2]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [6,3]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [6,6]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [6,7]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [6,8]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [6,9]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [6,14]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [6,15]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [6,19]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] boxes: [7]  x_r: 7.5084514140517822e+32 x_e: 2.2796020507812500e+02 x_diff: 7.5084514140517822e+32 y_r: 2.0926205272842190e+34 y_e: 3.1541687011718750e+01 y_diff: 2.0926205272842190e+34 w_r: inf w_e: 4.5764987945556641e+01 w_diff: inf h_r: inf h_e: 3.1170085906982422e+01 h_diff: inf
+#ERR image_list_position: [608] probs: [7,4]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [7,5]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [7,10]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [7,11]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [7,12]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [7,13]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [7,16]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [7,17]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [7,18]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] boxes: [8]  x_r: 4.5251554971134451e+33 x_e: 1.8484129333496094e+02 x_diff: 4.5251554971134451e+33 y_r: -2.9568402098437790e+33 y_e: -6.5365684032440186e-01 y_diff: 2.9568402098437790e+33 w_r: inf w_e: 8.8313959538936615e-02 w_diff: inf h_r: inf h_e: 3.7419465184211731e-01 h_diff: inf
+#ERR image_list_position: [608] probs: [8,4]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [8,5]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [8,10]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [8,11]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [8,12]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [8,13]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [8,16]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [8,17]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [8,18]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] boxes: [9]  x_r: 1.4859542698979823e+34 x_e: 2.8208212280273438e+02 x_diff: 1.4859542698979823e+34 y_r: -7.1807151447462429e+33 y_e: 3.6609718799591064e+00 y_diff: 7.1807151447462429e+33 w_r: inf w_e: 3.0014996528625488e+00 w_diff: inf h_r: inf h_e: 3.5642746090888977e-01 h_diff: inf
+#ERR image_list_position: [608] probs: [9,0]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [9,1]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [9,2]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [9,6]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [9,8]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [9,10]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [9,14]  prob_r: inf prob_e: 1.0020401095971465e-03
+#ERR image_list_position: [608] probs: [9,15]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [9,18]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] boxes: [10]  x_r: 3.2515757830670584e+34 x_e: 3.2398397827148438e+02 x_diff: 3.2515757830670584e+34 y_r: 1.5868597528521651e+34 y_e: 2.9925045013427734e+01 y_diff: 1.5868597528521651e+34 w_r: inf w_e: 7.2271217346191406e+01 w_diff: inf h_r: inf h_e: 3.9807910919189453e+01 h_diff: inf
+#ERR image_list_position: [608] probs: [10,3]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [10,4]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [10,5]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [10,7]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [10,9]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [10,11]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [10,12]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [10,13]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [10,16]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [10,17]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [10,19]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] boxes: [11]  x_r: 1.8896883900307736e+33 x_e: 3.0494290161132812e+02 x_diff: 1.8896883900307736e+33 y_r: 7.7157868730764646e+33 y_e: 1.5756406784057617e+01 y_diff: 7.7157868730764646e+33 w_r: inf w_e: 3.9728950500488281e+01 w_diff: inf h_r: inf h_e: 2.0493822097778320e+01 h_diff: inf
+#ERR image_list_position: [608] probs: [11,3]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [11,4]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [11,5]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [11,7]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [11,9]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [11,11]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [11,12]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [11,13]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [11,16]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [11,17]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [11,19]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] boxes: [12]  x_r: -1.0109403979126653e+34 x_e: 3.7247860717773438e+02 x_diff: 1.0109403979126653e+34 y_r: 1.1203037231975658e+32 y_e: 8.6495977640151978e-01 y_diff: 1.1203037231975658e+32 w_r: inf w_e: 3.8127644062042236e+00 w_diff: inf h_r: inf h_e: 2.5658074766397476e-02 h_diff: inf
+#ERR image_list_position: [608] probs: [12,3]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [12,5]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [12,6]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [12,7]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [12,8]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [12,14]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [12,15]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [12,16]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [12,17]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] boxes: [13]  x_r: 3.4922610372650792e+33 x_e: 4.1573095703125000e+02 x_diff: 3.4922610372650792e+33 y_r: 1.3911773329022857e+34 y_e: 3.3498771667480469e+01 y_diff: 1.3911773329022857e+34 w_r: inf w_e: 5.9098640441894531e+01 w_diff: inf h_r: inf h_e: 4.0491958618164062e+01 h_diff: inf
+#ERR image_list_position: [608] probs: [13,0]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [13,1]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [13,2]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [13,4]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [13,9]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [13,10]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [13,11]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [13,12]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [13,13]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [13,18]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [13,19]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] boxes: [14]  x_r: 1.4560456385488475e+34 x_e: 3.8303912353515625e+02 x_diff: 1.4560456385488475e+34 y_r: -2.1265900352412235e+33 y_e: 1.7085014343261719e+01 y_diff: 2.1265900352412235e+33 w_r: inf w_e: 3.6039443969726562e+01 w_diff: inf h_r: inf h_e: 1.9301439285278320e+01 h_diff: inf
+#ERR image_list_position: [608] probs: [14,3]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [14,5]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [14,6]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [14,7]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [14,8]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [14,14]  prob_r: inf prob_e: 1.4229158405214548e-03
+#ERR image_list_position: [608] probs: [14,15]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [14,16]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [14,17]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] boxes: [15]  x_r: -2.4788334940194856e+33 x_e: 4.6082171630859375e+02 x_diff: 2.4788334940194856e+33 y_r: 1.2161850564836691e+31 y_e: 3.6606223583221436e+00 y_diff: 1.2161850564836691e+31 w_r: inf w_e: 3.9765606634318829e-03 w_diff: inf h_r: inf h_e: 7.9326987266540527e-02 h_diff: inf
+#ERR image_list_position: [608] probs: [15,0]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [15,1]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [15,2]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [15,3]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [15,4]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [15,7]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [15,14]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [15,15]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [15,18]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [15,19]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] boxes: [16]  x_r: -7.2421336828853281e+33 x_e: 4.7662286376953125e+02 x_diff: 7.2421336828853281e+33 y_r: 3.3473601556667254e+33 y_e: 2.0448959350585938e+01 y_diff: 3.3473601556667254e+33 w_r: inf w_e: 3.0614736557006836e+01 w_diff: inf h_r: inf h_e: 2.3282974243164062e+01 h_diff: inf
+#ERR image_list_position: [608] probs: [16,0]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [16,1]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [16,2]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [16,3]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [16,4]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [16,7]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [16,14]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [16,15]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [16,18]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [16,19]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] boxes: [17]  x_r: 2.8478107453817859e+34 x_e: 5.0555841064453125e+02 x_diff: 2.8478107453817859e+34 y_r: 6.2700951174281922e+33 y_e: 3.7233665466308594e+01 y_diff: 6.2700951174281922e+33 w_r: inf w_e: 5.2735366821289062e+01 w_diff: inf h_r: inf h_e: 4.0895782470703125e+01 h_diff: inf
+#ERR image_list_position: [608] probs: [17,0]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [17,1]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [17,2]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [17,3]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [17,4]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [17,7]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [17,14]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [17,15]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [17,18]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [17,19]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] boxes: [18]  x_r: -4.8727867007903397e+33 x_e: 5.4923809814453125e+02 x_diff: 4.8727867007903397e+33 y_r: -1.2632804243015442e+34 y_e: 3.0757219791412354e+00 y_diff: 1.2632804243015442e+34 w_r: inf w_e: 8.2064086198806763e-01 w_diff: inf h_r: inf h_e: 6.3083070516586304e-01 h_diff: inf
+#ERR image_list_position: [608] probs: [18,0]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [18,1]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [18,2]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [18,3]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [18,6]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [18,10]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [18,11]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [18,14]  prob_r: inf prob_e: 1.7030867747962475e-03
+#ERR image_list_position: [608] probs: [18,15]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [18,19]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] boxes: [19]  x_r: 2.1751299736666131e+34 x_e: 5.8787371826171875e+02 x_diff: 2.1751299736666131e+34 y_r: 9.5873071003481811e+33 y_e: 4.1863311767578125e+01 y_diff: 9.5873071003481811e+33 w_r: inf w_e: 3.1780185699462891e+01 w_diff: inf h_r: inf h_e: 3.4865409851074219e+01 h_diff: inf
+#ERR image_list_position: [608] probs: [19,4]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [19,5]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [19,7]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [19,8]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [19,9]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [19,12]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [19,13]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [19,16]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [19,17]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [19,18]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] boxes: [20]  x_r: -9.1238526791706972e+33 x_e: 5.7131506347656250e+02 x_diff: 9.1238526791706972e+33 y_r: 3.9144307771024153e+33 y_e: 1.8481710433959961e+01 y_diff: 3.9144307771024153e+33 w_r: inf w_e: 1.9842529296875000e+01 w_diff: inf h_r: inf h_e: 2.6661252975463867e+01 h_diff: inf
+#ERR image_list_position: [608] probs: [20,4]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [20,5]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [20,7]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [20,8]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [20,9]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [20,12]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [20,13]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [20,16]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [20,17]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [20,18]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] boxes: [21]  x_r: 4.6138972288296176e+33 x_e: 1.6387689590454102e+01 x_diff: 4.6138972288296176e+33 y_r: 1.6433310493152521e+33 y_e: 1.0939191436767578e+02 y_diff: 1.6433310493152521e+33 w_r: inf w_e: 1.9397426605224609e+01 w_diff: inf h_r: inf h_e: 4.3524131774902344e+01 h_diff: inf
+#ERR image_list_position: [608] probs: [21,0]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [21,2]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [21,3]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [21,7]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [21,8]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [21,9]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [21,10]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [21,12]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [21,14]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [21,15]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [21,17]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [21,19]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] boxes: [22]  x_r: 7.7575283542911087e+33 x_e: 6.0729980468750000e+01 x_diff: 7.7575283542911087e+33 y_r: 1.0215801211683113e+34 y_e: 1.0789557647705078e+02 y_diff: 1.0215801211683113e+34 w_r: inf w_e: 3.8766551971435547e+01 w_diff: inf h_r: inf h_e: 6.4435165405273438e+01 h_diff: inf
+#ERR image_list_position: [608] probs: [22,1]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [22,4]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [22,5]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [22,6]  prob_r: inf prob_e: 2.3810917045921087e-03
+#ERR image_list_position: [608] probs: [22,11]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [22,13]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [22,14]  prob_r: 0.0000000000000000e+00 prob_e: 2.3085025604814291e-03
+#ERR image_list_position: [608] probs: [22,16]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [22,18]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] boxes: [23]  x_r: 1.8278917540551897e+34 x_e: 7.4052062034606934e+00 x_diff: 1.8278917540551897e+34 y_r: 9.6667791370501846e+33 y_e: 1.0076614379882812e+02 y_diff: 9.6667791370501846e+33 w_r: inf w_e: 5.3119645118713379e+00 w_diff: inf h_r: inf h_e: 3.6822021484375000e+01 h_diff: inf
+#ERR image_list_position: [608] probs: [23,0]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [23,2]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [23,3]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [23,7]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [23,8]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [23,9]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [23,10]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [23,12]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [23,14]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [23,15]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [23,17]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [23,19]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] boxes: [24]  x_r: 1.0104571680183302e+34 x_e: 9.2369132995605469e+01 x_diff: 1.0104571680183302e+34 y_r: 1.4215433830959365e+34 y_e: 6.9530357360839844e+01 y_diff: 1.4215433830959365e+34 w_r: inf w_e: 9.4586408138275146e-01 w_diff: inf h_r: inf h_e: 4.7328206710517406e-03 h_diff: inf
+#ERR image_list_position: [608] probs: [24,0]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [24,1]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [24,3]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [24,4]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [24,5]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [24,6]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [24,7]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [24,8]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [24,10]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [24,17]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [24,18]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [24,19]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] boxes: [25]  x_r: 2.4633278617484225e+34 x_e: 1.0580116271972656e+02 x_diff: 2.4633278617484225e+34 y_r: 2.8024674776228410e+34 y_e: 1.0200040435791016e+02 y_diff: 2.8024674776228410e+34 w_r: inf w_e: 1.9100576400756836e+01 w_diff: inf h_r: inf h_e: 3.0604618072509766e+01 h_diff: inf
+#ERR image_list_position: [608] probs: [25,0]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [25,1]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [25,3]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [25,4]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [25,5]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [25,6]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [25,7]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [25,8]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [25,10]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [25,17]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [25,18]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [25,19]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] boxes: [26]  x_r: 9.3147925508300743e+33 x_e: 1.3648808288574219e+02 x_diff: 9.3147925508300743e+33 y_r: 8.8101636249759390e+33 y_e: 1.0708797454833984e+02 y_diff: 8.8101636249759390e+33 w_r: inf w_e: 5.8970180511474609e+01 w_diff: inf h_r: inf h_e: 7.2739654541015625e+01 h_diff: inf
+#ERR image_list_position: [608] probs: [26,2]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [26,9]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [26,11]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [26,12]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [26,13]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [26,14]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [26,15]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [26,16]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] boxes: [27]  x_r: 9.3308195415486824e+33 x_e: 1.9804132080078125e+02 x_diff: 9.3308195415486824e+33 y_r: 2.0775580156502180e+34 y_e: 9.9717201232910156e+01 y_diff: 2.0775580156502180e+34 w_r: inf w_e: 1.9142749786376953e+01 w_diff: inf h_r: inf h_e: 1.7722923278808594e+01 h_diff: inf
+#ERR image_list_position: [608] probs: [27,1]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [27,2]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [27,6]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [27,8]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [27,14]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [27,16]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] boxes: [28]  x_r: -1.0417654143758811e+34 x_e: 1.8733558654785156e+02 x_diff: 1.0417654143758811e+34 y_r: 3.3622083179829241e+33 y_e: 6.9126701354980469e+01 y_diff: 3.3622083179829241e+33 w_r: inf w_e: 2.7505278587341309e-01 w_diff: inf h_r: inf h_e: 2.2345364093780518e-02 h_diff: inf
+#ERR image_list_position: [608] probs: [28,0]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [28,3]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [28,4]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [28,5]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [28,7]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [28,9]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [28,10]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [28,11]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [28,12]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [28,13]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [28,15]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [28,17]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [28,18]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [28,19]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] boxes: [29]  x_r: 2.9306774612595178e+34 x_e: 2.3237850952148438e+02 x_diff: 2.9306774612595178e+34 y_r: 1.7075425658739711e+34 y_e: 1.0977881622314453e+02 y_diff: 1.7075425658739711e+34 w_r: inf w_e: 7.1372817993164062e+01 w_diff: inf h_r: inf h_e: 6.6497962951660156e+01 h_diff: inf
+#ERR image_list_position: [608] probs: [29,1]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [29,2]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [29,3]  prob_r: 0.0000000000000000e+00 prob_e: 1.8360146787017584e-03
+#ERR image_list_position: [608] probs: [29,6]  prob_r: inf prob_e: 5.5982950143516064e-03
+#ERR image_list_position: [608] probs: [29,8]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [29,14]  prob_r: inf prob_e: 5.6444066576659679e-03
+#ERR image_list_position: [608] probs: [29,15]  prob_r: 0.0000000000000000e+00 prob_e: 2.0893870387226343e-03
+#ERR image_list_position: [608] probs: [29,16]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] boxes: [30]  x_r: 3.1865458024513659e+34 x_e: 2.9732458496093750e+02 x_diff: 3.1865458024513659e+34 y_r: 2.8625142544043941e+34 y_e: 1.0163852691650391e+02 y_diff: 2.8625142544043941e+34 w_r: inf w_e: 2.0856351852416992e+01 w_diff: inf h_r: inf h_e: 2.8832809448242188e+01 h_diff: inf
+#ERR image_list_position: [608] probs: [30,1]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [30,2]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [30,5]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [30,8]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [30,9]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [30,10]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [30,13]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [30,16]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [30,17]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] boxes: [31]  x_r: 3.9759868503798651e+34 x_e: 3.2971777343750000e+02 x_diff: 3.9759868503798651e+34 y_r: 3.4639146862455225e+34 y_e: 1.1168400573730469e+02 y_diff: 3.4639146862455225e+34 w_r: inf w_e: 8.5846878051757812e+01 w_diff: inf h_r: inf h_e: 7.1707618713378906e+01 h_diff: inf
+#ERR image_list_position: [608] probs: [31,1]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [31,2]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [31,5]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [31,8]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [31,9]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [31,10]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [31,13]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [31,16]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [31,17]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] boxes: [32]  x_r: 1.7349760599085587e+33 x_e: 2.7133654785156250e+02 x_diff: 1.7349760599085587e+33 y_r: 7.8977993401425352e+33 y_e: 6.9663269042968750e+01 y_diff: 7.8977993401425352e+33 w_r: inf w_e: 6.7822523415088654e-03 w_diff: inf h_r: inf h_e: 2.1826748847961426e+00 h_diff: inf
+#ERR image_list_position: [608] probs: [32,1]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [32,2]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [32,5]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [32,8]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [32,9]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [32,10]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [32,13]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [32,16]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [32,17]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] boxes: [33]  x_r: 1.2815274128926028e+34 x_e: 3.8043688964843750e+02 x_diff: 1.2815274128926028e+34 y_r: 4.3542860378259921e+33 y_e: 1.0229040527343750e+02 y_diff: 4.3542860378259921e+33 w_r: inf w_e: 2.1916732788085938e+01 w_diff: inf h_r: inf h_e: 2.6024869918823242e+01 h_diff: inf
+#ERR image_list_position: [608] probs: [33,0]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [33,1]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [33,2]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [33,3]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [33,7]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [33,9]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [33,10]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [33,11]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [33,13]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [33,14]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [33,15]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [33,17]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [33,19]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] boxes: [34]  x_r: 1.6147314776606597e+34 x_e: 3.6771102905273438e+02 x_diff: 1.6147314776606597e+34 y_r: -9.6712790490929870e+33 y_e: 6.9175636291503906e+01 y_diff: 9.6712790490929870e+33 w_r: inf w_e: 2.9933458566665649e-01 w_diff: inf h_r: inf h_e: 1.5768187046051025e+00 h_diff: inf
+#ERR image_list_position: [608] probs: [34,4]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [34,5]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [34,6]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [34,8]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [34,12]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [34,16]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [34,18]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] boxes: [35]  x_r: -1.6831312548572909e+34 x_e: 4.2324377441406250e+02 x_diff: 1.6831312548572909e+34 y_r: 1.9212830647649141e+34 y_e: 1.0355367279052734e+02 y_diff: 1.9212830647649141e+34 w_r: inf w_e: 6.3421833038330078e+01 w_diff: inf h_r: inf h_e: 7.3466659545898438e+01 h_diff: inf
+#ERR image_list_position: [608] probs: [35,4]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [35,5]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [35,6]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [35,8]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [35,12]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [35,16]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [35,18]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] boxes: [36]  x_r: 5.4522925846631561e+32 x_e: 4.5943151855468750e+02 x_diff: 5.4522925846631561e+32 y_r: 6.3040809042967134e+33 y_e: 6.8579643249511719e+01 y_diff: 6.3040809042967134e+33 w_r: inf w_e: 3.2399502396583557e-01 w_diff: inf h_r: inf h_e: 8.8959038257598877e-01 h_diff: inf
+#ERR image_list_position: [608] probs: [36,1]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [36,2]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [36,3]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [36,4]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [36,6]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [36,7]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [36,10]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [36,14]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [36,18]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] boxes: [37]  x_r: 1.1864986788929156e+34 x_e: 4.7232223510742188e+02 x_diff: 1.1864986788929156e+34 y_r: 1.0058626773565265e+34 y_e: 1.0692250061035156e+02 y_diff: 1.0058626773565265e+34 w_r: inf w_e: 2.4841857910156250e+01 w_diff: inf h_r: inf h_e: 4.1263809204101562e+01 h_diff: inf
+#ERR image_list_position: [608] probs: [37,1]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [37,2]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [37,3]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [37,4]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [37,6]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [37,7]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [37,10]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [37,14]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [37,18]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] boxes: [38]  x_r: 4.1935917028974414e+34 x_e: 5.0780648803710938e+02 x_diff: 4.1935917028974414e+34 y_r: 9.3082048529110171e+33 y_e: 1.0912960052490234e+02 y_diff: 9.3082048529110171e+33 w_r: inf w_e: 3.6320373535156250e+01 w_diff: inf h_r: inf h_e: 5.9577735900878906e+01 h_diff: inf
+#ERR image_list_position: [608] probs: [38,1]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [38,2]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [38,3]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [38,4]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [38,6]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [38,7]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [38,10]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [38,14]  prob_r: inf prob_e: 2.0306461956351995e-03
+#ERR image_list_position: [608] probs: [38,18]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] boxes: [39]  x_r: -3.0721017120515425e+33 x_e: 5.5071502685546875e+02 x_diff: 3.0721017120515425e+33 y_r: 3.0874927110749679e+33 y_e: 7.6702468872070312e+01 y_diff: 3.0874927110749679e+33 w_r: inf w_e: 2.6395683288574219e+00 w_diff: inf h_r: inf h_e: 5.3513746261596680e+00 h_diff: inf
+#ERR image_list_position: [608] probs: [39,0]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [39,2]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [39,4]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [39,8]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [39,9]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [39,12]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [39,15]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [39,16]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [39,19]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] boxes: [40]  x_r: 4.5375389827084286e+34 x_e: 6.0806286621093750e+02 x_diff: 4.5375389827084286e+34 y_r: 1.4307846054892018e+34 y_e: 1.0777648925781250e+02 y_diff: 1.4307846054892018e+34 w_r: inf w_e: 1.3676970481872559e+01 w_diff: inf h_r: inf h_e: 3.6493453979492188e+01 h_diff: inf
+#ERR image_list_position: [608] probs: [40,1]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [40,3]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [40,5]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [40,6]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [40,7]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [40,10]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [40,11]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [40,13]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [40,14]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [40,17]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [40,18]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] boxes: [41]  x_r: 5.1194490389830401e+34 x_e: 5.8747802734375000e+02 x_diff: 5.1194490389830401e+34 y_r: -4.0769825172659098e+33 y_e: 1.0985285186767578e+02 y_diff: 4.0769825172659098e+33 w_r: inf w_e: 2.5519920349121094e+01 w_diff: inf h_r: inf h_e: 6.2825397491455078e+01 h_diff: inf
+#ERR image_list_position: [608] probs: [41,1]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [41,3]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [41,5]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [41,6]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [41,7]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [41,10]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [41,11]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [41,13]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [41,14]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [41,17]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [41,18]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] boxes: [42]  x_r: -7.9555987605767696e+33 x_e: 1.2887031555175781e+01 x_diff: 7.9555987605767696e+33 y_r: -1.0723727390831885e+34 y_e: 1.8954647827148438e+02 y_diff: 1.0723727390831885e+34 w_r: inf w_e: 2.2437845230102539e+01 w_diff: inf h_r: inf h_e: 4.4857582092285156e+01 h_diff: inf
+#ERR image_list_position: [608] probs: [42,2]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [42,4]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [42,10]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [42,13]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [42,18]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [42,19]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] boxes: [43]  x_r: 1.1845917560564004e+34 x_e: 4.2911658287048340e+00 x_diff: 1.1845917560564004e+34 y_r: 5.5139454803259286e+31 y_e: 1.4337133789062500e+02 y_diff: 5.5139454803259286e+31 w_r: inf w_e: 3.0476427078247070e+00 w_diff: inf h_r: inf h_e: 6.7933044433593750e+00 h_diff: inf
+#ERR image_list_position: [608] probs: [43,0]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [43,1]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [43,3]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [43,5]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [43,6]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [43,7]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [43,8]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [43,9]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [43,11]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [43,12]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [43,14]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [43,15]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [43,16]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [43,17]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] boxes: [44]  x_r: 2.3889808968090604e+34 x_e: 6.7601066589355469e+01 x_diff: 2.3889808968090604e+34 y_r: 1.5504557739109038e+34 y_e: 1.9618019104003906e+02 y_diff: 1.5504557739109038e+34 w_r: inf w_e: 4.1165122985839844e+01 w_diff: inf h_r: inf h_e: 5.2680591583251953e+01 h_diff: inf
+#ERR image_list_position: [608] probs: [44,2]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [44,4]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [44,10]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [44,13]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [44,18]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [44,19]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] boxes: [45]  x_r: 1.2978168468995395e+34 x_e: 1.1476233673095703e+02 x_diff: 1.2978168468995395e+34 y_r: 1.4997612627441400e+34 y_e: 1.9343495178222656e+02 y_diff: 1.4997612627441400e+34 w_r: inf w_e: 3.6069080352783203e+01 w_diff: inf h_r: inf h_e: 4.2235839843750000e+01 h_diff: inf
+#ERR image_list_position: [608] probs: [45,0]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [45,1]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [45,3]  prob_r: inf prob_e: 1.6426140209659934e-03
+#ERR image_list_position: [608] probs: [45,5]  prob_r: 0.0000000000000000e+00 prob_e: 1.9905089866369963e-03
+#ERR image_list_position: [608] probs: [45,6]  prob_r: 0.0000000000000000e+00 prob_e: 2.5259133428335190e-02
+#ERR image_list_position: [608] probs: [45,7]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [45,12]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [45,14]  prob_r: inf prob_e: 6.6590905189514160e-03
+#ERR image_list_position: [608] probs: [45,15]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [45,19]  prob_r: 0.0000000000000000e+00 prob_e: 1.3884585350751877e-03
+#ERR image_list_position: [608] boxes: [46]  x_r: 2.0802822265006694e+34 x_e: 1.4727882385253906e+02 x_diff: 2.0802822265006694e+34 y_r: -3.8197534323828792e+33 y_e: 1.9560554504394531e+02 y_diff: 3.8197534323828792e+33 w_r: inf w_e: 4.3314315795898438e+01 w_diff: inf h_r: inf h_e: 4.0204223632812500e+01 h_diff: inf
+#ERR image_list_position: [608] probs: [46,0]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [46,1]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [46,3]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [46,7]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [608] probs: [46,12]  prob_r: inf prob_e: 0.0000000000000000e+00
+#SDC Ite:608 KerTime:0.358266 AccTime:217.897267 KerErr:1594 AccErr:1597
+#ABORT too many errors per iteration
+#END

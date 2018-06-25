@@ -1,0 +1,67 @@
+#HEADER iterations: 1000 img_list: /home/carol/radiation-benchmarks/data/networks_img_list/voc.2012.1K.txt board: K40
+#BEGIN Y:2016 M:12 D:14 Time:14:19:28
+#IT Ite:0 KerTime:0.119211 AccTime:0.119211
+#IT Ite:1 KerTime:0.110531 AccTime:0.229742
+#IT Ite:2 KerTime:0.117322 AccTime:0.347064
+#IT Ite:3 KerTime:0.117933 AccTime:0.464997
+#IT Ite:4 KerTime:0.118055 AccTime:0.583052
+#IT Ite:5 KerTime:0.118719 AccTime:0.701771
+#IT Ite:6 KerTime:0.118067 AccTime:0.819838
+#IT Ite:7 KerTime:0.118867 AccTime:0.938705
+#IT Ite:8 KerTime:0.117092 AccTime:1.055797
+#IT Ite:9 KerTime:0.125566 AccTime:1.181363
+#IT Ite:10 KerTime:0.116936 AccTime:1.298299
+#IT Ite:11 KerTime:0.116891 AccTime:1.415190
+#IT Ite:12 KerTime:0.130069 AccTime:1.545259
+#IT Ite:13 KerTime:0.115674 AccTime:1.660933
+#IT Ite:14 KerTime:0.120543 AccTime:1.781476
+#IT Ite:15 KerTime:0.110974 AccTime:1.892450
+#IT Ite:16 KerTime:0.119724 AccTime:2.012174
+#IT Ite:17 KerTime:0.118930 AccTime:2.131104
+#IT Ite:18 KerTime:0.134759 AccTime:2.265863
+#IT Ite:19 KerTime:0.119200 AccTime:2.385063
+#IT Ite:20 KerTime:0.122471 AccTime:2.507534
+#IT Ite:21 KerTime:0.119234 AccTime:2.626768
+#IT Ite:22 KerTime:0.126741 AccTime:2.753509
+#IT Ite:23 KerTime:0.109557 AccTime:2.863066
+#IT Ite:24 KerTime:0.096482 AccTime:2.959548
+#IT Ite:25 KerTime:0.118468 AccTime:3.078016
+#IT Ite:26 KerTime:0.116510 AccTime:3.194526
+#IT Ite:27 KerTime:0.125196 AccTime:3.319722
+#IT Ite:28 KerTime:0.117845 AccTime:3.437567
+#IT Ite:29 KerTime:0.124983 AccTime:3.562550
+#IT Ite:30 KerTime:0.125043 AccTime:3.687593
+#IT Ite:31 KerTime:0.111113 AccTime:3.798706
+#IT Ite:32 KerTime:0.122801 AccTime:3.921507
+#IT Ite:33 KerTime:0.110195 AccTime:4.031702
+#IT Ite:34 KerTime:0.117514 AccTime:4.149216
+#IT Ite:35 KerTime:0.116085 AccTime:4.265301
+#IT Ite:36 KerTime:0.119429 AccTime:4.384730
+#IT Ite:37 KerTime:0.117820 AccTime:4.502550
+#IT Ite:38 KerTime:0.103492 AccTime:4.606042
+#IT Ite:39 KerTime:0.111759 AccTime:4.717801
+#IT Ite:40 KerTime:0.119478 AccTime:4.837279
+#IT Ite:41 KerTime:0.113073 AccTime:4.950352
+#IT Ite:42 KerTime:0.107064 AccTime:5.057416
+#IT Ite:43 KerTime:0.116538 AccTime:5.173954
+#IT Ite:44 KerTime:0.118987 AccTime:5.292941
+#IT Ite:45 KerTime:0.119198 AccTime:5.412139
+#IT Ite:46 KerTime:0.110939 AccTime:5.523078
+#IT Ite:47 KerTime:0.117195 AccTime:5.640273
+#IT Ite:48 KerTime:0.113083 AccTime:5.753356
+#IT Ite:49 KerTime:0.118858 AccTime:5.872214
+#IT Ite:50 KerTime:0.116018 AccTime:5.988232
+#IT Ite:51 KerTime:0.119288 AccTime:6.107520
+#IT Ite:52 KerTime:0.117800 AccTime:6.225320
+#IT Ite:53 KerTime:0.118586 AccTime:6.343906
+#IT Ite:54 KerTime:0.120276 AccTime:6.464182
+#IT Ite:55 KerTime:0.117091 AccTime:6.581273
+#IT Ite:56 KerTime:0.118844 AccTime:6.700117
+#IT Ite:57 KerTime:0.116924 AccTime:6.817041
+#IT Ite:58 KerTime:0.117815 AccTime:6.934856
+#IT Ite:59 KerTime:0.118456 AccTime:7.053312
+#IT Ite:60 KerTime:0.117970 AccTime:7.171282
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2011_003147.jpg class: sheep box: [32] x1_e: 344.54107666 x1_r: 344.539489746 y1_e: 38.1370506287 y1_r: 38.1361312866 x2_e: 434.079956055 x2_r: 434.082580566 y2_e: 116.14050293 y2_r: 116.1457901 
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2011_003147.jpg class: motorbike box: [29] x1_e: 337.029876709 x1_r: 337.027954102 y1_e: 35.8811683655 y1_r: 35.8801269531 x2_e: 440.903900146 x2_r: 440.906860352 y2_e: 123.698410034 y2_r: 123.704498291 
+#ERR exception: error_network_exection error_info:['Traceback (most recent call last):\n', '  File "/home/carol/radiation-benchmarks/src/cuda/py-faster-rcnn/tools/py_faster_rcnn.py", line 477, in <module>\n    error_count = compare(gold_file[im_name], ret, im_name)\n', '  File "/home/carol/radiation-benchmarks/src/cuda/py-faster-rcnn/tools/py_faster_rcnn.py", line 354, in compare\n    error_count += compare_scores(scrListGold, scrListCurr, i, tempImgName)\n', '  File "/home/carol/radiation-benchmarks/src/cuda/py-faster-rcnn/tools/py_faster_rcnn.py", line 305, in compare_scores\n    lh.log_error_detail("img_name: " + str(img_name) + " class: " + str(cls) + "wrong_score_size: " + scrDiff)\n', "TypeError: cannot concatenate 'str' and 'int' objects\n"] XX Inappropriate argument type. XX cannot concatenate 'str' and 'int' objects
+#END

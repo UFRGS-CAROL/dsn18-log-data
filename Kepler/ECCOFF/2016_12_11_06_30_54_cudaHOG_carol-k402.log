@@ -1,0 +1,19 @@
+#HEADER type: ecc_off dataset: /home/carol/radiation-benchmarks/data/networks_img_list/caltech.pedestrians.critical.1K.txt
+#BEGIN Y:2016 M:12 D:11 Time:06:30:54
+#IT Ite:0 KerTime:0.039124 AccTime:0.039124
+#IT Ite:1 KerTime:0.036525 AccTime:0.075649
+#IT Ite:2 KerTime:0.036560 AccTime:0.112209
+#IT Ite:3 KerTime:0.036461 AccTime:0.148670
+#IT Ite:4 KerTime:0.036645 AccTime:0.185315
+#IT Ite:5 KerTime:0.036591 AccTime:0.221906
+#IT Ite:6 KerTime:0.036601 AccTime:0.258507
+#IT Ite:7 KerTime:0.036502 AccTime:0.295009
+#IT Ite:8 KerTime:0.036569 AccTime:0.331578
+#IT Ite:9 KerTime:0.036637 AccTime:0.368215
+#IT Ite:10 KerTime:0.036547 AccTime:0.404762
+#IT Ite:11 KerTime:0.036525 AccTime:0.441287
+#IT Ite:12 KerTime:0.036488 AccTime:0.477775
+#IT Ite:13 KerTime:0.036611 AccTime:0.514386
+#IT Ite:14 KerTime:0.036576 AccTime:0.550962
+#IT Ite:15 KerTime:0.036549 AccTime:0.587511
+#IT Ite:16 KerTime:0.036539 AccTime:0.624050

@@ -1,0 +1,535 @@
+#HEADER execution_type:yolo execution_model:valid img_list_path:/home/carol/radiation-benchmarks/data/networks_img_list/caltech.pedestrians.1K.txt weights:/home/carol/radiation-benchmarks/data/darknet/yolo.weights config_file:/home/carol/radiation-benchmarks/data/darknet/yolo.cfg iterations:10000 abft: no_abft
+#BEGIN Y:2016 M:12 D:11 Time:17:30:20
+#IT Ite:0 KerTime:0.289394 AccTime:0.289394
+#IT Ite:1 KerTime:0.099590 AccTime:0.388984
+#IT Ite:2 KerTime:0.095425 AccTime:0.484409
+#IT Ite:3 KerTime:0.095809 AccTime:0.580218
+#IT Ite:4 KerTime:0.095516 AccTime:0.675734
+#IT Ite:5 KerTime:0.095361 AccTime:0.771095
+#IT Ite:6 KerTime:0.095723 AccTime:0.866818
+#IT Ite:7 KerTime:0.095657 AccTime:0.962475
+#IT Ite:8 KerTime:0.095494 AccTime:1.057969
+#IT Ite:9 KerTime:0.095642 AccTime:1.153611
+#IT Ite:10 KerTime:0.095646 AccTime:1.249257
+#IT Ite:11 KerTime:0.095499 AccTime:1.344756
+#IT Ite:12 KerTime:0.096214 AccTime:1.440970
+#IT Ite:13 KerTime:0.095621 AccTime:1.536591
+#IT Ite:14 KerTime:0.095502 AccTime:1.632093
+#IT Ite:15 KerTime:0.095179 AccTime:1.727272
+#IT Ite:16 KerTime:0.096158 AccTime:1.823430
+#IT Ite:17 KerTime:0.095715 AccTime:1.919145
+#IT Ite:18 KerTime:0.095562 AccTime:2.014707
+#IT Ite:19 KerTime:0.095660 AccTime:2.110367
+#IT Ite:20 KerTime:0.095654 AccTime:2.206021
+#IT Ite:21 KerTime:0.095214 AccTime:2.301235
+#IT Ite:22 KerTime:0.095920 AccTime:2.397155
+#IT Ite:23 KerTime:0.095375 AccTime:2.492530
+#IT Ite:24 KerTime:0.095221 AccTime:2.587751
+#IT Ite:25 KerTime:0.095686 AccTime:2.683437
+#IT Ite:26 KerTime:0.095709 AccTime:2.779146
+#IT Ite:27 KerTime:0.095168 AccTime:2.874314
+#IT Ite:28 KerTime:0.095341 AccTime:2.969655
+#IT Ite:29 KerTime:0.096235 AccTime:3.065890
+#ERR image_list_position: [29] boxes: [0]  x_r: -9.6819798221353829e+30 x_e: 6.7152066230773926e+00 x_diff: 9.6819798221353829e+30 y_r: 2.1316963287591089e+30 y_e: 4.9818339347839355e+00 y_diff: 2.1316963287591089e+30 w_r: inf w_e: 2.1666510105133057e+00 w_diff: inf h_r: inf h_e: 3.4377186298370361e+00 h_diff: inf
+#ERR image_list_position: [29] probs: [0,0]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [0,3]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [0,4]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [0,5]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [0,6]  prob_r: inf prob_e: 1.1622238671407104e-03
+#ERR image_list_position: [29] probs: [0,7]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [0,10]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [0,11]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [0,12]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [0,17]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [0,18]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] boxes: [1]  x_r: -1.2683178063880747e+31 x_e: 1.4378087997436523e+01 x_diff: 1.2683178063880747e+31 y_r: -8.0680754586377213e+31 y_e: 3.0373983383178711e+01 y_diff: 8.0680754586377213e+31 w_r: inf w_e: 1.7649427413940430e+01 w_diff: inf h_r: inf h_e: 2.7715122222900391e+01 h_diff: inf
+#ERR image_list_position: [29] probs: [1,0]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [1,3]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [1,4]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [1,5]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [1,6]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [1,7]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [1,10]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [1,11]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [1,12]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [1,17]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [1,18]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] boxes: [2]  x_r: -8.3410069038068706e+31 x_e: 4.8073413848876953e+01 x_diff: 8.3410069038068706e+31 y_r: -3.4773682510790269e+31 y_e: 2.4122732162475586e+01 y_diff: 3.4773682510790269e+31 w_r: inf w_e: 3.1145891189575195e+01 w_diff: inf h_r: inf h_e: 2.1730648040771484e+01 h_diff: inf
+#ERR image_list_position: [29] probs: [2,1]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [2,2]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [2,8]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [2,9]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [2,13]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [2,14]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [2,15]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [2,16]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [2,19]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] boxes: [3]  x_r: 8.7878649350404111e+30 x_e: 1.3637792968750000e+02 x_diff: 8.7878649350404111e+30 y_r: 2.1752693096208786e+31 y_e: 2.9825012207031250e+01 y_diff: 2.1752693096208786e+31 w_r: inf w_e: 7.7294670104980469e+01 w_diff: inf h_r: inf h_e: 2.1398117065429688e+01 h_diff: inf
+#ERR image_list_position: [29] probs: [3,2]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [3,3]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [3,6]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [3,8]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [3,14]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [3,17]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [3,19]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] boxes: [4]  x_r: -3.6063744177862514e+31 x_e: 1.1441494750976562e+02 x_diff: 3.6063744177862514e+31 y_r: 8.4946363507154239e+30 y_e: 1.3102327346801758e+01 y_diff: 8.4946363507154239e+30 w_r: inf w_e: 3.1883808135986328e+01 w_diff: inf h_r: inf h_e: 1.1423478126525879e+01 h_diff: inf
+#ERR image_list_position: [29] probs: [4,0]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [4,1]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [4,4]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [4,5]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [4,7]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [4,9]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [4,10]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [4,11]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [4,12]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [4,13]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [4,15]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [4,16]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [4,18]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] boxes: [5]  x_r: -8.1366084962110189e+31 x_e: 1.0094212341308594e+02 x_diff: 8.1366084962110189e+31 y_r: -2.2459711601145649e+31 y_e: 4.8634591102600098e+00 y_diff: 2.2459711601145649e+31 w_r: inf w_e: 7.3580551147460938e+00 w_diff: inf h_r: inf h_e: 1.5392717123031616e+00 h_diff: inf
+#ERR image_list_position: [29] probs: [5,0]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [5,1]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [5,4]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [5,5]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [5,7]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [5,9]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [5,10]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [5,11]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [5,12]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [5,13]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [5,15]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [5,16]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [5,18]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] boxes: [6]  x_r: -5.8736323437325907e+31 x_e: 2.0542912292480469e+02 x_diff: 5.8736323437325907e+31 y_r: -3.9638349234035113e+31 y_e: 1.2341601371765137e+01 y_diff: 3.9638349234035113e+31 w_r: inf w_e: 3.1309658050537109e+01 w_diff: inf h_r: inf h_e: 1.1300416946411133e+01 h_diff: inf
+#ERR image_list_position: [29] probs: [6,1]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [6,2]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [6,3]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [6,4]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [6,6]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [6,7]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [6,8]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [6,10]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [6,12]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [6,13]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [6,14]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [6,15]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [6,16]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [6,17]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [6,18]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] boxes: [7]  x_r: -8.7780645360985412e+31 x_e: 2.2223962402343750e+02 x_diff: 8.7780645360985412e+31 y_r: -7.7385620538702387e+30 y_e: 2.8933008193969727e+01 y_diff: 7.7385620538702387e+30 w_r: inf w_e: 7.1646316528320312e+01 w_diff: inf h_r: inf h_e: 2.3018808364868164e+01 h_diff: inf
+#ERR image_list_position: [29] probs: [7,1]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [7,2]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [7,3]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [7,4]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [7,6]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [7,7]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [7,8]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [7,10]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [7,12]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [7,13]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [7,14]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [7,15]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [7,16]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [7,17]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [7,18]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] boxes: [8]  x_r: -7.8807340272159764e+31 x_e: 1.8491099548339844e+02 x_diff: 7.8807340272159764e+31 y_r: -1.1175184094885210e+30 y_e: 4.4081223011016846e-01 y_diff: 1.1175184094885210e+30 w_r: inf w_e: 4.7180783748626709e-01 w_diff: inf h_r: inf h_e: 8.4637379646301270e-01 h_diff: inf
+#ERR image_list_position: [29] probs: [8,1]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [8,2]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [8,3]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [8,4]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [8,6]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [8,7]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [8,8]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [8,10]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [8,12]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [8,13]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [8,14]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [8,15]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [8,16]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [8,17]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [8,18]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] boxes: [9]  x_r: -4.7380027294205408e+31 x_e: 2.7939474487304688e+02 x_diff: 4.7380027294205408e+31 y_r: -3.1527286307533207e+30 y_e: 1.4703348875045776e+00 y_diff: 3.1527286307533207e+30 w_r: inf w_e: 7.5670557022094727e+00 w_diff: inf h_r: inf h_e: 1.9320443272590637e-01 h_diff: inf
+#ERR image_list_position: [29] probs: [9,1]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [9,2]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [9,4]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [9,6]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [9,7]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [9,8]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [9,9]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [9,10]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [9,11]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [9,12]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [9,14]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [9,15]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [9,16]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [9,18]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [9,19]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] boxes: [10]  x_r: -7.7305738347319711e+31 x_e: 3.1475408935546875e+02 x_diff: 7.7305738347319711e+31 y_r: 1.1339157201775822e+31 y_e: 2.4000829696655273e+01 y_diff: 1.1339157201775822e+31 w_r: inf w_e: 1.0681317901611328e+02 w_diff: inf h_r: inf h_e: 3.2550254821777344e+01 h_diff: inf
+#ERR image_list_position: [29] probs: [10,1]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [10,2]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [10,4]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [10,6]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [10,7]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [10,8]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [10,9]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [10,10]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [10,11]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [10,12]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [10,14]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [10,15]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [10,16]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [10,18]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [10,19]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] boxes: [11]  x_r: -9.4089506957600088e+31 x_e: 3.0324362182617188e+02 x_diff: 9.4089506957600088e+31 y_r: -2.2079584219980943e+31 y_e: 1.0670193672180176e+01 y_diff: 2.2079584219980943e+31 w_r: inf w_e: 3.2954677581787109e+01 w_diff: inf h_r: inf h_e: 1.2705711364746094e+01 h_diff: inf
+#ERR image_list_position: [29] probs: [11,1]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [11,2]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [11,4]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [11,6]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [11,7]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [11,8]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [11,9]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [11,10]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [11,11]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [11,12]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [11,14]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [11,15]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [11,16]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [11,18]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [11,19]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] boxes: [12]  x_r: -2.5420694925501533e+31 x_e: 3.7709866333007812e+02 x_diff: 2.5420694925501533e+31 y_r: 3.9087898711996541e+31 y_e: 1.8139703273773193e+00 y_diff: 3.9087898711996541e+31 w_r: inf w_e: 3.7878775596618652e+00 w_diff: inf h_r: inf h_e: 3.4121015667915344e-01 h_diff: inf
+#ERR image_list_position: [29] probs: [12,1]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [12,2]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [12,6]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [12,8]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [12,15]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [12,16]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [12,17]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] boxes: [13]  x_r: 4.1721396121077017e+30 x_e: 4.0638449096679688e+02 x_diff: 4.1721396121077017e+30 y_r: -8.8896504444228648e+30 y_e: 2.9922628402709961e+01 y_diff: 8.8896504444228648e+30 w_r: inf w_e: 9.1586776733398438e+01 w_diff: inf h_r: inf h_e: 3.4825824737548828e+01 h_diff: inf
+#ERR image_list_position: [29] probs: [13,1]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [13,2]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [13,6]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [13,8]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [13,15]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [13,16]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [13,17]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] boxes: [14]  x_r: -8.1513844711486768e+31 x_e: 3.8710632324218750e+02 x_diff: 8.1513844711486768e+31 y_r: 1.8462878322140265e+31 y_e: 6.1834869384765625e+00 y_diff: 1.8462878322140265e+31 w_r: inf w_e: 2.9955156326293945e+01 w_diff: inf h_r: inf h_e: 9.0873785018920898e+00 h_diff: inf
+#ERR image_list_position: [29] probs: [14,0]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [14,3]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [14,4]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [14,5]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [14,7]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [14,9]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [14,10]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [14,11]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [14,12]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [14,13]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [14,14]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [14,18]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [14,19]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] boxes: [15]  x_r: 3.2272780085605125e+31 x_e: 4.6240057373046875e+02 x_diff: 3.2272780085605125e+31 y_r: -1.8259342362224126e+31 y_e: 1.1188536882400513e+00 y_diff: 1.8259342362224126e+31 w_r: inf w_e: 1.3757608830928802e-01 w_diff: inf h_r: inf h_e: 2.0379714667797089e-01 h_diff: inf
+#ERR image_list_position: [29] probs: [15,1]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [15,2]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [15,6]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [15,7]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [15,8]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [15,9]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [15,11]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [15,12]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [15,14]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [15,15]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [15,16]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [15,18]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [15,19]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] boxes: [16]  x_r: -7.5718892645086992e+31 x_e: 4.7821456909179688e+02 x_diff: 7.5718892645086992e+31 y_r: -1.8326070231763575e+31 y_e: 1.2397771835327148e+01 y_diff: 1.8326070231763575e+31 w_r: inf w_e: 3.0094743728637695e+01 w_diff: inf h_r: inf h_e: 1.5656878471374512e+01 h_diff: inf
+#ERR image_list_position: [29] probs: [16,0]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [16,3]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [16,4]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [16,5]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [16,10]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [16,13]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [16,17]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] boxes: [17]  x_r: -5.1645707541605792e+31 x_e: 5.0096887207031250e+02 x_diff: 5.1645707541605792e+31 y_r: -7.1501226095538423e+31 y_e: 2.8013557434082031e+01 y_diff: 7.1501226095538423e+31 w_r: inf w_e: 8.9944419860839844e+01 w_diff: inf h_r: inf h_e: 3.2215347290039062e+01 h_diff: inf
+#ERR image_list_position: [29] probs: [17,0]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [17,3]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [17,4]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [17,5]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [17,10]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [17,13]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [17,17]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] boxes: [18]  x_r: -3.7706393895928645e+31 x_e: 5.5459149169921875e+02 x_diff: 3.7706393895928645e+31 y_r: -2.3117587271515177e+31 y_e: 2.1795744895935059e+00 y_diff: 2.3117587271515177e+31 w_r: inf w_e: 4.3717007637023926e+00 w_diff: inf h_r: inf h_e: 2.5102084875106812e-01 h_diff: inf
+#ERR image_list_position: [29] probs: [18,0]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [18,3]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [18,4]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [18,7]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [18,10]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [18,12]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [18,13]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [18,15]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [18,18]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [18,19]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] boxes: [19]  x_r: 5.6759454087169116e+31 x_e: 5.9372448730468750e+02 x_diff: 5.6759454087169116e+31 y_r: 2.2838214186008793e+31 y_e: 2.6628547668457031e+01 y_diff: 2.2838214186008793e+31 w_r: inf w_e: 4.9651885986328125e+01 w_diff: inf h_r: inf h_e: 2.2491783142089844e+01 h_diff: inf
+#ERR image_list_position: [29] probs: [19,1]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [19,2]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [19,5]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [19,6]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [19,8]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [19,9]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [19,11]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [19,14]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [19,16]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [19,17]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] boxes: [20]  x_r: -1.7262613488882519e+32 x_e: 5.7222619628906250e+02 x_diff: 1.7262613488882519e+32 y_r: -4.2652310105658149e+31 y_e: 1.1294428825378418e+01 y_diff: 4.2652310105658149e+31 w_r: inf w_e: 1.5029405593872070e+01 w_diff: inf h_r: inf h_e: 1.3736280441284180e+01 h_diff: inf
+#ERR image_list_position: [29] probs: [20,1]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [20,2]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [20,5]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [20,6]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [20,8]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [20,9]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [20,11]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [20,14]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [20,16]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [20,17]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] boxes: [21]  x_r: -4.3545111494850109e+31 x_e: 1.1712740898132324e+01 x_diff: 4.3545111494850109e+31 y_r: -9.3761191719212425e+31 y_e: 1.0418634796142578e+02 y_diff: 9.3761191719212425e+31 w_r: inf w_e: 1.8668111801147461e+01 w_diff: inf h_r: inf h_e: 3.5745815277099609e+01 h_diff: inf
+#ERR image_list_position: [29] probs: [21,0]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [21,1]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [21,2]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [21,3]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [21,9]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [21,12]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [21,14]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [21,17]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [21,19]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] boxes: [22]  x_r: -7.9732908386766559e+31 x_e: 5.4378952026367188e+01 x_diff: 7.9732908386766559e+31 y_r: -3.4811608931603219e+31 y_e: 1.0442602539062500e+02 y_diff: 3.4811608931603219e+31 w_r: inf w_e: 4.3826950073242188e+01 w_diff: inf h_r: inf h_e: 3.9628711700439453e+01 h_diff: inf
+#ERR image_list_position: [29] probs: [22,4]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [22,5]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [22,6]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [22,7]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [22,8]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [22,10]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [22,11]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [22,13]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [22,15]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [22,16]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [22,18]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] boxes: [23]  x_r: 4.4652202239123681e+31 x_e: 9.9710388183593750e+00 x_diff: 4.4652202239123681e+31 y_r: -4.2711702817787086e+30 y_e: 9.2402198791503906e+01 y_diff: 4.2711702817787086e+30 w_r: inf w_e: 8.4831390380859375e+00 w_diff: inf h_r: inf h_e: 1.5723572731018066e+01 h_diff: inf
+#ERR image_list_position: [29] probs: [23,0]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [23,1]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [23,2]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [23,3]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [23,9]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [23,12]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [23,14]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [23,17]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [23,19]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] boxes: [24]  x_r: -3.4565580438053446e+31 x_e: 9.3217430114746094e+01 x_diff: 3.4565580438053446e+31 y_r: 2.2006569936179498e+31 y_e: 6.7363006591796875e+01 y_diff: 2.2006569936179498e+31 w_r: inf w_e: 1.3321766257286072e-01 w_diff: inf h_r: inf h_e: 8.2299835979938507e-02 h_diff: inf
+#ERR image_list_position: [29] probs: [24,0]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [24,1]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [24,4]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [24,6]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [24,7]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [24,8]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [24,12]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [24,14]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [24,15]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [24,17]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [24,18]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] boxes: [25]  x_r: -5.2250420887952426e+28 x_e: 1.0249727630615234e+02 x_diff: 5.2250420887952426e+28 y_r: 1.9708860135977722e+31 y_e: 9.2712745666503906e+01 y_diff: 1.9708860135977722e+31 w_r: inf w_e: 2.1135440826416016e+01 w_diff: inf h_r: inf h_e: 1.3893854141235352e+01 h_diff: inf
+#ERR image_list_position: [29] probs: [25,0]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [25,1]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [25,4]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [25,6]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [25,7]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [25,8]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [25,12]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [25,14]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [25,15]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [25,17]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [25,18]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] boxes: [26]  x_r: -2.2676638832365659e+31 x_e: 1.3613220214843750e+02 x_diff: 2.2676638832365659e+31 y_r: -6.6153958602955058e+31 y_e: 1.0137258911132812e+02 y_diff: 6.6153958602955058e+31 w_r: inf w_e: 6.7158119201660156e+01 w_diff: inf h_r: inf h_e: 5.1483135223388672e+01 h_diff: inf
+#ERR image_list_position: [29] probs: [26,2]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [26,3]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [26,5]  prob_r: inf prob_e: 1.8424721201881766e-03
+#ERR image_list_position: [29] probs: [26,6]  prob_r: 0.0000000000000000e+00 prob_e: 3.1242037657648325e-03
+#ERR image_list_position: [29] probs: [26,9]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [26,10]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [26,11]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [26,13]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [26,14]  prob_r: 0.0000000000000000e+00 prob_e: 2.0823441445827484e-03
+#ERR image_list_position: [29] probs: [26,16]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [26,19]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] boxes: [27]  x_r: -4.6966434428502130e+31 x_e: 1.9946690368652344e+02 x_diff: 4.6966434428502130e+31 y_r: -3.4864144012020392e+31 y_e: 9.5791358947753906e+01 y_diff: 3.4864144012020392e+31 w_r: inf w_e: 1.5531424522399902e+01 w_diff: inf h_r: inf h_e: 1.3254342079162598e+01 h_diff: inf
+#ERR image_list_position: [29] probs: [27,2]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [27,3]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [27,5]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [27,6]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [27,7]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [27,8]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [27,9]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [27,11]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [27,14]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [27,16]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] boxes: [28]  x_r: -1.7131351708381057e+31 x_e: 1.8511671447753906e+02 x_diff: 1.7131351708381057e+31 y_r: -1.9886791953728787e+30 y_e: 6.8307479858398438e+01 y_diff: 1.9886791953728787e+30 w_r: inf w_e: 1.3500773906707764e-01 w_diff: inf h_r: inf h_e: 1.7403215169906616e-02 h_diff: inf
+#ERR image_list_position: [29] probs: [28,2]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [28,3]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [28,5]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [28,6]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [28,7]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [28,8]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [28,9]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [28,11]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [28,14]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [28,16]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] boxes: [29]  x_r: -3.0814542329914649e+31 x_e: 2.2453160095214844e+02 x_diff: 3.0814542329914649e+31 y_r: 1.3250685320308262e+31 y_e: 1.0577873229980469e+02 y_diff: 1.3250685320308262e+31 w_r: inf w_e: 8.5891464233398438e+01 w_diff: inf h_r: inf h_e: 6.3088195800781250e+01 h_diff: inf
+#ERR image_list_position: [29] probs: [29,2]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [29,3]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [29,5]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [29,6]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [29,7]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [29,8]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [29,9]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [29,11]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [29,14]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [29,16]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] boxes: [30]  x_r: -5.8886631602330233e+31 x_e: 2.9746655273437500e+02 x_diff: 5.8886631602330233e+31 y_r: -3.6559858320012687e+31 y_e: 9.7812782287597656e+01 y_diff: 3.6559858320012687e+31 w_r: inf w_e: 3.0392635345458984e+01 w_diff: inf h_r: inf h_e: 2.2052125930786133e+01 h_diff: inf
+#ERR image_list_position: [29] probs: [30,1]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [30,2]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [30,4]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [30,5]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [30,6]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [30,7]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [30,8]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [30,9]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [30,10]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [30,14]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [30,15]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [30,16]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] boxes: [31]  x_r: -4.7579824046561479e+31 x_e: 3.2248022460937500e+02 x_diff: 4.7579824046561479e+31 y_r: -5.4406284814992519e+31 y_e: 1.0906478118896484e+02 y_diff: 5.4406284814992519e+31 w_r: inf w_e: 1.2014313507080078e+02 w_diff: inf h_r: inf h_e: 7.5772682189941406e+01 h_diff: inf
+#ERR image_list_position: [29] probs: [31,1]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [31,2]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [31,4]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [31,5]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [31,6]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [31,7]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [31,8]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [31,9]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [31,10]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [31,14]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [31,15]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [31,16]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] boxes: [32]  x_r: 9.4216684744897727e+30 x_e: 2.7415573120117188e+02 x_diff: 9.4216684744897727e+30 y_r: 1.6155567233079109e+31 y_e: 6.6416030883789062e+01 y_diff: 1.6155567233079109e+31 w_r: inf w_e: 5.2057980792596936e-04 w_diff: inf h_r: inf h_e: 1.7228491604328156e-02 h_diff: inf
+#ERR image_list_position: [29] probs: [32,0]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [32,3]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [32,11]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [32,12]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [32,13]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [32,17]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [32,18]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [32,19]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] boxes: [33]  x_r: -1.3704281541382589e+31 x_e: 3.7589071655273438e+02 x_diff: 1.3704281541382589e+31 y_r: -5.0650824456205572e+31 y_e: 9.4927574157714844e+01 y_diff: 5.0650824456205572e+31 w_r: inf w_e: 1.6898845672607422e+01 w_diff: inf h_r: inf h_e: 1.3925848007202148e+01 h_diff: inf
+#ERR image_list_position: [29] probs: [33,0]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [33,1]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [33,3]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [33,4]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [33,5]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [33,7]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [33,9]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [33,10]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [33,12]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [33,13]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [33,15]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [33,17]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [33,19]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] boxes: [34]  x_r: 5.1569293758399590e+31 x_e: 3.6584204101562500e+02 x_diff: 5.1569293758399590e+31 y_r: -2.1468648721335411e+31 y_e: 6.8309989929199219e+01 y_diff: 2.1468648721335411e+31 w_r: inf w_e: 2.7317032217979431e-03 w_diff: inf h_r: inf h_e: 2.0634149014949799e-01 h_diff: inf
+#ERR image_list_position: [29] probs: [34,2]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [34,6]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [34,8]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [34,11]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [34,14]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [34,16]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [34,18]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] boxes: [35]  x_r: -4.5979041847480242e+31 x_e: 4.1560836791992188e+02 x_diff: 4.5979041847480242e+31 y_r: -2.5328328157179697e+31 y_e: 1.0734464263916016e+02 y_diff: 2.5328328157179697e+31 w_r: inf w_e: 1.4348220825195312e+02 w_diff: inf h_r: inf h_e: 8.5911857604980469e+01 h_diff: inf
+#ERR image_list_position: [29] probs: [35,2]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [35,6]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [35,8]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [35,11]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [35,14]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [35,16]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [35,18]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] boxes: [36]  x_r: -2.6335215875968690e+31 x_e: 4.5929519653320312e+02 x_diff: 2.6335215875968690e+31 y_r: 1.8577690007229066e+31 y_e: 6.7109252929687500e+01 y_diff: 1.8577690007229066e+31 w_r: inf w_e: 3.8067784160375595e-02 w_diff: inf h_r: inf h_e: 2.8461673855781555e-01 h_diff: inf
+#ERR image_list_position: [29] probs: [36,2]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [36,4]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [36,6]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [36,14]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [36,15]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [36,16]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [36,17]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] boxes: [37]  x_r: -1.4093565326705056e+31 x_e: 4.7104409790039062e+02 x_diff: 1.4093565326705056e+31 y_r: -4.4029837555779513e+31 y_e: 9.1306488037109375e+01 y_diff: 4.4029837555779513e+31 w_r: inf w_e: 1.4351675987243652e+01 w_diff: inf h_r: inf h_e: 1.2636286735534668e+01 h_diff: inf
+#ERR image_list_position: [29] probs: [37,2]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [37,4]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [37,6]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [37,14]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [37,15]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [37,16]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [37,17]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] boxes: [38]  x_r: -7.2516989747695027e+31 x_e: 4.9757495117187500e+02 x_diff: 7.2516989747695027e+31 y_r: -1.1504472730119681e+32 y_e: 1.0876568603515625e+02 y_diff: 1.1504472730119681e+32 w_r: inf w_e: 1.0654635620117188e+02 w_diff: inf h_r: inf h_e: 6.7869918823242188e+01 h_diff: inf
+#ERR image_list_position: [29] probs: [38,2]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [38,4]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [38,6]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [38,14]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [38,15]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [38,16]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [38,17]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] boxes: [39]  x_r: -1.6668590620668232e+30 x_e: 5.5208459472656250e+02 x_diff: 1.6668590620668232e+30 y_r: -4.1639630423267382e+30 y_e: 7.0141426086425781e+01 y_diff: 4.1639630423267382e+30 w_r: inf w_e: 4.3116241693496704e-01 w_diff: inf h_r: inf h_e: 1.5700094699859619e+00 h_diff: inf
+#ERR image_list_position: [29] probs: [39,0]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [39,3]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [39,7]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [39,9]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [39,10]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [39,11]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [39,12]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [39,13]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [39,18]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [39,19]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] boxes: [40]  x_r: -8.0896054603444022e+31 x_e: 5.9691406250000000e+02 x_diff: 8.0896054603444022e+31 y_r: -2.3680412358243325e+31 y_e: 9.6436866760253906e+01 y_diff: 2.3680412358243325e+31 w_r: inf w_e: 8.0150804519653320e+00 w_diff: inf h_r: inf h_e: 1.5009433746337891e+01 h_diff: inf
+#ERR image_list_position: [29] probs: [40,0]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [40,3]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [40,7]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [40,9]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [40,10]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [40,11]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [40,12]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [40,13]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [40,18]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [40,19]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] boxes: [41]  x_r: -5.2004492546351022e+31 x_e: 5.9023107910156250e+02 x_diff: 5.2004492546351022e+31 y_r: -6.1824998342452766e+31 y_e: 1.0868256378173828e+02 y_diff: 6.1824998342452766e+31 w_r: inf w_e: 4.8055023193359375e+01 w_diff: inf h_r: inf h_e: 7.0929794311523438e+01 h_diff: inf
+#ERR image_list_position: [29] probs: [41,1]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [41,2]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [41,4]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [41,5]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [41,6]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [41,8]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [41,14]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [41,15]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [41,16]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [41,17]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] boxes: [42]  x_r: -4.8725218396503720e+31 x_e: 1.7477008819580078e+01 x_diff: 4.8725218396503720e+31 y_r: -8.5854681459240954e+31 y_e: 1.9085597229003906e+02 y_diff: 8.5854681459240954e+31 w_r: inf w_e: 2.3920972824096680e+01 w_diff: inf h_r: inf h_e: 3.5254013061523438e+01 h_diff: inf
+#ERR image_list_position: [29] probs: [42,0]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [42,1]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [42,3]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [42,5]  prob_r: inf prob_e: 5.1664672791957855e-03
+#ERR image_list_position: [29] probs: [42,6]  prob_r: inf prob_e: 1.1464914306998253e-02
+#ERR image_list_position: [29] probs: [42,8]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [42,10]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [42,14]  prob_r: 0.0000000000000000e+00 prob_e: 1.1560538550838828e-03
+#ERR image_list_position: [29] boxes: [43]  x_r: -3.1372959673104482e+31 x_e: 3.1176128387451172e+00 x_diff: 3.1372959673104482e+31 y_r: -1.1227733077949309e+30 y_e: 1.4253648376464844e+02 y_diff: 1.1227733077949309e+30 w_r: inf w_e: 5.3155070543289185e-01 w_diff: inf h_r: inf h_e: 8.9950084686279297e+00 h_diff: inf
+#ERR image_list_position: [29] probs: [43,2]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [43,4]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [43,7]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [43,9]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [43,11]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [43,12]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [43,13]  prob_r: inf prob_e: 0.0000000000000000e+00
+#ERR image_list_position: [29] probs: [43,14]  prob_r: inf prob_e: 0.0000000000000000e+00
+#SDC Ite:29 KerTime:0.096235 AccTime:3.065890 KerErr:1638 AccErr:1638
+#ABORT too many errors per iteration
+#END

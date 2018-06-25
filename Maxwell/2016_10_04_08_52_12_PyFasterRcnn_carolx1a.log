@@ -1,0 +1,5 @@
+#HEADER iterations: 10000 img_list: /home/carol/radiation-benchmarks/data/networks_img_list/voc/X1/voc.2012.1K.txt board: X1
+#BEGIN Y:2016 M:10 D:04 Time:08:52:12
+#IT Ite:0 KerTime:2.242500 AccTime:2.242500
+#ERR exception: error_network_exection error_info:['Traceback (most recent call last):\n', '  File "/home/carol/radiation-benchmarks/src/cuda/py-faster-rcnn/tools/py_faster_rcnn.py", line 325, in <module>\n    error_count = compare(gold_file[im_name], ret, im_name)\n', "TypeError: 'NoneType' object has no attribute '__getitem__'\n"] XX Inappropriate argument type. XX 'NoneType' object has no attribute '__getitem__'
+#END

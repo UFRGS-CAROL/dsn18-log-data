@@ -1,0 +1,7 @@
+#HEADER type: ecc_on dataset: /home/carol/radiation-benchmarks/data/networks_img_list/caltech.pedestrians.critical.1K.txt
+#BEGIN Y:2016 M:12 D:12 Time:22:23:17
+#IT Ite:0 KerTime:0.024536 AccTime:0.024536
+#IT Ite:1 KerTime:0.022561 AccTime:0.047097
+#ERR ./hog_hardened_ecc_on/opencv_src/hog.cu:248: error: (-217) unspecified launch failure in function compute_hists_ext
+
+#END

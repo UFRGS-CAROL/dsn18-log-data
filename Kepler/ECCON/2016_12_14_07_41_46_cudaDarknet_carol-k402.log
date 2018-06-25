@@ -1,0 +1,23 @@
+#HEADER execution_type:yolo execution_model:valid img_list_path:/home/carol/radiation-benchmarks/data/networks_img_list/caltech.pedestrians.critical.1K.txt weights:/home/carol/radiation-benchmarks/data/darknet/yolo.weights config_file:/home/carol/radiation-benchmarks/data/darknet/yolo.cfg iterations:10000 abft: no_abft
+#BEGIN Y:2016 M:12 D:14 Time:07:41:46
+#IT Ite:0 KerTime:0.546861 AccTime:0.546861
+#IT Ite:1 KerTime:0.362899 AccTime:0.909760
+#IT Ite:2 KerTime:0.358222 AccTime:1.267982
+#IT Ite:3 KerTime:0.358077 AccTime:1.626059
+#IT Ite:4 KerTime:0.358416 AccTime:1.984475
+#IT Ite:5 KerTime:0.358918 AccTime:2.343393
+#IT Ite:6 KerTime:0.358216 AccTime:2.701609
+#IT Ite:7 KerTime:0.358632 AccTime:3.060241
+#IT Ite:8 KerTime:0.358358 AccTime:3.418599
+#IT Ite:9 KerTime:0.358824 AccTime:3.777423
+#IT Ite:10 KerTime:0.357871 AccTime:4.135294
+#IT Ite:11 KerTime:0.357876 AccTime:4.493170
+#IT Ite:12 KerTime:0.358773 AccTime:4.851943
+#IT Ite:13 KerTime:0.358602 AccTime:5.210545
+#IT Ite:14 KerTime:0.358201 AccTime:5.568746
+#IT Ite:15 KerTime:0.358496 AccTime:5.927242
+#IT Ite:16 KerTime:0.358290 AccTime:6.285532
+#IT Ite:17 KerTime:0.358403 AccTime:6.643935
+#IT Ite:18 KerTime:0.357820 AccTime:7.001755
+#IT Ite:19 KerTime:0.358703 AccTime:7.360458
+#IT Ite:20 KerTime:0.358419 AccTime:7.718877

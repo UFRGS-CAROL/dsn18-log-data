@@ -1,0 +1,4 @@
+#HEADER streams: 1 boxes:10 block_size:192
+#BEGIN Y:2016 M:12 D:14 Time:06:50:20
+#ERR error d_box_gpu cudamalloc
+#END

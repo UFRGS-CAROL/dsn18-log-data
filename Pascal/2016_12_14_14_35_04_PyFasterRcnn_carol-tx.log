@@ -1,0 +1,19 @@
+#HEADER iterations: 1000 img_list: /home/carol/radiation-benchmarks/data/networks_img_list/voc.2012.1K.txt board: K40
+#BEGIN Y:2016 M:12 D:14 Time:14:35:04
+#IT Ite:0 KerTime:0.127463 AccTime:0.127463
+#IT Ite:1 KerTime:0.110618 AccTime:0.238081
+#IT Ite:2 KerTime:0.118003 AccTime:0.356084
+#IT Ite:3 KerTime:0.117213 AccTime:0.473297
+#IT Ite:4 KerTime:0.118873 AccTime:0.592170
+#IT Ite:5 KerTime:0.116366 AccTime:0.708536
+#IT Ite:6 KerTime:0.117867 AccTime:0.826403
+#IT Ite:7 KerTime:0.117918 AccTime:0.944321
+#IT Ite:8 KerTime:0.117835 AccTime:1.062156
+#IT Ite:9 KerTime:0.126073 AccTime:1.188229
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2012_004164.jpg class: person box: [0] x1_e: 75.7132492065 x1_r: 75.7144699097 y1_e: 158.938369751 y1_r: 158.943939209 x2_e: 223.141906738 x2_r: 223.141723633 y2_e: 454.736450195 y2_r: 454.737030029 
+#SDC Ite:9 KerTime:0.126073 AccTime:1.188229 KerErr:1 AccErr:1
+#IT Ite:10 KerTime:0.119427 AccTime:1.307656
+#ERR img_name: /home/carol/radiation-benchmarks/data/VOC2012/2011_002807.jpg class: chair box: [5] x1_e: 200.603744507 x1_r: 200.605560303 y1_e: 0.799018859863 y1_r: 0.803436279297 x2_e: 307.037445068 x2_r: 307.035125732 y2_e: 195.002105713 y2_r: 194.994400024 
+#SDC Ite:10 KerTime:0.119427 AccTime:1.307656 KerErr:1 AccErr:2
+#ABORT amount of errors equals of the last iteration
+#END

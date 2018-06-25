@@ -1,0 +1,7 @@
+#HEADER iterations: 1000 img_list: /home/carol/radiation-benchmarks/data/networks_img_list/caltech.pedestrians.1K.txt board: K40
+#BEGIN Y:2016 M:12 D:14 Time:14:41:58
+#IT Ite:0 KerTime:0.280875 AccTime:0.280875
+#IT Ite:1 KerTime:0.279064 AccTime:0.559939
+#IT Ite:2 KerTime:0.278092 AccTime:0.838031
+#IT Ite:3 KerTime:0.282939 AccTime:1.120970
+#IT Ite:4 KerTime:0.281447 AccTime:1.402417

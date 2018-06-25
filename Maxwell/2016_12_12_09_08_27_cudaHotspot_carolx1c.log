@@ -1,0 +1,10 @@
+#HEADER streams:1 size:1024 pyramidHeight:1 simTime:1000
+#BEGIN Y:2016 M:12 D:12 Time:09:08:27
+#IT Ite:0 KerTime:13.994643 AccTime:13.994643
+#ERR stream: 0, p: [845, 709], r: 3.0700000000000000e+02, e: 3.0785159301757812e+02
+#SDC Ite:0 KerTime:13.994643 AccTime:13.994643 KerErr:1 AccErr:1
+#IT Ite:1 KerTime:4.837566 AccTime:18.832209
+#ERR stream: 0, p: [845, 709], r: 3.0700000000000000e+02, e: 3.0785159301757812e+02
+#SDC Ite:1 KerTime:4.837566 AccTime:18.832209 KerErr:1 AccErr:2
+#ABORT amount of errors equals of the last iteration
+#END

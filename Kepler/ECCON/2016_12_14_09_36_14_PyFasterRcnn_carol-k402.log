@@ -1,0 +1,20 @@
+#HEADER iterations: 1000 img_list: /home/carol/radiation-benchmarks/data/networks_img_list/voc.2012.1K.txt board: K40
+#BEGIN Y:2016 M:12 D:14 Time:09:36:14
+#IT Ite:0 KerTime:0.269210 AccTime:0.269210
+#IT Ite:1 KerTime:0.259612 AccTime:0.528822
+#IT Ite:2 KerTime:0.291097 AccTime:0.819919
+#IT Ite:3 KerTime:0.270106 AccTime:1.090025
+#IT Ite:4 KerTime:0.271738 AccTime:1.361763
+#IT Ite:5 KerTime:0.271316 AccTime:1.633079
+#IT Ite:6 KerTime:0.265921 AccTime:1.899000
+#IT Ite:7 KerTime:0.271064 AccTime:2.170064
+#IT Ite:8 KerTime:0.270536 AccTime:2.440600
+#IT Ite:9 KerTime:0.293093 AccTime:2.733693
+#IT Ite:10 KerTime:0.266297 AccTime:2.999990
+#IT Ite:11 KerTime:0.265702 AccTime:3.265692
+#IT Ite:12 KerTime:0.290796 AccTime:3.556488
+#IT Ite:13 KerTime:0.267180 AccTime:3.823668
+#IT Ite:14 KerTime:0.265192 AccTime:4.088860
+#IT Ite:15 KerTime:0.258447 AccTime:4.347307
+#IT Ite:16 KerTime:0.282224 AccTime:4.629531
+#IT Ite:17 KerTime:0.265965 AccTime:4.895496

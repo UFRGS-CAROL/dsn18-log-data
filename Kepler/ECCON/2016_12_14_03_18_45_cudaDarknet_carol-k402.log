@@ -1,0 +1,12 @@
+#HEADER execution_type:yolo execution_model:valid img_list_path:/home/carol/radiation-benchmarks/data/networks_img_list/caltech.pedestrians.critical.1K.txt weights:/home/carol/radiation-benchmarks/data/darknet/yolo.weights config_file:/home/carol/radiation-benchmarks/data/darknet/yolo.cfg iterations:10000 abft: no_abft
+#BEGIN Y:2016 M:12 D:14 Time:03:18:45
+#IT Ite:0 KerTime:0.549922 AccTime:0.549922
+#IT Ite:1 KerTime:0.363136 AccTime:0.913058
+#IT Ite:2 KerTime:0.358288 AccTime:1.271346
+#IT Ite:3 KerTime:0.358061 AccTime:1.629407
+#IT Ite:4 KerTime:0.358138 AccTime:1.987545
+#IT Ite:5 KerTime:0.358500 AccTime:2.346045
+#IT Ite:6 KerTime:0.358682 AccTime:2.704727
+#IT Ite:7 KerTime:0.358086 AccTime:3.062813
+#IT Ite:8 KerTime:0.358565 AccTime:3.421378
+#IT Ite:9 KerTime:0.358340 AccTime:3.779718
